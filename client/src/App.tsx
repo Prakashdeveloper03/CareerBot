@@ -1,15 +1,11 @@
-import { useState } from 'react'
+import SidebarWithHeader from "./components/SidebarWithHeader.tsx";
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
-    <>
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-    </>
-  )
+    <div>
+      <SidebarWithHeader />
+    </div>
+  );
 }
 
-export default App
+export default App;
