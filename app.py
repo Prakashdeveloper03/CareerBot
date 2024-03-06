@@ -1,19 +1,18 @@
 import json
 import pickle
 import numpy as np
+import gradio as gr
 import random
-import streamlit as st
-from streamlit_chat import message
 from keras.models import load_model
 import nltk
 from nltk.stem import WordNetLemmatizer
 
 lemmatizer = WordNetLemmatizer()
 
-model = load_model("../models/model.h5")
-intents = json.loads(open("../data/intents.json").read())
-words = pickle.load(open("../models/words.pkl", "rb"))
-classes = pickle.load(open("../models/classes.pkl", "rb"))
+model = load_model("./models/model.keras")
+intents = json.loads(open("./data/intents.json").read())
+words = pickle.load(open("./models/words.pkl", "rb"))
+classes = pickle.load(open("./models/classes.pkl", "rb"))
 
 
 from typing import List, Dict, Any
@@ -120,21 +119,24 @@ def chatbot_response(text: str) -> str:
     res = getResponse(ints, intents)
     return res
 
+def chatbot(message, history):
+    if message.strip() != "":
+        res = chatbot_response(message)
+        return res
 
-def send_message(input_message):
-    msg = input_message.strip()
-    if msg != "":
-        message(msg, is_user=True)
-        res = chatbot_response(msg)
-        message(res)
-
-
-def main():
-    st.title("Chat with Bot")
-    input_message = st.text_input("Enter message:", "")
-    if st.button("Send"):
-        send_message(input_message)
-
-
-if __name__ == "__main__":
-    main()
+iface = gr.ChatInterface(
+    chatbot,
+    chatbot=gr.Chatbot(height=300),
+    textbox=gr.Textbox(
+        placeholder="Ask me a yes or no question", container=False, scale=7
+    ),
+    description="Ask questions about Jobs & Courses",
+    theme="soft",
+    examples=["Do you have any suggestions for a Python course?"],
+    cache_examples=True,
+    retry_btn=None,
+    undo_btn="Delete Previous",
+    clear_btn="Clear",
+    title="Chat with Bot",
+)
+iface.launch()
