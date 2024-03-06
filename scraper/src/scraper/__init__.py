@@ -4,28 +4,26 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from .jobs import JobType, Location
 from .scrapers.indeed import IndeedScraper
-from .scrapers.ziprecruiter import ZipRecruiterScraper
 from .scrapers.glassdoor import GlassdoorScraper
 from .scrapers.linkedin import LinkedInScraper
 from .scrapers import ScraperInput, Site, JobResponse, Country
 from .scrapers.exceptions import (
     LinkedInException,
     IndeedException,
-    ZipRecruiterException,
     GlassdoorException,
 )
 
 
-def scrape_jobs(
-    site_name: str | list[str] | Site | list[Site] | None = None,
+def scrape(
+    sites: str | list[str] | Site | list[Site] | None = None,
     search_term: str | None = None,
     location: str | None = None,
     distance: int | None = None,
     is_remote: bool = False,
     job_type: str | None = None,
     easy_apply: bool | None = None,
-    results_wanted: int = 15,
-    country_indeed: str = "usa",
+    jobs_count: int = 15,
+    country_indeed: str = "india",
     hyperlinks: bool = False,
     proxy: str | None = None,
     description_format: str = "markdown",
@@ -38,12 +36,11 @@ def scrape_jobs(
     SCRAPER_MAPPING = {
         Site.LINKEDIN: LinkedInScraper,
         Site.INDEED: IndeedScraper,
-        Site.ZIP_RECRUITER: ZipRecruiterScraper,
         Site.GLASSDOOR: GlassdoorScraper,
     }
 
-    def map_str_to_site(site_name: str) -> Site:
-        return Site[site_name.upper()]
+    def map_str_to_site(sites: str) -> Site:
+        return Site[sites.upper()]
 
     def get_enum_from_value(value_str):
         for job_type in JobType:
@@ -55,14 +52,14 @@ def scrape_jobs(
 
     def get_site_type():
         site_types = list(Site)
-        if isinstance(site_name, str):
-            site_types = [map_str_to_site(site_name)]
-        elif isinstance(site_name, Site):
-            site_types = [site_name]
-        elif isinstance(site_name, list):
+        if isinstance(sites, str):
+            site_types = [map_str_to_site(sites)]
+        elif isinstance(sites, Site):
+            site_types = [sites]
+        elif isinstance(sites, list):
             site_types = [
                 map_str_to_site(site) if isinstance(site, str) else site
-                for site in site_name
+                for site in sites
             ]
         return site_types
 
@@ -79,7 +76,7 @@ def scrape_jobs(
         easy_apply=easy_apply,
         description_format=description_format,
         linkedin_fetch_description=linkedin_fetch_description,
-        results_wanted=results_wanted,
+        jobs_count=jobs_count,
         linkedin_company_ids=linkedin_company_ids,
         offset=offset,
         hours_old=hours_old,

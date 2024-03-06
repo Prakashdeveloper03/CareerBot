@@ -4,7 +4,6 @@ from ..jobs import Enum, BaseModel, JobType, JobResponse, Country, DescriptionFo
 class Site(Enum):
     LINKEDIN = "linkedin"
     INDEED = "indeed"
-    ZIP_RECRUITER = "zip_recruiter"
     GLASSDOOR = "glassdoor"
 
 

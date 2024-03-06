@@ -27,11 +27,7 @@ class Country(Enum):
     INDIA = ("india", "in", "co.in")
     UK = ("uk,united kingdom", "uk", "co.uk")
     USA = ("usa,us,united states", "www", "com")
-
-    # internal for ziprecruiter
     US_CANADA = ("usa/ca", "www")
-
-    # internal for linkedin
     WORLDWIDE = ("worldwide", "www")
 
     @property
