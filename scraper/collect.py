@@ -128,7 +128,7 @@ for job_role in top_jobs:
     print(f"Found {len(jobs)} jobs for {job_role}")
     print(jobs.head())
     jobs.to_csv(
-        f"./data/{job_role}_jobs.csv",
+        f"../data/jobs/{job_role}.csv",
         quoting=csv.QUOTE_NONNUMERIC,
         escapechar="\\",
         index=False,

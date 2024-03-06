@@ -1,1454 +1,1163 @@
 job_url,site,title,company,company_url,location,job_type,date_posted,interval,min_amount,max_amount,currency,is_remote,num_urgent_words,benefits,emails,description
-https://www.glassdoor.com/job-listing/j?jl=1009144599088,glassdoor,Lead Software Engineer - MAINFRAME,State Farm Mutual Automobile Insurance Company,https://www.glassdoor.com/Overview/W-EI_IE2990.htm,"Richardson, TX",,2024-02-27,yearly,107586.0,138805.0,USD,False,,,,
-https://www.glassdoor.com/job-listing/j?jl=1009144605935,glassdoor,Software Engineer,Blackhawk Network,https://www.glassdoor.com/Overview/W-EI_IE105675.htm,"Coppell, TX",,2024-02-27,yearly,139464.0,168200.0,USD,False,,,,
-https://www.glassdoor.com/job-listing/j?jl=1009141663627,glassdoor,Software Engineer III - AWS & Python,JPMorgan Chase & Co,https://www.glassdoor.com/Overview/W-EI_IE5224839.htm,"Plano, TX",,2024-02-25,yearly,118272.0,149132.0,USD,False,,,,
-https://www.glassdoor.com/job-listing/j?jl=1009140693306,glassdoor,SOFTWARE ENGINEER,Dal-Tile Corporation,https://www.glassdoor.com/Overview/W-EI_IE3143.htm,"Dallas, TX",,2024-02-24,yearly,93335.0,126223.0,USD,False,,,,
-https://www.glassdoor.com/job-listing/j?jl=1009141054931,glassdoor,Senior Software Engineer,Microsoft,https://www.glassdoor.com/Overview/W-EI_IE1651.htm,"Dallas, TX",,2024-02-24,yearly,112000.0,218400.0,USD,False,,,,
-https://www.glassdoor.com/job-listing/j?jl=1009137120978,glassdoor,"Staff Software Engineer, Payments","Crunchyroll, LLC",https://www.glassdoor.com/Overview/W-EI_IE282440.htm,"Dallas, TX",,2024-02-22,yearly,137338.0,190904.0,USD,False,,,,
-https://www.glassdoor.com/job-listing/j?jl=1009133746606,glassdoor,Junior Software Engineer,G-Research,https://www.glassdoor.com/Overview/W-EI_IE297747.htm,"Dallas, TX",,2024-02-20,yearly,88728.0,140440.0,USD,False,,,,
-https://www.glassdoor.com/job-listing/j?jl=1009129375915,glassdoor,QA Manual Software Test Engineer,Craftable,https://www.glassdoor.com/Overview/W-EI_IE4953277.htm,"Farmers Branch, TX",,2024-02-17,yearly,60000.0,80000.0,USD,False,,,,
-https://www.glassdoor.com/job-listing/j?jl=1009101191789,glassdoor,Associate Software Engineer,"Vizient, Inc.",https://www.glassdoor.com/Overview/W-EI_IE1180322.htm,"Irving, TX",,2024-02-01,yearly,59600.0,86450.0,USD,False,,,,
-https://www.glassdoor.com/job-listing/j?jl=1009081003662,glassdoor,Software Quality Engineer,LKQ,https://www.glassdoor.com/Overview/W-EI_IE20395.htm,"Grand Prairie, TX",,2024-01-19,yearly,83682.0,109530.0,USD,False,,,,
-https://www.indeed.com/viewjob?jk=23aaeb7e3cdce98b,indeed,Software Engineer,Southwest Airlines,https://www.indeed.com/cmp/Southwest-Airlines,"Dallas, TX, USA",fulltime,2024-02-26,yearly,,,USD,True,0,,,"**Department:** Technology  
+https://www.glassdoor.com/job-listing/j?jl=1009159834740,glassdoor,"Software Engineer (C#, Angular, Typescript) - Hybrid Role",OpenTeams,https://www.glassdoor.com/Overview/W-EI_IE5400919.htm,"Dallas, TX",,2024-03-06,yearly,85528.0,134950.0,USD,False,,,,
+https://www.glassdoor.com/job-listing/j?jl=1009157258476,glassdoor,Software Engineer,PropelSys,https://www.glassdoor.com/Overview/W-EI_IE269726.htm,"Plano, TX",,2024-03-05,,,,,False,,,,
+https://www.glassdoor.com/job-listing/j?jl=1009150154535,glassdoor,Software Engineer,Intone Networks,https://www.glassdoor.com/Overview/W-EI_IE375310.htm,"Dallas, TX",,2024-03-01,yearly,89228.0,131317.0,USD,False,,,,
+https://www.glassdoor.com/job-listing/j?jl=1009133746606,glassdoor,Junior Software Engineer,G-Research,https://www.glassdoor.com/Overview/W-EI_IE297747.htm,"Dallas, TX",,2024-02-20,yearly,88818.0,140389.0,USD,False,,,,
+https://www.glassdoor.com/job-listing/j?jl=1009125574173,glassdoor,Software Engineer,G-Research,https://www.glassdoor.com/Overview/W-EI_IE297747.htm,"Dallas, TX",,2024-02-14,yearly,105323.0,143443.0,USD,False,,,,
+https://www.glassdoor.com/job-listing/j?jl=1009105245949,glassdoor,Software Engineer (Back-end),DerbySoft,https://www.glassdoor.com/Overview/W-EI_IE790264.htm,"Dallas, TX",,2024-02-02,yearly,93035.0,129589.0,USD,False,,,,
+https://www.glassdoor.com/job-listing/j?jl=1009106661013,glassdoor,Software Engineer,Evavi,https://www.glassdoor.com/Overview/W-EI_IE268073.htm,"Dallas, TX",,2024-02-02,yearly,94218.0,138653.0,USD,False,,,,
+https://www.glassdoor.com/job-listing/j?jl=1009086323340,glassdoor,Software Engineer,HRK SYSTEMS INC,,"Farmers Branch, TX",,2024-01-23,yearly,73051.0,97350.0,USD,False,,,,
+https://www.glassdoor.com/job-listing/j?jl=1008985699518,glassdoor,Software Engineer,Diesel Laptops,https://www.glassdoor.com/Overview/W-EI_IE5125748.htm,"Dallas, TX",,2023-11-18,yearly,71556.0,106145.0,USD,False,,,,
+https://www.glassdoor.com/job-listing/j?jl=1006860285408,glassdoor,Java Developer,Kinetix Trading Solutions Inc,https://www.glassdoor.com/Overview/W-EI_IE1297678.htm,"Irving, TX",,2021-01-26,yearly,73248.0,117594.0,USD,False,,,,
+https://www.indeed.com/viewjob?jk=3b33218b31549663,indeed,Java Developer,USAA,https://www.indeed.com/cmp/Usaa,"Plano, TX, USA",,2024-03-06,,,,,True,0,,,"## **Why USAA?**
+
+Let's do something that really matters.  
   
-Our Company Promise  
+At USAA, we have an important mission: facilitating the financial security of
+millions of U.S. military members and their families. Not all of our employees
+served in our nation's military, but we all share in the mission to give back
+to those who did. We're working as one to build a great experience and make a
+real impact for our members.  
   
-We are committed to provide our Employees a stable work environment with equal
-opportunity for learning and personal growth. Creativity and innovation are
-encouraged for improving the effectiveness of Southwest Airlines. Above all,
-Employees will be provided the same concern, respect, and caring attitude
-within the organization that they are expected to share externally with every
-Southwest Customer.  
-  
-**Job Description:**  
-Job Summary  
-  
-The People of Southwest Airlines come together to deliver on our Purpose,
-which is to connect People to what’s important in their lives through
-friendly, reliable, and low-cost air travel. This Software Engineer invests in
-our Purpose by supporting the planning and implem entation of the Southwest
-Business Assist – a leading edge Travel Management Portal, a Salesforce
-application, geared to address the needs of our Business Customers . This role
-with work closely with Southwest Business to understand the business needs and
-translate that to requirements for our Technology Teams to implement. The
-Software Engineer is a team player and innovative thinker who looks forward to
-making a meaningful impact on the future of Technology at Southwest as a part
-of this high-performing Team.  
-  
-**Additional Details:**  
-This role is offered as a remote workplace position, which may require travel
-for trainings , meetings, conferences, etc. Outside of those required visits,
-the majority of your working time may be spent in a remote location, away from
-our Corporate Campus. Please note, while this is a remote position, there is
-limited group of states or localities ineligible for Employees to regularly
-perform their work off-site. Those ineligible locations are: Alaska, Delaware,
-New Jersey, North Dakota, South Dakota, Vermont, West Virginia, and Wyoming.  
-  
-U.S. citizenship or current authorization to work in the U.S. required and no
-current or future work authorization sponsorship available .  
-  
-Southwest Airlines is an Equal Opportunity Employer. We continue to look for
-opportunities to reflect the communities we serve, and welcome applicants with
-diverse thoughts, backgrounds, and experiences.  
-Responsibilities  
-Apply knowledge and skills of software development and testing effectively to
-solve a range of problems  
-Work alongside other engineers on the team to elevate technology and
-consistently apply best practices  
-Collaborate closely with customers and cross-functional departments to
-communicate project statuses and proposals  
-Document each aspect of a system or application as a reference for future
-upgrades and maintenance  
-Determine and assess the needs of the user and then create software to meet
-the requirements  
-Identify and resolve issues that arise during the design, testing and
-maintenance processes using problem-solving skills  
-Work in an agile environment to deliver high-quality software  
-Prepare and install solutions by determining and designing system
-specifications, standards, and programming  
-Mentor junior members on the team  
-Improve and expand technical capabilities by continuing their education thru
-reading, workshops, conferences, and/or communities of practice  
-May perform other job duties as directed by Employee's Leaders  
-Knowledge, Skills and Abilities  
-Intermediate knowledge of software development methodologies, practices,
-concepts, and technologies obtained through formal training and / or work
-experience  
-Ability to demonstrate consistent knowledge application, skills of software
-development, and testing to solve a range of problems  
-Intermediate knowledge of at least one required programming language  
-Ability to partner, communicate, and negotiate with various Technology or
-partner Teams  
-Ability to analyze and manage large, complex, and vague Business or technical
-problems, articulating the problem or root cause, and translating the analysis
-into viable solution recommendations  
-Ability to take on multiple assignments, whether administrative or project
-related, while maintaining a successful level of completion in all responsible
-work  
-Ability to mentor others to do the same  
-Ability to develop, present and effectively communicate ideas and strategies
-to a variety of audiences  
-Education  
-**Required:** High School Diploma or GED  
-**Required:** Bachelor's Degree or equivalent work experience; BS, Business,
-Engineering, Computer Science, or Information Systems, or equivalent formal
-training  
-Experience  
-**Required:** Intermediate-level experience, fully functioning broad knowledge
-in software engineering  
-**Required:** Experience and knowledge in software development and
-methodologies  
-**Preferred:** Experience with customization on the Salesforce Lightning
-platform which should include: Lightning Web Components using the Lightning
-Design System framework , Apex, Apex data loader, fl ow, and declarative
-platform tools. (Process Builder, Visual Workfl ow, Lightning App Builder,
-etc.)  
-**Preferred:** Experience using DevOps tools ( e.g. GIT, Jenkins, SonarCube ,
-Salesforce DX, etc.), Service or Sales Cloud, Experience Cloud, and Mobile
-preferred  
-**Preferred:** Experience assisting with Salesforce API integration for
-applications residing on various platforms  
-**Preferred:** Experience working with Cloud based software (Salesforce),
-Jira, Gitlab, DevOps  
-**Preferred:** Experience with AWS integration and Conga ​  
-Licensing/Certification  
-N/A  
-Physical Abilities  
-Ability to perform work duties from [limited space work station/desk/office
-area] for extended periods of time  
-Ability to communicate and interact with others in the English language to
-meet the demands of the job  
-Ability to use a computer and other office productivity tools with sufficient
-speed and accuracy to meet the demands of the job  
-Other Qualifications  
-Must maintain a well-groomed appearance per Company appearance standards as
-described in established guidelines  
-Must be a U.S. citizen or have authorization to work in the United States as
-defined by the Immigration Reform Act of 1986  
-Must be at least 18 years of age  
-Must be able to comply with Company attendance standards as described in
-established guidelines  
-Pay & Benefits  
-C ompetitive market salary from $112,950 per year to $125,500 per year*
-depending on qualifications and experience. For eligible Leadership and
-individual contributor roles, additional bonus opportunities are available and
-awarded at the discretion of the company.  
-  
-**Benefits you'll love:**  
-F ly for free, as a privilege, on any open seat on all Southwest flights (your
-eligible dependents too)  
-U p to a 9.3% 401(k) Company match, dollar for dollar, per paycheck *  
-P otential for annual ProfitSharing contribution toward retirement - when
-Southwest profits, you profit**  
-**Explore more Benefits you’ll love:**
-https://careers.southwestair.com/benefits  
-
-  * Pay amount does not guarantee employment for any particular period of time.
-
-**401(k) match contributions are subject to the plan’s vesting schedule and
-applicable IRS limits  
-***ProfitSharing contributions are subject to plan’s vesting schedule and are
-made at the discretion of the Company.  
-  
-Southwest Airlines is an Equal Opportunity Employer.  
-Please print/save this job description because it won't be available after you
-apply.  
-Job Posting End Date  
-03/07/2024"
-https://www.indeed.com/viewjob?jk=ce52915920da97ae,indeed,Software Engineer,Blackhawk Network,https://www.indeed.com/cmp/Blackhawk-Network,"Coppell, TX, USA",fulltime,2024-02-26,yearly,139464.0,168200.0,USD,False,0,,,"About Blackhawk Network:
-
-Blackhawk Network (BHN) is the leader in global branded payment technologies.
-We strengthen relationships between brands and their customers, employees, and
-partners by transforming transactions into connections. BHN's portfolio
-includes: Gift Card & eGift products, promotions and distribution that grow
-revenue faster; Rewards & Incentives that build loyalty and acquisition and
-are integrated into today's leading platforms; and Payments that enable
-businesses and customers to access and disburse funds in convenient and
-innovative ways. BHN's network spans across the globe with over 400,000
-consumer touchpoints. Learn more at BHN.com.
-
-Requirements (E):
-
-Employer: Blackhawk Network, Inc.
-
-  
-Position: Software Engineer (Job Code 90470)
-
-  
-Duties: Analysis, design, development, code review, and delivery of software
-applications. Develop and implement the business logic. Design and develop the
-user interfaces using data flow diagram, UML, and Web stack. Define and write
-complex SQL queries, procedures, and functions. Develop Amazon Web Services
-(AWS) cloud-based transaction-processing solutions using traditional and
-emerging technologies, and container-based application development. Create
-systems that can be easily triaged to find performance bottlenecks and root
-cause analysis of failure scenarios. Develop products in an agile environment
-and actively participate in standard Scrum/Kanban process including daily
-stand-up meetings, iteration planning, and story grooming. Interface with and
-influence product architects, product owners, and other stakeholders to create
-great technical requirements and evaluate solutions (in-house or vendor).
-Manage the code review to ensure it maintains coding standards. Perform Unit
-Test using the testing tools, involved in performance testing and JVM tuning.
-Responsible for project estimates, deployment, testing, and delivery including
-integration and production within given timelines.
-
-  
-Education Required: Bachelor's degree or foreign equivalent in Computer
-Information Systems, Computer Science, or related field.
-
-  
-Experience Required: 5 years of progressive experience as Senior Programmer
-Analyst, Programmer Analyst, Assistant Consultant, or related occupation.
-
-  
-Special Requirements: Must have at least 3 years of prior work experience in
-each of the following:
-
-  
-
-  * Developing and implementing the business logic using Java/J2EE, Spring, Spring Boot, Hibernate, Web services (REST or SOAP), and Microservices.
-  * Designing and developing the user interfaces using data flow diagram, UML, and Web stack (HTML, CSS, JavaScript, NodeJS, Angular, and TypeScript).
-  * Developing cloud-based transaction processing using AWS technologies including Kinesis, RDS, and EC2.
-  * Developing container-based application using Docker and Kubernetes.
-  * Defining and writing SQL queries, procedures, and functions using MySQL and Oracle.
-  * Performing unit tests using testing tools including Junit and Mockito to automate the testing of individual components.
-
-  
-Position permits telecommuting.
-
-  
-Salary: $139,464 - $168,200 per year
-
-  
-Worksite: 3501 Olympus Blvd., Coppell, TX 75019
-
-**  
-#LI-DNI**
-
-EEO Statement:
-
-Blackhawk Network provides equal employment opportunities to all employees and
-applicants for employment and prohibits discrimination and harassment of any
-type without regard to race, color, religion, age, sex, national origin,
-disability status, genetics, protected veteran status, sexual orientation,
-gender identity or expression, or any other characteristic protected by
-federal, state or local laws. Blackhawk Network believes that diversity leads
-to strength. This policy applies to all terms and conditions of employment,
-including recruiting, hiring, placement, promotion, termination, layoff,
-recall, transfer, leaves of absence, compensation, and training.
-
-  
-Blackhawk Network encourages applicants with previous criminal records to
-apply to all positions and, pursuant to the San Francisco and Los Angeles Fair
-Chance Acts (and other ""Fair Chance"" laws), Blackhawk Network will consider
-for employment qualified applicants with arrest and conviction records. For
-Philadelphia applicants or jobs, please see a copy of Philadelphia's ordinance
-on this topic by clicking this link:
-https://codelibrary.amlegal.com/codes/philadelphia/latest/philadelphia_pa/0-0-0-280104."
-https://www.indeed.com/viewjob?jk=c39b9cb1c72b0684,indeed,Software Engineer,State Farm Mutual Automobile Insurance Company,https://www.indeed.com/cmp/State-Farm-319b4913,"Richardson, TX, USA",fulltime,2024-02-26,,,,,True,1,,,"* Bloomington, Illinois; Richardson, Texas
-  * Technology and UX
-  * Regular Full Time
-  * 36165
-
-  
-
-## **Job Description**
-
-**Overview**
-
-  
-Do you crave innovation and want to work for a company that is the BEST at
-what they do in the industry? Does the opportunity to work in a hybrid
-environment and maintaining a work life balance appeal to you? Then we have
-the perfect job for you! We are seeking software engineers who push the
-envelope and strive to create the best product possible. This position will
-allow you to utilize different technologies, languages, and frameworks to
-drive solutions while working on inclusive teams that foster diversity of
-thought. You will be provided opportunities via in house training programs for
-upskilling to support your development and career goals!
-
-**Work Arrangements** :
-
-**HYBRID** : Qualified candidates (in or near hub locations listed below)
-should plan to spend time working from home and some time working in the
-office as part of our hybrid work environment.
-
-**HUB LOCATIONS** : Richardson, TX or Bloomington, IL
-
-  
-  
-**Grow Your Skills, Grow Your Potential**  
-
-  
-**Responsibilities**
-
-  
-The lead software engineer will be working across data migration and data
-quality teams demonstrating leadership, problem solving, innovation, and
-initiative. The areas of focus will be around mainframe pre-migration, data
-profiling, and data quality (development/testing/processing/support). This
-individual will partner closely with both business & technical teams to
-improve overall data quality on the legacy PMR & FMR systems in support of P&C
-Modernization objectives.
-
-  
-  
-**Qualifications**
-
-  *   
-PL/I and Cobol programming languages
-
-  * Knowledge/Experience with Dataflux
-  * JCL
-  * Syncsort
-  * DB2/SQL
-  * Use of Connect Direct for transmission of production datasets
-  * Ability to work independently and in a team setting
-
-**Additional Skills/Experience preferred:**
-
-  * Auto and Fire knowledge
-  * IBM Data Studio (or other similar software for querying production DB2 data)
-  * Use of IDAA tables and unload flat files
-  * Familiarity with Auto OT800 PMR and OT151 Driver Profile Databases
-  * Familiarity with Group-Agreement & Group-Party tables/datasets
-  * Data Profiling
-  * Use of Excel spreadsheets
-  * Use of Captured Reduced Data for testing
-  * Use of OPPLEX for working with production data
-  * Use of TSDEV for testing new or changed components
-  * Use of TCPLEX for support of system testing
-  * GIT for deployment of components
-  * IMS
-  * Familiarity with BMC Unload Utility for DB2 and IMS
-  * DMS (Dialog Management Services) for maintenance of productivity tools
-  * SPUFI DB2 querying tool
-  * FMDB2 and FMIMS querying tools
-  * Use of Visio
-  * Use of Microsoft Word
-  * Familiarity with use of GDGs
-  * Familiarity with FIT systems for support of performance testing
-  * Use of WinSCP or similar software for transferring datasets between host and laptop hard drive
-  * Familiarity with Control-M for monitoring production jobs
-
-**Join State Farm!**  
-As a Fortune 50 company, we hire the best employees to serve our customers,
-making us a leader in the insurance and financial services industry. State
-Farm embraces diversity and inclusion to ensure a workforce that is engaged,
-builds on the strengths and talents of all associates, and creates a Good
-Neighbor culture.
-
-We offer competitive benefits and pay with the potential for an annual
-financial award based on both individual and enterprise performance. Our
-employees have an opportunity to participate in volunteer events within the
-community and engage in a learning culture. We offer programs to assist with
-tuition reimbursement, professional designations, employee development,
-wellness initiatives, and more!
-
-Visit our Careers page for more information on our benefits, locations, and
-the process of joining the State Farm team!
-
-**SPONSORSHIP** : Applicants are required to be eligible to lawfully work in
-the U.S. immediately; employer will not sponsor applicants for U.S. work
-authorization (e.g. H-1B visa) for this opportunity
-
-**Competitive Benefits including** :  
-
-  * 401k Plan
-  * Health Insurance
-  * Dental/Vision plans
-  * Life Insurance
-  * Paid Time Off
-  * Annual Merit Increases
-  * Tuition Reimbursement
-  * Health Initiatives
-  * For more details visit our Benefits Summary page"
-https://www.indeed.com/viewjob?jk=572f9579957eb784,indeed,C++ Developer,CEDENT,https://www.indeed.com/cmp/Cedent,"Plano, TX, USA",fulltime,2024-02-26,,,,,False,0,,,"**C++ Software Engineer:**
-
-**Requirements:**
-
-    * Bachelor's degree (or Master's degree) in Computer Science or equivalent experience
-    * A quick mind that solves complex problems in a fast-moving environment
-    * Able to learn quickly, independently, and with moderate supervision. You figure out what you need to do and how to do it, then do it.
-    * Great sense of ownership and accountability not just for your own tasks/assignments, but team, organizational and company objectives as a whole
-    * 10+ years of working knowledge in wide variety of platforms and languages such as C++, .NET, Java, Golang, JS, Python, etc.
-    * 5+ years of recent C++ experience or strong desire and aptitude to master C++ on the job
-
-    * Experience in mentoring others on SW Engineering standards and emerging best practices
-    * Able to effectively communicate and convey technical concepts to non-technical audiences
-
-  
-
-Even better if you have:
-
-    * Cloud, Linux and Windows development experience
-    * Test automation experience using gtest, Cucumber, Behave, Gherkin
-    * Computer HW, Networking, TCP/IP Socket level communications experience
-    * Experience in database design and creation of complex SQL queries, stored procedures, triggers and performance optimization
-    * Preferred Retail experience, especially in the Convenience Store industry and Point of Sale systems
-
-  
-
-**The day-to-day:****:**
-
-    * Build high-performing, large scale applications that enable an optimal consumer experience.
-    * Translate what people want (our clients and their customers) into products that work--exceptionally well. You'll make this happen by leading and cooperating with other programmers and quality assurance experts across our company as well as with 3rd party companies/products.
-    * Participate in an agile development team, implementing user stories with automated testing to verify acceptance criteria.
-    * Identify and fix production defects, using modern practices to increase and monitor SW reliability, quality and maintainability.
-
-    * Be part of a global, collaborative team who is always on the hunt for ways to improve and upgrade our products. Here, you'll get the feel of a start-up, but with solid corporate support.
-
-**You Will Enjoy:**
-
-    * An opportunity to be a part of a great culture, an awesome team, a challenging work environment, and some fun along the way!
-    * Bonus
-    * Nationwide relocation
-    * Apply today to learn more and be part of our Growth story.
-
-All applications will be kept strictly confidential and once shortlisted, our
-team will be in touch with you for further discussions."
-https://www.indeed.com/viewjob?jk=97b6a618b3c71b9f,indeed,Front End Developer,AAA Texas,https://www.indeed.com/cmp/Aaa-Texas,"Coppell, TX, USA",,2024-02-26,,,,,False,0,,,"We are seeking a Front-End Developer who embodies the spirit of continuous
-improvement and possesses the technical acumen to design and implement
-enterprise applications within our core product: Property & Casualty Insurance
-(Insurance Sales, Underwriting, and Policy Management). This role is not just
-about writing code; it's about shaping the future of digital experiences and
-enterprise applications to ensur e maximized value for our members and
-business partners .  
-  
-**Responsibilities :**  
-Translate design and business requirements into high-quality code, focusing on
-performance, user experience, and enterprise application functionality.  
-  
-Utilize t ype scripting/ object-oriented programming to design concepts and
-develop new features or enhancements using Agile (Scrum) methodologies.  
-  
-Engage with stakeholders to translate business requirements into well-
-architected solutions.  
-  
-Implement, test, roll out, and support solutions, ensuring optimal performance
-and throughput.  
-  
-Ensure continual quality via testing practices, CI/CD, and code reviews.  
-  
-Leverage Agile tools such as Jira for project management and engage in
-coordinated deliveries with Agile / Scrum teams.  
-  
-Communicate effectively with a broad range of partners, refining and
-delivering sprint goals.  
-  
-**Qualifications:**  
-Proven experience in application design, development, and a commitment to
-continuous personal and professional development.  
-  
-4-year degree in a relevant field or equivalent work experience, with a solid
-understanding of front-end technologies, .NET frameworks, SQL Server, and
-architectural patterns.  
-  
-Experience with Agile principles, practices, and Scrum methodologies.  
-  
-Knowledge of VB.NET, Angular, .NET Core, SQL Server, and relevant software
-engineering best practices.  
-  
-#LI-SS1  
-  
-**Remarkable benefits:**  
-
-  * Health coverage for medical, dental, vision
-  * 401(K) saving plan with company match AND Pension
-  * Tuition assistance
-  * PTO for community volunteer programs
-  * Wellness program
-  * Employee discounts (membership, insurance, travel, entertainment, services and more!)
-
-AAA Texas is part of the largest federation of AAA clubs in the nation. We
-have 14,000 employees in 21 states helping 17 million members. The strength of
-our organization is our employees. Bringing together and supporting different
-cultures, backgrounds, personalities, and strengths creates a team capable of
-delivering legendary, lifetime service to our members. When we embrace our
-diversity – we win. All of Us! With our national brand recognition, long-
-standing reputation since 1902, and constantly growing membership, we are
-seeking career-minded, service-driven professionals to join our team  
-  
-""Through dedicated employees we proudly deliver legendary service and
-beneficial products that provide members peace of mind and value.”  
-  
-AAA is an Equal Opportunity Employer"
-https://www.indeed.com/viewjob?jk=2ec16cc5313b7d59,indeed,Full Stack Developer,Dallas Market Center,https://www.indeed.com/cmp/Dallas-Market-Center,"Dallas, TX, USA",,2024-02-26,,,,,False,0,,,"# **Full Stack Developer**
-
-#### **Department: Information Technology**
-
-#### **Date Posted: 2/26/2024**
-
-**Dallas Market Center** is seeking a **Full Stack Developer** to become an
-integral part of our team! You will contribute to the development and
-maintenance of our web and mobile applications.
-
-This role is ideal for someone with a solid foundation in software
-development, eager to apply their skills in a dynamic environment using MVC
-architecture. The developer will work with technologies such as C# and .NET
-Core for web applications and Objective-C and Java for mobile development.
-This position encompasses involvement in various stages of the project
-lifecycle, from gathering requirements to implementation and support.
-
-**  
-Responsibilities:**
-
-  * Participate in the development of front-end and back-end systems, using technologies such as C#, .NET Core, JavaScript, React, HTML, CSS, and relevant frameworks.
-  * Assist in the development and maintenance of mobile applications using Objective-C for iOS and Java for Android, ensuring seamless integration with web-based systems.
-  * Collaborate with the team through all stages of the project lifecycle, including design, coding, testing, and deployment.
-  * Support continuous integration/continuous deployment (CI/CD) pipeline processes using Azure DevOps or similar tools for efficient code releases.
-  * Contribute to the creation and maintenance of APIs and UI components, ensuring they meet performance standards.
-  * Engage with cloud-based solutions and infrastructure, under guidance, to support development needs, leveraging platforms such as Azure, AWS, or Google Cloud.
-  * Assist in ongoing system maintenance and support, striving to enhance design and development processes.
-  * Stay informed on industry trends, technologies, and frameworks to continuously improve skills and contributions to the team.
-
-**Qualifications:**
-
-  * Bachelor's degree in computer science, information technology, or a related field.
-  * At least 3 years of experience in full-stack development, including API development with RESTful services.
-  * Solid background in API development with RESTful services.
-  * Strong understanding of C#, .NET Core, MVC architecture, JavaScript, HTML, CSS, and front-end frameworks such as React.
-  * Experience or familiarity with mobile application development using Objective-C for iOS and Java for Android.
-  * Knowledge of SQL Server development, including writing functions and stored procedures.
-  * Exposure to cloud services (Azure, AWS, Google Cloud) and CI/CD pipelines such as Azure DevOps is a plus.
-  * Strong problem-solving, communication, and interpersonal skills.
-  * Ability to work effectively both independently and as part of a team.
-
-**Personal Skills:**
-
-  * Effective communication and interpersonal skills, with the ability to engage successfully with technical and non-technical team members.
-  * Enthusiasm for technology and software development, with a keen interest in learning and adopting new technologies.
-  * Flexibility and adaptability in a fast-paced and dynamic work environment.
-  * A proactive approach to problem-solving and project contributions.
-  * Willingness to take on responsibilities and challenges, showing commitment to the team's goals.
-
-**Work Environment:**
-
-  * Encouragement of a balanced approach to work, with support for personal development and well-being.
-
-This position is designed for individuals passionate about technology and
-looking to grow their skills in a supportive and dynamic environment. If you
-are driven, curious, and ready to contribute to a team focused on innovation,
-we welcome your application."
-https://www.indeed.com/viewjob?jk=15a3676b80760495,indeed,System Engineer,Verizon,https://www.indeed.com/cmp/Verizon,"Euless, TX, USA",fulltime,2024-02-26,,,,,True,0,,,"### **When you join Verizon**
-
-Verizon is one of the world's leading providers of technology and
-communications services, transforming the way we connect around the world.
-We're a human network that reaches across the globe and works behind the
-scenes. We anticipate, lead, and believe that listening is where learning
-begins. In crisis and in celebration, we come together--lifting up our
-communities and striving to make an impact to move the world forward. If
-you're fueled by purpose, and powered by persistence, explore a career with
-us. Here, you'll discover the rigor it takes to make a difference and the
-fulfillment that comes with living the #NetworkLife.
-
-### **What you 'll be doing...**
-
-Join Verizon as we continue to expand our industry-leading network to improve
-the ways people, businesses, and things connect. Verizon is positioned to lead
-the ""Fourth Industrial Revolution"" (4IR) with the emergence of technologies
-like our outstanding 5G network and the Internet of Things (IoT) to impact a
-wide variety of industries such as healthcare, education, manufacturing,
-public safety, government, and many others. We are in the midst of historic
-breakthroughs in connectivity and mobility to blend the physical and the
-digital through ground breaking technologies such as virtual reality,
-augmented reality, artificial intelligence, autonomous vehicles,
-nanotechnologies, 3D printing, wearables, and advanced robotics. As part of
-this team, you will play a meaningful role in our network transformation
-through building a unified network across all lines of business and
-maintaining the technology that keeps millions of our customers connected.
-
-The Global Network Management Team is seeking motivated and driven engineers
-to support management of Verizon's Intelligent Edge Network encompassing
-Unified Transport, NGPON2, Multi-Service Edge, Base Network Controller, IP
-Routing, and Converged Core technologies. You will provide
-surveillance/maintenance and DevOps support for Verizon's Global Transport
-(Layer 0, 1 and 2) networks. You will conduct alarm monitoring, outage
-management, maintenance scheduling and provide technical assistance to Field
-Operations on the repair of global transport platforms. You will also be
-responsible for monitoring the implementation of transport network change
-control activities and performing pre/post technology checks.
-
-  * Handling phone calls to respond to network alarms and events for proactive network monitoring.
-
-  * Managing Trouble Tickets, Outage communications, and process issues for internal and external customers.
-
-  * Generating, driving, and updating Trouble Tickets via internal ticketing system.
-
-  * Performing fault isolation, triaging, and repairing network events to ensure the health of our network.
-
-  * Working with external and internal Verizon organizations to coordinate and fix network events.
-
-  * Providing network technical assistance to external teams by communicating technical details to customer service centers, technical support organizations, and executive management teams during network events and major outages.
-
-  * Improve automation through scripting and robotics process automation (RPA) to improve team functions and efficiency.
-
-### **What we 're looking for...**
-
-You are an analytical, forward-thinking, and collaborative-minded network
-engineer. Your dedication and flexibility help to solve complex problems, and
-you're eager to help us evolve to meet the demands of running the network of
-tomorrow.
-
-### **You 'll need to have:**
-
-  * **Must be a current participant of the Department of Defense Skillbridge Program or of the Hiring our Heroes Corporate Fellowship Program Cohort 2-2024.**
-
-  * Bachelor's degree or four or more years of work experience.
-
-  * Three or more years of relevant work experience.
-
-  * Knowledge of TCP/IP.
-
-  * Experience with Python scripting.
-
-  * Experience driving automation initiatives and process improvements.
-
-  * Willingness to work flexible hours including night shift work with dayshift hours as needed to support project requirements, and serve as part of a 24x7 on-call rotation.
-
-### **Even better if you have one or more of the following:**
-
-  * A degree in Telecommunications, Computer Science or Electronics.
-
-  * Three or more years of experience in Network Operations.
-
-  * Knowledge of IP telecommunication equipment and technologies (Cisco, Juniper, Adtran, Calix).
-
-  * Knowledge of routing protocols (MPLS, LDP, BGP, IS-IS, OSPF), cloud computing and virtualization.
-
-  * Knowledge of specialized telecommunications equipment (Ciena 6500T/S, & Cisco) and technologies.
-
-  * Knowledge of optical DWDM system & optical distribution network (GPON).
-
-  * Strong customer service and interpersonal skills
-
-  * Excellent written and verbal communication skills.
-
-  * Ability to work in fast-paced, dynamic environment while multitasking.
-
-If Verizon and this role sound like a fit for you, we encourage you to apply
-even if you don't meet every ""even better"" qualification listed above.
-
-### **Where you 'll be working**
-
-In this hybrid role, you'll have a defined work location that includes work
-from home and assigned office days set by your manager.
-
-### **Scheduled Weekly Hours**
+We believe in our core values of honesty, integrity, loyalty and service.
+They're what guides everything we do - from how we treat our members to how we
+treat each other. Come be a part of what makes us so special!
+
+## **The Opportunity**
+
+As a dedicated Java Software Engineer - Mid Level, you will be working in a
+team that is modernizing the Umbrella Policy application in USAA's Property &
+Casualty organization. They work in Java technologies building in AWS and
+integrating with Guidewire platform. The candidate selected will be
+responsible for the full software development lifecycle, from conception and
+design through testing and deployment. This role requires a strong background
+in Java and have a keen understanding of software development, and the ability
+to implement effective solutions.
+
+Provides support to the Enterprise through delivering best in class technology
+solutions. Engaged in all phases of the software systems and application
+development lifecycle which include gathering and analyzing requirements,
+designing, testing, documenting, and implementing software, responding to
+outages.
+
+We offer a flexible work environment that requires an individual to be **in
+the office 4 days per week.** This position can be based in one of the
+following locations: San Antonio, TX or Plano, TX. Relocation assistance is
+**not** available for this position.
+
+## **What you'll do:**
+
+  * Design, develop, code, and test complex technical solutions
+
+  * Investigates and resolves complex application and system technical problems and production issues through solving techniques.
+
+  * Continually improves operations by conducting complex systems analysis and recommending changes in policies and procedures.
+
+  * Prepares and installs complex solutions by resolving and designing system specifications, standards, and programming.
+
+  * Follows the software development lifecycle.
+
+  * Mentors junior engineers and may begin mentoring peer engineers; Review teammates' code.
+
+  * Ensures risks associated with business activities are effectively identified, measured, monitored, and controlled in accordance with risk and compliance policies and procedures.
+
+**What you have:**
+
+  * Bachelor's Degree or 4 additional years of experience beyond the minimum requirement can be used in lieu of a degree OR Approved certification from CodeUp, Galvanize, VetFIT (Veterans for IT) or eFIT (Employees for IT).
+
+  * 4 years of software development experience demonstrating depth of technical understanding within a specific discipline(s)/technology(s).
+
+  * 2 years of experience delivering technology solutions in all phases of the software systems and application development lifecycle to include leading code/design reviews.
+
+  * Basic Understanding of one or more of the following: Java, Swift, Objective-C, Cobol, JavaScript, Kotlin, C++, HTML, CSS, SQL.
+
+  * Developing level of business insight in the areas of business operations, risk management, industry practices and emerging trends.
+
+  * Experience supporting efforts to address production issues through fixing applications and systems.
+
+  * Experience articulating technical challenges and solutions.
+
+  * Basic understanding of cloud technologies and tools.
+
+**What sets you apart:**
+
+  * 4 years of software engineering/development experience using Java
+
+  * 2+ years' experience working with REST API development. Experience building APIs with Spring Boot
+
+  * Working experience in Kafka and AWS.
+
+  * Ability to implement container-based APIs using various container technologies like Open Shift, Docker, or Kubernetes.
+
+  * Familiar with Gradle, Git, GitHub, GitLab, etc. around continuous integration and continuous delivery infrastructure
+
+  * Understanding of Large scale microservice architecture patterns.
+
+The above description reflects the details considered necessary to describe
+the principal functions of the job and should not be construed as a detailed
+description of all the work requirements that may be performed in the job.
+
+**What we offer:**
+
+**Compensation:** USAA has an effective process for assessing market data and
+establishing ranges to ensure we remain competitive. You are paid within the
+salary range based on your experience and market data of the position. The
+actual salary for this role may vary by location. The salary range for this
+position is: $89,990.00 - $172,000.00**.**
+
+Employees may be eligible for pay incentives based on overall corporate and
+individual performance and at the discretion of the USAA Board of Directors.
+
+**Benefits:** At USAA our employees enjoy best-in-class benefits to support
+their physical, financial, and emotional wellness. These benefits include
+comprehensive medical, dental and vision plans, 401(k), pension, life
+insurance, parental benefits, adoption assistance, paid time off program with
+paid holidays plus 16 paid volunteer hours, and various wellness programs.
+Additionally, our career path planning and continuing education assists
+employees with their professional goals.
+
+For more details on our outstanding benefits, please visit our benefits page
+on USAAjobs.com.
+
+_Applications for this position are accepted on an ongoing basis, this posting
+will remain open until the position is filled. Thus, interested candidates are
+encouraged to apply the same day they view this posting._
+
+_  
+_
+
+_USAA is an Equal Opportunity Employer. All qualified applicants will receive
+consideration for employment without regard to race, color, religion, sex,
+sexual orientation, gender identity, national origin, disability, or status as
+a protected veteran._"
+https://www.indeed.com/viewjob?jk=37d5d43d6500e975,indeed,Senior Technical Engineer,AT&T,https://www.indeed.com/cmp/AT&T,"Dallas, TX, USA",fulltime,2024-03-06,yearly,122000.0,183000.0,USD,False,0,,,"**Job Description:**
+
+Join AT&T and reimagine the communications and technologies that connect the
+world. Our Consumer Technology experience team is delivering innovative and
+reliable technology solutions to power differentiated, simplified customer
+experiences. Bring your bold ideas and fearless risk-taking to redefine
+connectivity and transform how the world shares stories and experiences that
+matter. When you step into a career with AT&T, you won't just imagine the
+future-you'll create it.
+
+**Overview:**
+
+This role will support the next generation of Control Plane Applications
+(IPAM, DNS/DoH/DoT, DHCP, Radius, NTP), Network Automation (orchestration),
+Systems Engineering and Intelligent Network Data Analytics. Network Design for
+its Mobile, Broadband and Enterprise networks while developing new services
+for consumer and business customers.
+
+**Education Requirement:**
+
+  * Bachelor's Degree in a STEM discipline e.g. Computer Science, or Engineering.
+
+**Additional Requirements:**
+
+  * Practical or theoretical knowledge of Network protocols and technologies: IPAM, DNS, DoH, DoT, DHCP, Radius, Routing protocols.
+  * Demonstrated knowledge of physical and logical compute components.
+  * Cloud technologies and platforms, (e.g, KVM, Containers, Docker, Azure, AWS).
+  * Test-driven development, thread safe programing, best practices/tools for development.
+  * Knowledge of Network OS Cisco IOS-XR, Juniper JunOS, Arista EOS or Nokia SR-OS.
+  * Knowledge of Information security principles and practices 
+  * Knowledge of Linux-based OSes (e.g., Ubuntu, Rocky Linux, Red Hat)
+  * Knowledge of Relational database fundamentals, E-R diagrams, transactions, triggers, and stored procedures.
+  * Knowledge or experience with big data platforms and analytics tooling (Databricks, PowerBI, Snowflake).
+  * Knowledge of Data Science principles (data modeling, scrubbing, AI learning models, clustering)
+  * Knowledge of Software engineering & development of network projects.
+  * Proficiency in Python, Java, JavaScript, or C/C++.
+  * Development one or more frameworks such as ReactJS, bootstrap, node.js, Django.
+
+Our Sr. Specialist Member of Technical Staff earn between $122,000 - $183,000
+USD, annually. _Individual starting salary within this range may depend on
+geography, experience, expertise, and education/training._
+
+**Joining our team comes with amazing perks and benefits:**
+
+  * Medical/Dental/Vision coverage
+  * 401(k) plan
+  * Tuition reimbursement program
+  * Paid Time Off and Holidays (based on date of hire, at least 23 days of vacation each year and 9 company-designated holidays)
+  * Paid Parental Leave
+  * Paid Caregiver Leave
+  * Additional sick leave beyond what state and local law require may be available but is unprotected
+  * Adoption Reimbursement
+  * Disability Benefits (short term and long term)
+  * Life and Accidental Death Insurance
+  * Supplemental benefit programs: critical illness/accident hospital indemnity/group legal
+  * Employee Assistance Programs (EAP)
+  * Extensive employee wellness programs
+  * Employee discounts up to 50% off on eligible AT&T mobility plans and accessories, AT&T internet (and fiber where available) and AT&T phone
+
+A career with us, a global leader in communications and technology, comes with
+big rewards. As part of our team, you'll lead transformation surrounded by
+trailblazing industry leaders like you. You'll be empowered to go above and
+beyond - making a difference through company-sponsored initiatives or
+connecting and networking through one of our many employee groups. And
+regardless of where you're at in your career trajectory, you'll be rewarded by
+the impact that comes with making a difference in the lives of millions. With
+AT&T, you'll be a part of something greater, do incredible things and be
+rewarded with a chance to change the world.
+
+**Weekly Hours:**
 
 40
 
-### **Equal Employment Opportunity**
+**Time Type:**
 
-We're proud to be an equal opportunity employer - and celebrate our employees'
-differences, including race, color, religion, sex, sexual orientation, gender
-identity, national origin, age, disability, and Veteran status. At Verizon, we
-know that diversity makes us stronger. We are committed to a collaborative,
-inclusive environment that encourages authenticity and fosters a sense of
-belonging. We strive for everyone to feel valued, connected, and empowered to
-reach their potential and contribute their best. Check out our diversity and
-inclusion page to learn more."
-https://www.indeed.com/viewjob?jk=80d7b93f67bd5a1b,indeed,.NET Developer,Edify Technolgoies Inc,https://www.indeed.com/cmp/Edify-Technolgoies-Inc,"Irving, TX, USA",contract,2024-02-26,,,,,True,0,,,"### **When you join Verizon**
+Regular
 
-Verizon is one of the world's leading providers of technology and
-communications services, transforming the way we connect around the world.
-We're a human network that reaches across the globe and works behind the
-scenes. We anticipate, lead, and believe that listening is where learning
-begins. In crisis and in celebration, we come together--lifting up our
-communities and striving to make an impact to move the world forward. If
-you're fueled by purpose, and powered by persistence, explore a career with
-us. Here, you'll discover the rigor it takes to make a difference and the
-fulfillment that comes with living the #NetworkLife.
+**Location:**
 
-### **What you 'll be doing...**
+Middletown, New Jersey
 
-Join Verizon as we continue to expand our industry-leading network to improve
-the ways people, businesses, and things connect. Verizon is positioned to lead
-the ""Fourth Industrial Revolution"" (4IR) with the emergence of technologies
-like our outstanding 5G network and the Internet of Things (IoT) to impact a
-wide variety of industries such as healthcare, education, manufacturing,
-public safety, government, and many others. We are in the midst of historic
-breakthroughs in connectivity and mobility to blend the physical and the
-digital through ground breaking technologies such as virtual reality,
-augmented reality, artificial intelligence, autonomous vehicles,
-nanotechnologies, 3D printing, wearables, and advanced robotics. As part of
-this team, you will play a meaningful role in our network transformation
-through building a unified network across all lines of business and
-maintaining the technology that keeps millions of our customers connected.
+**Salary Range:**
 
-The Global Network Management Team is seeking motivated and driven engineers
-to support management of Verizon's Intelligent Edge Network encompassing
-Unified Transport, NGPON2, Multi-Service Edge, Base Network Controller, IP
-Routing, and Converged Core technologies. You will provide
-surveillance/maintenance and DevOps support for Verizon's Global Transport
-(Layer 0, 1 and 2) networks. You will conduct alarm monitoring, outage
-management, maintenance scheduling and provide technical assistance to Field
-Operations on the repair of global transport platforms. You will also be
-responsible for monitoring the implementation of transport network change
-control activities and performing pre/post technology checks.
+$122,000.00 - $183,000.00
 
-  * Handling phone calls to respond to network alarms and events for proactive network monitoring.
+It is the policy of AT&T to provide equal employment opportunity (EEO) to all
+persons regardless of age, color, national origin, citizenship status,
+physical or mental disability, race, religion, creed, gender, sex, sexual
+orientation, gender identity and/or expression, genetic information, marital
+status, status with regard to public assistance, veteran status, or any other
+characteristic protected by federal, state or local law. In addition, AT&T
+will provide reasonable accommodations for qualified individuals with
+disabilities."
+https://www.indeed.com/viewjob?jk=c13421913ecb896e,indeed,Senior Technical Engineer,AT&T,https://www.indeed.com/cmp/AT&T,"Plano, TX, USA",fulltime,2024-03-06,yearly,122000.0,183000.0,USD,False,0,,,"**Job Description:**
 
-  * Managing Trouble Tickets, Outage communications, and process issues for internal and external customers.
+Join AT&T and reimagine the communications and technologies that connect the
+world. Our Consumer Technology experience team is delivering innovative and
+reliable technology solutions to power differentiated, simplified customer
+experiences. Bring your bold ideas and fearless risk-taking to redefine
+connectivity and transform how the world shares stories and experiences that
+matter. When you step into a career with AT&T, you won't just imagine the
+future-you'll create it.
 
-  * Generating, driving, and updating Trouble Tickets via internal ticketing system.
+**Overview:**
 
-  * Performing fault isolation, triaging, and repairing network events to ensure the health of our network.
+This role will support the next generation of Control Plane Applications
+(IPAM, DNS/DoH/DoT, DHCP, Radius, NTP), Network Automation (orchestration),
+Systems Engineering and Intelligent Network Data Analytics. Network Design for
+its Mobile, Broadband and Enterprise networks while developing new services
+for consumer and business customers.
 
-  * Working with external and internal Verizon organizations to coordinate and fix network events.
+**Education Requirement:**
 
-  * Providing network technical assistance to external teams by communicating technical details to customer service centers, technical support organizations, and executive management teams during network events and major outages.
+  * Bachelor's Degree in a STEM discipline e.g. Computer Science, or Engineering.
 
-  * Improve automation through scripting and robotics process automation (RPA) to improve team functions and efficiency.
+**Additional Requirements:**
 
-### **What we 're looking for...**
+  * Practical or theoretical knowledge of Network protocols and technologies: IPAM, DNS, DoH, DoT, DHCP, Radius, Routing protocols.
+  * Demonstrated knowledge of physical and logical compute components.
+  * Cloud technologies and platforms, (e.g, KVM, Containers, Docker, Azure, AWS).
+  * Test-driven development, thread safe programing, best practices/tools for development.
+  * Knowledge of Network OS Cisco IOS-XR, Juniper JunOS, Arista EOS or Nokia SR-OS.
+  * Knowledge of Information security principles and practices 
+  * Knowledge of Linux-based OSes (e.g., Ubuntu, Rocky Linux, Red Hat)
+  * Knowledge of Relational database fundamentals, E-R diagrams, transactions, triggers, and stored procedures.
+  * Knowledge or experience with big data platforms and analytics tooling (Databricks, PowerBI, Snowflake).
+  * Knowledge of Data Science principles (data modeling, scrubbing, AI learning models, clustering)
+  * Knowledge of Software engineering & development of network projects.
+  * Proficiency in Python, Java, JavaScript, or C/C++.
+  * Development one or more frameworks such as ReactJS, bootstrap, node.js, Django.
 
-You are an analytical, forward-thinking, and collaborative-minded network
-engineer. Your dedication and flexibility help to solve complex problems, and
-you're eager to help us evolve to meet the demands of running the network of
-tomorrow.
+Our Sr. Specialist Member of Technical Staff earn between $122,000 - $183,000
+USD, annually. _Individual starting salary within this range may depend on
+geography, experience, expertise, and education/training._
 
-### **You 'll need to have:**
+**Joining our team comes with amazing perks and benefits:**
 
-  * **Must be a current participant of the Department of Defense Skillbridge Program or of the Hiring our Heroes Corporate Fellowship Program Cohort 2-2024.**
+  * Medical/Dental/Vision coverage
+  * 401(k) plan
+  * Tuition reimbursement program
+  * Paid Time Off and Holidays (based on date of hire, at least 23 days of vacation each year and 9 company-designated holidays)
+  * Paid Parental Leave
+  * Paid Caregiver Leave
+  * Additional sick leave beyond what state and local law require may be available but is unprotected
+  * Adoption Reimbursement
+  * Disability Benefits (short term and long term)
+  * Life and Accidental Death Insurance
+  * Supplemental benefit programs: critical illness/accident hospital indemnity/group legal
+  * Employee Assistance Programs (EAP)
+  * Extensive employee wellness programs
+  * Employee discounts up to 50% off on eligible AT&T mobility plans and accessories, AT&T internet (and fiber where available) and AT&T phone
 
-  * Bachelor's degree or four or more years of work experience.
+A career with us, a global leader in communications and technology, comes with
+big rewards. As part of our team, you'll lead transformation surrounded by
+trailblazing industry leaders like you. You'll be empowered to go above and
+beyond - making a difference through company-sponsored initiatives or
+connecting and networking through one of our many employee groups. And
+regardless of where you're at in your career trajectory, you'll be rewarded by
+the impact that comes with making a difference in the lives of millions. With
+AT&T, you'll be a part of something greater, do incredible things and be
+rewarded with a chance to change the world.
 
-  * Three or more years of relevant work experience.
-
-  * Knowledge of TCP/IP.
-
-  * Experience with Python scripting.
-
-  * Experience driving automation initiatives and process improvements.
-
-  * Willingness to work flexible hours including night shift work with dayshift hours as needed to support project requirements, and serve as part of a 24x7 on-call rotation.
-
-### **Even better if you have one or more of the following:**
-
-  * A degree in Telecommunications, Computer Science or Electronics.
-
-  * Three or more years of experience in Network Operations.
-
-  * Knowledge of IP telecommunication equipment and technologies (Cisco, Juniper, Adtran, Calix).
-
-  * Knowledge of routing protocols (MPLS, LDP, BGP, IS-IS, OSPF), cloud computing and virtualization.
-
-  * Knowledge of specialized telecommunications equipment (Ciena 6500T/S, & Cisco) and technologies.
-
-  * Knowledge of optical DWDM system & optical distribution network (GPON).
-
-  * Strong customer service and interpersonal skills
-
-  * Excellent written and verbal communication skills.
-
-  * Ability to work in fast-paced, dynamic environment while multitasking.
-
-If Verizon and this role sound like a fit for you, we encourage you to apply
-even if you don't meet every ""even better"" qualification listed above.
-
-### **Where you 'll be working**
-
-In this hybrid role, you'll have a defined work location that includes work
-from home and assigned office days set by your manager.
-
-### **Scheduled Weekly Hours**
+**Weekly Hours:**
 
 40
 
-### **Equal Employment Opportunity**
+**Time Type:**
 
-We're proud to be an equal opportunity employer - and celebrate our employees'
-differences, including race, color, religion, sex, sexual orientation, gender
-identity, national origin, age, disability, and Veteran status. At Verizon, we
-know that diversity makes us stronger. We are committed to a collaborative,
-inclusive environment that encourages authenticity and fosters a sense of
-belonging. We strive for everyone to feel valued, connected, and empowered to
-reach their potential and contribute their best. Check out our diversity and
-inclusion page to learn more.
+Regular
 
-**Job Title : .Net Developer with MVC experience**
+**Location:**
 
-**Job Location: Irving, TX ( Hybrid)**
+Middletown, New Jersey
 
-**Duration: Long Term Contract**
+**Salary Range:**
 
-**About Edify Technologies:**
+$122,000.00 - $183,000.00
 
-Transforming Businesses with Innovative Digital Solutions!
+It is the policy of AT&T to provide equal employment opportunity (EEO) to all
+persons regardless of age, color, national origin, citizenship status,
+physical or mental disability, race, religion, creed, gender, sex, sexual
+orientation, gender identity and/or expression, genetic information, marital
+status, status with regard to public assistance, veteran status, or any other
+characteristic protected by federal, state or local law. In addition, AT&T
+will provide reasonable accommodations for qualified individuals with
+disabilities."
+https://www.indeed.com/viewjob?jk=4408b7c9023bb411,indeed,Full Stack Developer,Genpact,https://www.indeed.com/cmp/Genpact,"Richardson, TX, USA",fulltime,2024-03-06,,,,,False,0,,,"**_With a startup spirit and 115,000+ curious and courageous minds, we have
+the expertise to go deep with the world 's biggest brands--and we have fun
+doing it. We dream in digital, dare in reality, and reinvent the ways
+companies work to make an impact far bigger than just our bottom line. We're
+harnessing the power of technology and humanity to create meaningful
+transformation that moves us forward in our pursuit of a world that works
+better for people. Now, we're calling upon the thinkers and doers, those with
+a natural curiosity and a hunger to keep learning, keep growing. People who
+thrive on fearlessly experimenting, seizing opportunities, and pushing
+boundaries to turn our vision into reality. And as you help us create a better
+world, we will help you build your own intellectual firepower._**
 
-Headquartered in Naperville, IL, we are a dynamic team with over two decades
-of industry expertise, dedicated to delivering robust business solutions,
-staff augmentation, and a comprehensive range of application and web services.
-As a former recipient of INC. Magazine's prestigious '5000 Fastest Growing
-Private Companies' award, we take immense pride in our proven track record of
-success.
+**__**
 
-At Edify Technologies, we partner with both small and large customers
-globally, empowering them to enhance their technology footprint, reduce
-unnecessary costs, develop sustainable IT solutions, and gain a competitive
-edge in today's digital world. We believe in creating an impact through
-innovation, driving tangible results that propel businesses forward.
+**_Welcome to the relentless pursuit of better._**
 
-Join our passionate team and make a difference in the ever-evolving tech
-landscape!
+**_  
+_**
 
-**Join Our Team:**
+**_Inviting applications for the role_**** _Principal consultant .Net
+Fullstack developer_**
 
-Are you a .Net Developer with MVC Experience, looking for a dynamic
-opportunity to accelerate your career?
+** __**
 
-**JOB REQUIREMENTS:**
+**_We are looking for a_**** _.NET Fullstack developer_** _to join our
+engineering team and help us develop and maintain various software products.
+._**_NET Fullstack developer_**** _responsibilities include writing and
+testing code, debugging programs, and integrating applications with third-
+party web services. To be successful in this role, you should have experience
+using server-side logic and work well in a team._**
 
-**Full-Stack Dot Net Developer** to join their dynamic team to design and
-develop MVC web applications. This is a collaborative work environment with
-Scrum Teams and Product Owners to identify new features and squash bugs.
+**__**
 
-**Required skills:** ASP.NET, Entity Framework, MVC, Angular/React/Vue
-experience.
+**_Ultimately, you 'll build highly responsive web applications that align
+with our business needs._**
 
-  * At least 8 years in software development.
-  * Bachelor's degree in Computer Science, Engineering, or a related field.
-  * Experience working in an agile environment. (Scrum, Kanban, etc.)
-  * Excellent oral and written communication skills to interact effectively with various teams and management groups.
-  * Ability to solve complex problems, including the use of research, analysis, and expertise to develop creative, innovative solutions.
-  * Must have experience with:
-  * _5+ years in C#, ASP.Net, MVC, Web API, RESTful Services, and SQL database3+ years in Html5, JavaScript, jQuery, Grunt, and other client-side frameworks (Angular/Vue/React)_
-  * _5+ years in T-SQL_
-  *  _3+ years in ORM experience such as Entity Framework._
-  * _Object-oriented programming using C# in Visual Studio IDE._
-  * _Version control systems. (Preferably Git or TFVS)_
+**_  
+_**
 
-**We Believe in Diversity & Inclusion:**
+**_Responsibilities:_**
 
-As a minority-owned company, we deeply value and prioritize inclusion and
-diversity within our organization. We believe that a diverse and inclusive
-workforce fosters innovation, creativity, and empathy, leading to a richer and
-more rewarding work environment. We are committed to cultivating a workplace
-where every team member feels valued, respected, and empowered to contribute
-their unique perspectives and talents. Join us and be a part of a team that
-celebrates diversity, cherishes different perspectives, and fosters a
-collaborative and supportive community. #InclusionAndDiversity #Empowerment
-#EdifyTechnologies #JoinOurTeam #Hiring
+**__**
 
-Job Type: Contract
+  * **_Participate in requirements analysis._**
 
-Salary: From $1.00 per hour
+**__**
 
-Benefits:
+  * **_Write clean, scalable, and testable code using .NET and Angular._**
 
-  * Paid time off
+**__**
 
-Schedule:
+  * **_Develop documentation throughout the software development life cycle (SDLC)_**
 
-  * 8 hour shift
-  * Monday to Friday
+**__**
 
-Application Question(s):
+  * **_Collaborate with internal teams to produce software with TDD._**
 
-  * Please enter your current location
+**__**
 
-Education:
+  * **_Test and deploy applications and systems._**
 
-  * Bachelor's (Required)
+**__**
 
-Experience:
+  * **_Revise, update, refactor and debug code._**
 
-  * .Net Development: 8 years (Required)
-  * C#: 5 years (Required)
-  * MVC: 3 years (Required)
+**__**
 
-Ability to Commute:
+  * **_Serve as an expert on applications and provide technical support._**
 
-  * Irving, TX 75038 (Required)
+**__**
 
-Work Location: Hybrid remote in Irving, TX 75038"
-https://www.indeed.com/viewjob?jk=1864bf328849efe2,indeed,Senior Developer,VBeyond Healthcare,https://www.indeed.com/cmp/Vbeyond-Healthcare,"Plano, TX, USA",fulltime,2024-02-26,yearly,100000.0,110000.0,USD,False,0,,,"NodeJS Developer with AWS and Microservices
+  * **_WPF desktop application developed in VS 2022 targeting .NET 5.0._**
 
-**Plano, TX (Onsite)**
+**__**
 
-**Fulltime**
+  * **_DevExpress controls for UX/UI_**
 
-**W2 Only- Not C2C**
+** __**
 
-Job Description
+  * **_Inherited Avlon Dock for docking_**
 
-**NodeJS Developer with AWS and Microservices experience**.
+** __**
 
-**Required Qualifications:**
+  * **_Microsoft Prism for IOC (DryIoc) and other WPF features_**
 
-  * At least 4 **years** of experience in Information Technology.
-  * At least **2 years** of experience leading **application development team (** minimum 6 - 8 members**) for AWS target environment** (Web/Mobile/Desktop applications)
-  * **Excellent** in designing and writing code supporting serverless framework using **Node.js**
-  * At least 3 years in **JavaScript, Typescript**
-  * At least 3 years in **Microservice** architecture
-  * Demonstrated In Depth knowledge & work experience in Node.Js and its APIs - eg. File System, Clusters, Console, OS etc..
-  * Ability to develop, integrate and test REST APIs
-  * Ability to design and work with Swagger documentation.
-  * Ability to write complex queries in any relational database (PostgreSQL, SQL Server)
-  * Demonstrated experience with Agile or other rapid application development methods.
-  * Ability to design the optimal data model based on the application need and system performanc
-  * Experience in AWS developer tools, SDK, CLI tools, VPC, EC2, EBS, S3, ELB, Auto scaling, Elastic Beanstalk, IAM, RDS, Route 53, Cloud Front, Cloud watch, Cloud Trail
-  * Knowledge on AWS EC2 Instances provisioning, AWS VPC setup, AWS Auto Scaling for availability of EC2 Instances and availability of applications.
-  * Experience in DevOps methodologies and Continuous Integration (CI) / Continuous Delivery (CD) tools (Jenkins) Infrastructure.
+** __**
 
-**Preferred Qualifications:**
+  * **_NUnit & Moq for Unit testing_**
 
-  * Solid understanding in NoSQL database like Elasticsearch, DynamoDB etc.
-  * Ability to transform complex business requirements into technical design specifications.
-  * **Woking experience in** developing frontend using **Angular is a preferred.**
-  * Ability to Integrate server-side logic into user-facing components created in Angular is preferred.
+** __**
 
-  * Knowledge on various components like Docker Engine, Hub, Machine, Compose and Docker Registry.
-  * Excellent verbal and written communication skills
-  * Experience and desire to work in a Global delivery environment
-  * Capable of adapting to modern technologies and learning new tools and applications and Flexible as per the project need.
-  * Good communication skills, interpersonal skills, self-motivated, and team player.
-  * Good working experience of the tools responsible for automation processes.
+  * **_ClosedXML for Excel export_**
+
+** __**
+
+  * **_Jason/Graph QL/GRPC/protobuf for communication/transportation_**
+
+** __**
+
+  * **_NuGet for packages & Click Once for package deployment._**
+
+**__**
+
+  * **_PowerShell for build/scripting_**
+
+** __**
+
+  * **_Bitbucket for source control, Bamboo for CI/CD & SonarQube for code coverage_**
+
+** _  
+_**
+
+**_Qualifications we seek in you._**
+
+**_  
+_**
+
+**_Minimum Qualifications_**
+
+** _  
+_**
+
+  * **_BE/B Tech/ MCA_**
+
+** __****__****__****_Preferred Qualifications/ Skills_**** __**
+
+  * **_Work experience as a_** _Technology: C# .Net, Angular 8+, .Net Core, Web API, HTML5/CSS, Kendo UI, Oracle, TDD_
+
+** __**
+
+  * **_Strong impact analysis, troubleshooting and communication skills._**
+
+**__**
+
+  * **_Ready to learn new technologies and methodologies as per project need._**
+
+**__**
+
+  * **_Team spirit_**
+
+** __**
+
+  * **_Good problem-solving skills_**
+
+** _  
+_**
+
+**_The approximate annual base compensation range for this position is
+[$60.000 to $80,000]. The actual offer, reflecting the total compensation
+package plus benefits, will be determined by a number of factors which include
+but are not limited to the applicant 's experience, knowledge, skills, and
+abilities; geographic location; and internal equity_**
+
+** __**
+
+**_Genpact is an Equal Opportunity Employer and considers applicants for all
+positions without regard to race, color, religion or belief, sex, age,
+national origin, citizenship status, marital status, military/veteran status,
+genetic information, sexual orientation, gender identity, physical or mental
+disability or any other characteristic protected by applicable
+laws._****_Genpact is committed to creating a dynamic work environment that
+values diversity and inclusion, respect and integrity, customer focus, and
+innovation. For more information, visit_**** _www.genpact.com_** _. Follow us
+on_** _Twitter_** _,_**_Facebook_** _,_**_LinkedIn_** _, and_** _YouTube_**
+_._
+
+**__**
+
+**_Furthermore, please do note that Genpact does not charge fees to process
+job applications and applicants are not required to pay to participate in our
+hiring process in any other way. Examples of such scams include purchasing a
+'starter kit,' paying to apply, or purchasing equipment or training._**
+
+**_  
+Job_** _Principal Consultant_
+
+** _Primary Location_** _USA-Richardson_
+
+** _Schedule_** _Full-time_
+
+** _Education Level_** _Bachelor's / Graduation / Equivalent_
+
+** _Job Posting_** _Mar 6, 2024, 2:41:08 AM_
+
+** _Unposting Date_** _Ongoing_
+
+ _Master Skills List_ _Consulting_
+
+ _Job Category_ _Full Time_"
+https://www.indeed.com/viewjob?jk=bcfd714c56a78318,indeed,Full Stack Developer,Genpact,https://www.indeed.com/cmp/Genpact,"Richardson, TX, USA",fulltime,2024-03-06,,,,,False,0,,,"** _With a startup spirit and 115,000+ curious and courageous minds, we have
+the expertise to go deep with the world 's biggest brands--and we have fun
+doing it. We dream in digital, dare in reality, and reinvent the ways
+companies work to make an impact far bigger than just our bottom line. We're
+harnessing the power of technology and humanity to create meaningful
+transformation that moves us forward in our pursuit of a world that works
+better for people. Now, we're calling upon the thinkers and doers, those with
+a natural curiosity and a hunger to keep learning, keep growing. People who
+thrive on fearlessly experimenting, seizing opportunities, and pushing
+boundaries to turn our vision into reality. And as you help us create a better
+world, we will help you build your own intellectual firepower._**
+
+**__**
+
+**_Welcome to the relentless pursuit of better._**
+
+**_  
+_**
+
+**_Inviting applications for the role_**** _Principal consultant .Net
+Fullstack developer_**
+
+** _  
+_**
+
+**_We are looking for a_**** _.NET Fullstack developer_** _to join our
+engineering team and help us develop and maintain various software products.
+._**_NET Fullstack developer_**** _responsibilities include writing and
+testing code, debugging programs, and integrating applications with third-
+party web services. To be successful in this role, you should have experience
+using server-side logic and work well in a team._**
+
+**__**
+
+**_Ultimately, you 'll build highly responsive web applications that align
+with our business needs._**
+
+**_  
+_**
+
+**_Responsibilities:_**
+
+**__**
+
+  * **_Participate in requirements analysis._**
+
+**__**
+
+  * **_Write clean, scalable, and testable code using .NET and Angular._**
+
+**__**
+
+  * **_Develop documentation throughout the software development life cycle (SDLC)_**
+
+**__**
+
+  * **_Collaborate with internal teams to produce software with TDD._**
+
+**__**
+
+  * **_Test and deploy applications and systems._**
+
+**__**
+
+  * **_Revise, update, refactor and debug code._**
+
+**__**
+
+  * **_Serve as an expert on applications and provide technical support._**
+
+**__**
+
+  * **_WPF desktop application developed in VS 2022 targeting .NET 5.0._**
+
+**__**
+
+  * **_DevExpress controls for UX/UI_**
+
+** __**
+
+  * **_Inherited Avlon Dock for docking_**
+
+** __**
+
+  * **_Microsoft Prism for IOC (DryIoc) and other WPF features_**
+
+** __**
+
+  * **_NUnit & Moq for Unit testing_**
+
+** __**
+
+  * **_ClosedXML for Excel export_**
+
+** __**
+
+  * **_Jason/Graph QL/GRPC/protobuf for communication/transportation_**
+
+** __**
+
+  * **_NuGet for packages & Click Once for package deployment._**
+
+**__**
+
+  * **_PowerShell for build/scripting_**
+
+** __**
+
+  * **_Bitbucket for source control, Bamboo for CI/CD & SonarQube for code coverage_**
+
+** _  
+_**
+
+**_Qualifications we seek in you._**
+
+**_  
+_**
+
+**_Minimum Qualifications_**
+
+** _  
+_**
+
+  * **_BE/B Tech/ MCA_**
+
+** __****__****__****_Preferred Qualifications/ Skills_**** __**
+
+  * **_Work experience as a_** _Technology: C# .Net, Angular 8+, .Net Core, Web API, HTML5/CSS, Kendo UI, Oracle, TDD_
+
+** __**
+
+  * **_Strong impact analysis, troubleshooting and communication skills._**
+
+**__**
+
+  * **_Ready to learn new technologies and methodologies as per project need._**
+
+**__**
+
+  * **_Team spirit_**
+
+** __**
+
+  * **_Good problem-solving skills_**
+
+** _  
+_**
+
+**_The approximate annual base compensation range for this position is
+[$60.000 to $80,000]. The actual offer, reflecting the total compensation
+package plus benefits, will be determined by a number of factors which include
+but are not limited to the applicant 's experience, knowledge, skills, and
+abilities; geographic location; and internal equity_**
+
+** __**
+
+**_Genpact is an Equal Opportunity Employer and considers applicants for all
+positions without regard to race, color, religion or belief, sex, age,
+national origin, citizenship status, marital status, military/veteran status,
+genetic information, sexual orientation, gender identity, physical or mental
+disability or any other characteristic protected by applicable
+laws._****_Genpact is committed to creating a dynamic work environment that
+values diversity and inclusion, respect and integrity, customer focus, and
+innovation. For more information, visit_**** _www.genpact.com_** _. Follow us
+on_** _Twitter_** _,_**_Facebook_** _,_**_LinkedIn_** _, and_** _YouTube_**
+_._
+
+**__**
+
+**_Furthermore, please do note that Genpact does not charge fees to process
+job applications and applicants are not required to pay to participate in our
+hiring process in any other way. Examples of such scams include purchasing a
+'starter kit,' paying to apply, or purchasing equipment or training._**
+
+**_  
+Job_** _Principal Consultant_
+
+** _Primary Location_** _USA-Richardson_
+
+** _Schedule_** _Full-time_
+
+** _Education Level_** _Bachelor's / Graduation / Equivalent_
+
+** _Job Posting_** _Mar 6, 2024, 2:43:22 AM_
+
+** _Unposting Date_** _Ongoing_
+
+ _Master Skills List_ _Consulting_
+
+ _Job Category_ _Full Time_"
+https://www.indeed.com/viewjob?jk=c4c03e107da1dcae,indeed,Software Engineer,BGI LLC,https://www.indeed.com/cmp/Bgi-LLC,"Arlington, TX, USA",fulltime,2024-03-06,yearly,70000.0,200000.0,USD,False,0,,,"**Position Summary and Job Responsibilities**
+
+Each day brings a new challenge and a new reward where your efforts create
+tools to train the warfighter. As a member of a close-knit BGI
+engineering/operator team, positions involve research, design, and development
+of computer and network software and/or specialized utility programs in
+support of leading-edge modeling and simulation products. Applicants require
+skill in the following occupations: Analyze user needs and develop software
+solutions, applying principles and techniques of computer science,
+engineering, and mathematical analysis; Update software or enhance existing
+software capabilities; May work with computer hardware engineers to integrate
+hardware and software systems, and develop specifications and performance
+requirements; May maintain databases within an application area, working
+individually or coordinating database development as part of a team.
+
+Specifically, employees will develop software for aircrew training devices, to
+include computer systems, Instructional Operational Systems (IOS) or other
+application software.
+
+**Job Responsibilities**
+
+  * Apply computer science, engineering, and mathematical analysis concepts and principles in the development of software for the target application.
+  * Work closely with cross functional members of the engineering organization to develop and evaluate interfaces between hardware and software, and operational performance requirements and design of the overall system.
+  * Support and participate in all phases of the software development life cycle, including requirements analysis, design, implementation, integration, and test of embedded software for real-time control of simulated and stimulated avionics equipment.
+  * Develop software test procedures, software programs, and related documentation.
+  * Ensure software and quality company processes and standards are met.
+  * Perform system-level integration and troubleshooting.
+  * Participate in peer reviews, identify, track and repair defects.
+  * Utilize a variety of software languages (i.e., C++, C) on Windows, Linux, and embedded real time operating systems.
+  * Support development for simulation modeling of one or more of the following:
+  * Weapon systems
+  * Synthetic threat environment
+  * Operational Flight Program (OFP) avionics and communications with avionics
+  * Electronic Warfare systems
+  * Avionics system displays such as Multi-Function, Heads-Up, or Radar Warning Receiver displays.
+  * Radio, communication systems
+  * Aerodynamic and flight control modeling
+  * Aircraft systems modeling
+  * Radar modeling including air-to-air, air-to-ground radar development.
+  * Graphical User Interface (GUI) design and implementation
+
+**Required and/or Preferred Qualifications**
+
+**Software Developer Education:**
+
+  * Requires Bachelor's Degree in Computer Science or related engineering, science, or math discipline
+  * Software Developer Experience:
+  * Positions (with commensurate salary/benefit structure) available for candidates starting with a minimum of 2+ years' experience with multiple programming languages such as Ada, C/C++, FORTRAN or other programming languages. Multiple Junior and Senior-level positions available
+
+**Software Developer Qualifications:**
+
+  * Ability to work autonomously and coordinate team activity between multiple domains.
+  * Ability to apply sound engineering principles and develop innovative solutions.
+  * Ability to apply SW engineering principles to complete assigned tasks and schedule commitments.
+  * Ability to complete work with minimal direction through all phases of development.
+  * Good oral and written communication skills
+  * Prefer real-time simulation experience.
+  * Prefer experience with ClearCase/ClearQuest
+  * Prefer experience with Linux PC Operating System
+
+**Security Clearance:**
+
+  * Must be a US Citizen
+  * Requires an active in-scope DoD SECRET security clearance.
 
 Job Type: Full-time
 
-Pay: $100,000.00 - $110,000.00 per year
+Pay: $70,000.00 - $200,000.00 per year
 
 Benefits:
 
   * 401(k)
-  * 401(k) matching
   * Dental insurance
   * Health insurance
-  * Life insurance
-  * Referral program
-  * Relocation assistance
-  * Retirement plan
+  * Paid time off
   * Vision insurance
-
-Experience level:
-
-  * 10 years
-  * 11+ years
-  * 5 years
-  * 6 years
-  * 7 years
-  * 8 years
-  * 9 years
 
 Schedule:
 
-  * Day shift
-  * Monday to Friday
+  * 8 hour shift
 
-Work Location: In person"
-https://www.indeed.com/viewjob?jk=4bfec33b7d4bc12d,indeed,Full Stack Developer,IDC,https://www.indeed.com/cmp/SAP-Payroll-1,"Irving, TX, USA",fulltime,2024-02-26,,,,,False,0,,,"* Strong proficiency in building cross-platform applications using React Native and integrating native modules when necessary.
+Education:
 
-* Proficient in working with mobile-specific APIs and integrating third-party libraries in React Native.
-
-* Experience optimizing mobile app performance and ensuring smooth user experience across various devices.
-
-* Familiarity with mobile app deployment processes for both iOS and Android platforms.
-
-* Solid understanding of mobile UI/UX principles and ability to create visually appealing and intuitive interfaces.
-
-* Knowledge of mobile app security best practices and ability to implement appropriate measures.
-
-* Experience in handling offline storage, caching, and synchronization of mobile data.
-
-* Familiarity with mobile app testing frameworks and writing unit and integration tests for React Native applications.
-
-* Mentorship of Junior level engineers to help make informed decisions.
-
-Job Type: Full-time
+  * Bachelor's (Preferred)
 
 Experience:
 
-  * Spring Boot: 5 years (Preferred)
-  * node.js, Spring Framework: 4 years (Preferred)
-  * Java Full Stack: 6 years (Preferred)
-  * React Native: 6 years (Preferred)
+  * multiple programming languages: 2 years (Preferred)
+  * C++: 2 years (Preferred)
+
+Security clearance:
+
+  * Secret (Preferred)
 
 Work Location: In person"
-https://www.linkedin.com/jobs/view/3835273317,linkedin,Software Developer,CheckAlt,https://www.linkedin.com/company/checkalt,"Dallas, TX",,2024-02-21,,,,,,,,,
-https://www.linkedin.com/jobs/view/3833735980,linkedin,Entry/Junior Level Software Engineer,SynergisticIT,https://www.linkedin.com/company/synergisticit,"Dallas, TX",,2024-02-18,,,,,,,,,
-https://www.linkedin.com/jobs/view/3829521367,linkedin,Software Engineer Intern,Brinks Home,https://www.linkedin.com/company/brinks-home,,,2024-02-13,,,,,,,Actively Hiring +6 benefits,,
-https://www.linkedin.com/jobs/view/3807391213,linkedin,Web Developer,Topgolf,https://www.linkedin.com/company/topgolf,"Dallas, TX",,2024-02-08,,,,,,,Actively Hiring,,
-https://www.linkedin.com/jobs/view/3818365629,linkedin,Software Engineer - Junior Level(Remote),SynergisticIT,https://www.linkedin.com/company/synergisticit,"Dallas, TX",,2024-02-05,,,,,,,Be an early applicant,,
-https://www.linkedin.com/jobs/view/3821852564,linkedin,Software Developer(Entry Level),SynergisticIT,https://www.linkedin.com/company/synergisticit,"Dallas, TX",,2024-02-02,,,,,,,Be an early applicant,,
-https://www.linkedin.com/jobs/view/3781137140,linkedin,"Software Engineer - Early Career - Dallas, TX",Lockheed Martin,https://www.linkedin.com/company/lockheed-martin,"Grand Prairie, TX",,2023-12-12,,,,,,,Actively Hiring,,
-https://www.linkedin.com/jobs/view/3777352191,linkedin,"Software Engineer - Early Career - Dallas, TX",Lockheed Martin,https://www.linkedin.com/company/lockheed-martin,"Grand Prairie, TX",,2023-12-07,,,,,,,Actively Hiring,,
-https://www.linkedin.com/jobs/view/3775929258,linkedin,"Software Engineer - Early Career - Dallas, TX",Lockheed Martin,https://www.linkedin.com/company/lockheed-martin,"Grand Prairie, TX",,2023-12-06,,,,,,,Actively Hiring,,
-https://www.linkedin.com/jobs/view/3776863518,linkedin,Junior Front End Engineer,minware,https://www.linkedin.com/company/minware,"Dallas, TX",,2023-12-02,,,,,,,,,
-https://www.ziprecruiter.com/jobs//j?lvk=N_DBaFoG-Ql1osdOHZQWFQ,zip_recruiter,"Senior Software Engineer, Back End (Python, Go)",Capital One,,"Plano, TX, USA",,2024-02-26,,,,,,0,,,"Senior **Software** **Engineer** , Back End (Python, Go) Do you love building
-and pioneering in the technology space? Do you enjoy solving complex business
-problems in a fast-paced, collaborative, inclusive ..."
-https://www.ziprecruiter.com/jobs//j?lvk=4SG8q95l5uw82iyjATmoeQ,zip_recruiter,Senior Software Engineer,Microsoft,,"Dallas, TX, USA",,2024-02-25,yearly,145800.0,238600.0,USD,,0,,,"We are hiring a Senior **Software** **Engineer** with deep experience and
-expertise designing and delivering solutions using modern **software**
-**engineering** practices and cloud technologies. You will be working ..."
-https://www.ziprecruiter.com/jobs//j?lvk=B4EobRDNlY0-zuQQr7LKcQ,zip_recruiter,Software Engineer (Senior Developer/Business Analyst),EdvenSoft Solutions LLC,,"Irving, TX, USA",fulltime,2024-02-23,yearly,93000.0,96000.0,USD,,0,,,"We are seeking a Software Engineer (Senior Developer/ Business Analyst) to
-become an integral part of our team! You will be responsible for creating and
-modifying computer application software or specialized utility programs.
-
-**Responsibilities:**
-
-  * Involve in all the phases of Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC)
-  * Associate with business users and other stake holders of the project to ensure there are no gaps in requirements and add/update the business and technological specifications accordingly
-  * Identify the scope of the project to ensure delivery is compliant with scope commitment
-  * Expertly construct user stories and workflows of the feature in support of the CRM implementation
-  * Carry out data analysis, transformation, and loading utilizing Data Loader during functional testing
-  * Create and translate use cases and test scripts for usage in automated regression testing, which involves working on customizing the pages with the required lightning component through Community Builder
-  * Involve in Quality Center/ ALM administration to create users, groups, domains, and projects.
-  * Prepare automation test strategies, test plans and test schedules for all Prescriptive CRM applications.
-  * Involved in tech modernization projects like SQL Server upgrade, Windows 2003 Server Elimination and Office migration.
-  * Execute test scenarios in different SQL compatibility levels to verify the remediated SQL code and their impacts in legacy applications.
-  * Perform SQL database related operations to create and modify data and execute store procedures by passing parameters.
-  * Build and Execute automation scripts using open source tools such as Selenium Web Driver and Test NG.
-  * Designing and enhancing test automation scripts using HP Unified Functional Testing and ALM
-  * Build automation suites for traditional Waterfall and Agile projects
-
-**Qualifications:**
-
-  * Previous experience in software development, computer engineering, or other related fields
-  * Knowledge of Java, Python, or other programming languages
-  * Familiarity with relational databases such as MySQL, Oracle, and SQL Server
-  * Deadline and detail-oriented
-  * Strong analytical and critical thinking skills"
-https://www.ziprecruiter.com/jobs//j?lvk=qHEnyguJIq9lGpPqfqGrRA,zip_recruiter,Hardware Engineering Manager (BSEE req $150-190k Paid relo ColumbusOH),#twiceasnice Recruiting,,"Dallas, TX, USA",fulltime,2024-02-23,yearly,150000.0,190000.0,USD,,0,,,"**Hardware Engineering Manager**  
-**Location: near Columbus, OH** _(about 20 minutes north of Columbus)_  
-**Salary: $150,000-$190,000**  
-**Benefits: Medical, 401k w/ matching 4%,**_Generous_**PTO (25 days),
-Holidays, Relocation Assistance**  
-**Job Type: Full-Time**  
-**Typical Hours: M-F, 8am-5pm;**_Great Work/Life Balance!_  
-**Sponsorship is not available**
-
-**Hardware Engineering Manager (electrical hardware design req.) Description**
-
-Our client is looking for an Engineering Manager to add to their team near
-Columbus, OH. You will oversee their engineering team (3) and R&D from each
-project's discovery phase up to each product's delivery to production. Your
-team will be designing customized electronic solutions for vehicles,
-industrial, and marine applications. This is an exciting time for our client
-as vehicles move more towards hybrid and EV. Because the solutions they design
-are so niche, there isn't as much competition in the marketplace so you can
-feel **secure** about making this move. What's even better is the control they
-have over their work. They own their building and production making everything
-in their job shop. You'll have the **flexibility** you don't often see since
-they're not relying on contract manufacturing. You'd be a perfect fit if you
-enjoy working with smaller companies and believe in that player/coach
-leadership style. Someone who values communication and prides themselves on
-their ability to build and mend bridges while still being a hands-on
-contributor. You will be taking over engineering from one of their partners
-who will be retiring within the next year. So, you'll have the best of both
-worlds - the mentorship of an industry veteran who wants to hand over the keys
-and the **autonomy** to help scale up their team to account for new business
-growth. If you enjoy being an active contributor while still having
-your**fingerprints on larger strategic initiatives** , this is the perfect
-opportunity for you to have more impact without compromising your work/life
-balance.
-
-**Hardware Engineering Manager (electrical hardware design req.)
-Responsibilities**
-
-• Manage a team of engineers (3) and drive scaling-up efforts  
-• Partner cross-functionally during the product design phase  
-• Attend sales calls, scope projects, and evaluate project viability  
-• Delegate assignments while personally owning some projects from concept to
-production  
-• Develop review process, lead status meetings, and drive results  
-• Oversee pre-production and prototype builds  
-• Suggest core technology improvements and maintain industry awareness  
-• Act as a visionary for R&D initiatives including the evaluation of old
-designs  
-• Create and maintain relationships with key OEM contacts  
-• Identify continuous improvement opportunities across processes and personnel  
-• Pursue development opportunities and nurture a culture of innovation  
-• Set and monitor expectations while providing the team with appropriate
-mentorship
-
-**Hardware Engineering Manager (electrical hardware design req.)
-Qualifications**
-
-• Bachelor's degree in electrical engineering required  
-• New product development and R&D experience within electronic manufacturing
-required  
-• Previous hands-on experience with software programming required  
-• Strong hardware design background required  
-• Leadership experience required
-
-**If you have trouble applying via the ""Apply Now"" button, please copy and
-paste this text link into your browser:**
-
-**https://twonice.hire.trakstar.com/jobs/fk0vzwt?cjb_hash=O_hzLX38
-&apply_now=true**
-
-**About #twiceasnice Recruiting**
-
-Across industries, roles, and North America, we help clients quickly attract
-top talent with custom-built searches. With the lowest fee in the industry,
-the longest guarantee, and commission-free senior recruiters - we align our
-interests with the long-term success of every placement.
-
-**Need recruiting help? www.twonice.com**"
-https://www.ziprecruiter.com/jobs//j?lvk=0iVnCIB4Wy5V718LHd0gMA,zip_recruiter,"Software Engineer, Platform",InfluxData,,"Dallas, TX, USA",fulltime,2024-02-21,yearly,140000.0,180000.0,USD,,0,,"_jobs@influxdata.com, apply@influxdata.com","_Beware of job scams and fraudulent offers! Our recruiters use
-@__influxdata.com_ _email addresses exclusively. We do not conduct interviews
-via text or instant message and we do not ask candidates to download software
-other than Zoom, to purchase equipment through us, or to provide sensitive
-personally identifiable information such as bank accounts or social security
-numbers. If you have been contacted by someone claiming to be from InfluxData
-from a different domain about a job offer, please report it as potential job
-fraud to law enforcement and to_ _jobs@influxdata.com_ _._
-
-InfluxData is the creator of InfluxDB, the leading time series platform used
-to collect, store, and analyze all time series data at any scale. Developers
-can query and analyze their time-stamped data in real-time to discover,
-interpret, and share new insights to gain a competitive edge. InfluxData is a
-remote-first company with a globally distributed workforce. For more
-information, visit www.influxdata.com.
-
-In this role you will get the opportunity to build kubernetes automation for
-the provisioning and maintenance of clusters that host our database product
-for our customers. We are building infrastructure for the major three cloud
-providers to rapidly provision, scale, and decommission customer resources.
-Our team is 100% remote now and in the future. Being part of an on-call
-rotation is a requirement of this role.
-
-At this time, we are prioritizing those located in the Pacific, Mountain or
-Central time zones.
-
-**What you 'll be doing**
-
-  * Writing golang kubernetes operators.
-
-  * Implementing an internal API to expose infrastructure as a service.
-
-  * Designing, building, and operating a distributed systems solution for hosting InfluxDB.
-
-  * Communicating designs and reviews with fellow engineers.
-
-  * Building with and contributing to the kubernetes open source community.
-
-**What we 're looking for**
-
-  * Strong CS fundamentals.
-
-  * 3 years of experience in platform engineering, operations, and automation.
-
-  * 3 years of experience working with the major cloud providers (AWS, GCP, Azure).
-
-  * Experience working with kubernetes.
-
-  * Experience working with distributed asynchronous teams.
-
-**Bonus points if you**
-
-  * Have experience working on distributed systems.
-
-  * Have experience building database systems.
-
-  * Have experience with Rust.
-
-**Pay Transparency at InfluxData**
-
-InfluxData takes a market-based approach to pay, and pay may vary depending on
-your location. U.S. locations are categorized into two zones based on a cost
-of labor index for that geographic area. The offered starting salary will be
-determined based on the candidate's job-related skills, experience,
-qualifications, work location, and market conditions. Ranges are evaluated on
-a periodic basis and are subject to change at the Company's discretion.
-
-Range: $140,000 - 180,000 USD
-
-To find a location's zone designation or for additional information, please
-speak to your recruiter.
-
-In addition to a competitive base salary, InfluxData offers comprehensive and
-inclusive employee benefits including medical, dental, vision, and mental
-health benefits, a 401(k) plan, flexible paid time off, home office or co-
-working reimbursements, and participation in InfluxData's equity program
-(where applicable)
-
-**We offer fantastic benefits for full time employees; in the US these
-include:**
-
-  * Medical/dental/vision insurance with 100% coverage for employees and dependents
-
-  * Company contribution to your FSA
-
-  * Flexible Time Off - take the time you need
-
-  * Life Insurance, short and long term disability insurance
-
-  * 401k
-
-  * Wellness programs
-
-  * Annual professional development budget
-
-  * Financial planning and legal advice
-
-**Our Core Values**
-
-Our employees are the heart of the company and only by having a core set of
-beliefs and values will we be successful. We hire and live by these core
-values:
-
-  * We value each other
-
-  * We get stuff done
-
-  * We believe humility drives learning
-
-  * We embrace failure
-
-  * We are committed to open source
-
- _Visit our_ _careers page_ _to learn more about working at InfluxData._
-
-InfluxData is an Equal Opportunity Employer. All qualified applicants will
-receive consideration for employment without regard to race, color, religion,
-sex, sexual orientation, gender identity, national origin, disability,
-protected veteran status or any other categories protected by applicable law.
-
-To view our Know Your Rights Poster click _HERE_
-
-To view our CCPA policies click _HERE_
-
-If you are a qualified individual with a disability or a disabled veteran, you
-may request a reasonable accommodation if you are unable or limited in your
-ability to use or access this website to apply for a vacancy as a result of
-your disability. You can request reasonable accommodations by reach out to the
-recruiting team by emailing apply@influxdata.com.
-
-InfluxData does not accept unsolicited resumes from headhunters and
-recruitment agencies through our website, job board or directly to employees.
-InfluxData will not pay fees to any third-party agency, headhunter or company
-that does not have a signed agreement for this position in place.
-
-Compensation Range: $140K - $180K"
-https://www.ziprecruiter.com/jobs//j?lvk=2P3I506zHtga_k9VJ8owOw,zip_recruiter,Software Engineer (React Native Mobile Developer),Ascendion,,"Dallas, TX, USA",fulltime,2024-02-21,hourly,60.0,65.0,USD,,0,,,"**Client:** Financial Services
-
-**Role:** React Native Mobile Developer
-
-**Location:** Remote
-
-b. TypeScript/JavaScript and modern frameworks (React, React Native, Node.js)
-
-c. Experience with modern application architectures leveraging public cloud
-technology and services
-
-d. Experience as multidisciplinary engineer handling as aspects of shipping
-code to production (development, QA automation, CI/CD pipeline automation,
-IaC, observability automation)
-
-e. Experience in successful delivery of high-quality, high-volume, performant
-Digital experiences and applications
-
-You will:
-
-  * Deliver customer-facing experiences for mobile and web, directly contributing to core interface design and write code.
-  * Serve as a role model for software design and scalable systems architecture by developing, sharing, and setting the quality bar.
-  * Design, build and maintain scalable, reliable and performant services and systems.
-  * Make significant hands-on contributions to deliver critical projects and bring value to customers.
-  * Lead by example to uphold high engineering standards and elevate quality and engineering efficiency across.
-  * Collaborate with stakeholders across the organization including dependent engineering teams, product, design, infrastructure and operations.
-
-We're looking for someone that has:
-
-  * A strong technical background, including software delivery experience as a generalist working on the front-end, back-end and any other technology needed to deploy code to production. You will work mostly with TypeScript & JavaScript on new experiences and APIs (Angular, React, Ionic, React Native, Node.js) with the potential to work in existing applications built with Java and .NET.
-  * A true passion for customer experience, performant applications and quality.
-  * Experience running software on public cloud platforms, developing applications with cloud services and automated cloud pipelines.
-  * Experience in successful delivery of high-quality, scalable production services and systems.
-  * Experience in test-driven development and deployment through Agile DevOps methodology, mindset and best practices.
-  * Hands-on experience with automation including test automation, IaC, and automated releases.
-  * Experience building and contributing to CI/CD platform and processes using best-in-class DevOps and Observability tooling.
-  * Experience with serverless development.
-  * Can thrive in a collaborative environment involving multiple stakeholders and subject matters experts.
-
-**Salary Range:** The salary for this position is between $111k - $120k
-annually. Factors which may affect pay within this range may include
-geography/market, skills, education, experience, and other qualifications of
-the successful candidate.
-
-**Benefits:** The Company offers the following benefits for this position,
-subject to applicable eligibility requirements: [medical insurance] [dental
-insurance] [vision insurance] [401(k) retirement plan] [long-term disability
-insurance] [short-term disability insurance] [5 personal day(s) accrued each
-calendar year. The Paid time off benefits meet the paid sick and safe time
-laws that pertains to the City/ State] [10-15 day(s) of paid vacation time] [6
-paid holiday(s) and 1 floating holiday per calendar year] [Ascendion Learning
-Management System]
-
-Want to change the world? Let us know.
-
-Tell us about your experiences, education, and ambitions. Bring your
-knowledge, unique viewpoint, and creativity to the table. Let's talk!"
-https://www.ziprecruiter.com/jobs//j?lvk=kJTewcpFWEIefqvxNlsv8w,zip_recruiter,Software Developer (Hybrid role),Tentamus North America,,"Grand Prairie, TX, USA",,2024-02-20,yearly,75000.0,90000.0,USD,,0,,,"**Tentamus North America** , is seeking a strong **Software Developer** to
-assist with the development of our internal laboratory IMS (LIMS).
-
-**Main responsibilities:**
-
-  * Developing applications, scripts and modules for our LIMS (laboratory information management system) in cooperation with internal lab customers.
-  * Supporting laboratory software solutions, optimization of software and processes in the laboratory environment, adaptations according to own and external requirements.
-  * Advising colleagues in the laboratory as well as support for technical problems with hardware and software - in cooperation with IT department.
-  * Creating and updating documentation and process descriptions.
-  * Work with the Development team on projects for labs in the U.S. and globally.
-
-**Qualifications:**
-
-  * Associates or Bachelors' degree in business or information technology or comparable training
-  * 6+ years development experience preferred
-  * Relevant programming skills in languages: JAVA, React, Groovy, HTML, XML, SQL and Crystal Reports are desirable
-  * Knowledgeable with REST/SOAP API's
-  * Professional experience in project management
-  * Knowledge in requirements analysis, customizing and programming, testing and ticketing systems are an advantage
-  * Dynamic, assertive, creative and organized individual
-  * Economic and entrepreneurial thinking skills
-  * Ability to work from home 2 days per week and able to commute to our lab in Grand Prairie, TX
-
-**What we offer you:**
-
-  * Competitive salary
-  * Comprehensive and low-cost benefits package
-  * 401k with 3% match
-  * Industry stability with global presence
-  * Company that is growing
-  * Challenging tasks, a motivated team and a long-term perspective
-  * A family-conscious working environment
-
-** _Labs for Life_**. We are a global network of full-service accredited
-analytical laboratories providing crucial quality and safety analysis for
-clients locally, nationally, and beyond using proven methods of chemistry and
-microbiology. Many of the products you use and consume daily rely on Tentamus
-labs. With 18 labs in the U.S. and growing (100 globally), we celebrate having
-the most talented diverse scientific and service-oriented professionals in the
-industry.
-
-_**www.tentamus.com**_
-
+https://www.indeed.com/viewjob?jk=0072d6a83df23871,indeed,Cloud Engineer,CVS Health,https://www.indeed.com/cmp/CVS-Health,"Irving, TX, USA",fulltime,2024-03-05,yearly,92700.0,185400.0,USD,False,0,,ColleagueRelations@CVSHealth.com,"Bring your heart to CVS Health. Every one of us at CVS Health shares a single,
+clear purpose: Bringing our heart to every moment of your health. This purpose
+guides our commitment to deliver enhanced human-centric health care for a
+rapidly changing world. Anchored in our brand -- with heart at its center --
+our purpose sends a personal message that how we deliver our services is just
+as important as what we deliver.  
   
+Our Heart At Work Behaviors™ support this purpose. We want everyone who works
+at CVS Health to feel empowered by the role they play in transforming our
+culture and accelerating our ability to innovate and deliver solutions to make
+health care more personal, convenient and affordable.
+
+**Position Summary**  
+Sr Cloud Engineer of Data Engineering will own the deliverables end-to-end
+Retail Data Platform and collaborate with different stakeholders.
+
+The Sr Cloud Engineer will:
+
+  * Implement components of the platform & infrastructure
+  * Work with a large cross-functional team developing product, including multiple digital scrum teams, IT project, legal and other partners
+  * Identify, assess, and resolve complex platform engineering problems, issues, risks and facilitate issue resolution and risk mitigation
+  * Develop, test, iterate, deploy, and continually innovate and improve current product
+
+**Required Qualifications**
+
+  * Owns deliverable timeline to ensure stable and steady operations
+  * Hands-on experience to implement and maintain cloud-based infrastructure on platforms.
+  * Expertise in Azure app services such as AKS/ACR/AKV/AzureVM/Azure Databricks/Azure IAM/Azure Service bus/Azure Storage/Azure HDI.
+  * Deploy and manage microservices architecture, with expertise in Kubernetes.
+  * Work with core Kubernetes objects like Deployments and Stateful Sets for container orchestration using Airflow/Kubeflow.
+  * Implement DevOps best practices and utilize tools such as Jenkins for CI/CD automation.
+  * Establish and maintain robust CI/CD pipelines, with a deep understanding of Git and GitHub workflows.
+
+**  
+Preferred Qualifications**
+
+  * 3-5 years of experience with cloud platforms, preferably GCP or/and Azure.
+  * 5+ years of Linux/system administration expertise.
+  * 3-5 years of practical experience with DevOps practices and CI/CD tools (e.g., Jenkins).
+  * Strong proficiency (2 years) in Git, and GitHub workflows.
+  * 3-5 years of experience in microservice architecture and deployment on Kubernetes (Azure preferred).
+  * Hands-on experience (2+) with serverless computing and containerization technologies (e.g., Docker).
+  * Programming experience with Python (preferred), Java, SQL.
+
+**  
+Education**
+
+Bachelors with 1-3 years with relevant experience or Masters Degree
+
+**Pay Range**
+
+The typical pay range for this role is:
+
+$92,700.00 - $185,400.00
+
+This pay range represents the base hourly rate or base annual full-time salary
+for all positions in the job grade within which this position falls. The
+actual base salary offer will depend on a variety of factors including
+experience, education, geography and other relevant factors. This position is
+eligible for a CVS Health bonus, commission or short-term incentive program in
+addition to the base pay range listed above.  
   
-** _Job Posted by ApplicantPro_**"
-https://www.ziprecruiter.com/jobs//j?lvk=Bo23IDtYODhhYqO3Bfz9EQ,zip_recruiter,"Software Engineer, PLC, SCADA, WinCC OA  Dallas (SW1836)",Riccione Resources,,"Dallas, TX, USA",,2024-02-12,yearly,80000.0,115000.0,USD,,0,,,"**Software Engineer, PLC, SCADA,WinCC OA Dallas**
+In addition to your compensation, enjoy the rewards of an organization that
+puts our heart into caring for our colleagues and our communities. The Company
+offers a full range of medical, dental, and vision benefits. Eligible
+employees may enroll in the Company's 401(k) retirement savings plan, and an
+Employee Stock Purchase Plan is also available for eligible employees. The
+Company provides a fully-paid term life insurance plan to eligible employees,
+and short-term and long term disability benefits. CVS Health also offers
+numerous well-being programs, education assistance, free development courses,
+a CVS store discount, and discount programs with participating partners. As
+for time off, Company employees enjoy Paid Time Off (""PTO"") or vacation pay,
+as well as paid holidays throughout the calendar year. Number of paid
+holidays, sick time and other time off are provided consistent with relevant
+state law and Company policies.  
+  
+For more detailed information on available benefits, please visit
+jobs.CVSHealth.com/benefits
+
+We anticipate the application window for this opening will close on:
+03/11/2024
+
+CVS Health requires certain colleagues to be fully vaccinated against COVID-19
+(including any booster shots if required), where allowable under the law,
+unless they are approved for a reasonable accommodation based on disability,
+medical condition, religious belief, or other legally recognized reasons that
+prevents them from being vaccinated.
+
+You are required to have received at least one COVID-19 shot prior to your
+first day of employment and to provide proof of your vaccination status or
+apply for a reasonable accommodation within the first 10 days of your
+employment. Please note that in some states and roles, you may be required to
+provide proof of full vaccination or an approved reasonable accommodation
+before you can begin to actively work.
+
+CVS Health is committed to recruiting, hiring, developing, advancing, and
+retaining individuals with disabilities. As such, we strive to provide equal
+access to the benefits and privileges of employment, including the provision
+of a reasonable accommodation to perform essential job functions. CVS Health
+can provide a request for a reasonable accommodation, including a qualified
+interpreter, written information in other formats, translation or other
+services through ColleagueRelations@CVSHealth.com If you have a speech or
+hearing disability, please call 7-1-1 to utilize Telecommunications Relay
+Services (TRS). We will make every effort to respond to your request within 48
+business hours and do everything we can to work towards a solution."
+https://www.indeed.com/viewjob?jk=31703cd982e639bd,indeed,Software Engineer,JPMorgan Chase & Co,https://www.indeed.com/cmp/JPMorgan-Chase-&-Co-7555c073,"Plano, TX, USA",fulltime,2024-03-04,,,,,False,0,,,"**JOB DESCRIPTION**
+
+**  
+DESCRIPTION:**
+
+**Duties:** Design, develop and implement software solutions. Solve business
+problems through innovation and engineering practices. Involved in all aspects
+of the Software Development Lifecycle (SDLC) including analyzing requirements,
+incorporating architectural standards into application design specifications,
+documenting application specifications, translating technical requirements
+into programmed application modules, and developing or enhancing software
+application modules. Identify or troubleshoot application code-related issues.
+Take active role in code reviews to ensure solutions are aligned to pre-
+defined architectural specifications. Assist with design reviews by
+recommending ways to incorporate requirements into designs and information or
+data flows. Participate in project planning sessions with project managers,
+business analysts, and team members to analyze business requirements and
+outline proposed solutions.
+
+**QUALIFICATIONS:**
+
+**Minimum education and experience required:** Bachelor's degree in Applied
+Computer Science, Information Technology, or related field of study plus seven
+(7) years of experience in the job offered or as Software Engineer, Computer
+Programmer, IT Consultant, or related occupation. The employer will
+alternatively accept a Master's degree in Applied Computer Science,
+Information Technology, or related field of study plus five (5) years of
+experience in the job offered or as Software Engineer, Computer Programmer, IT
+Consultant, or related occupation.
+
+**Skills Required:** Requires experience in the following: Angular; Apache
+Zookeeper; AWS or Azure Cloud Services; Docker; Hibernate; Java; JSON; Maven;
+Oracle; React; Bootstrap; Javascript; Junit; Microservices; Performance
+Testing; REST; Splunk; Apache Kafka; CSS; GIT; Infrastructure Architecture
+Disciplines; Jenkins; Kubernetes; SOAP and REST web services; Spring
+Framework; Apache Tomcat; Cassandra; J2EE; JQuery; Linux; NodeJS; Software
+Development; SQL; TypeScript; XML; Drools; and Camunda.
+
+**Job Location:** 8181 Communications Parkway, Plano, TX 75024. Telecommuting
+permitted up to 40% of the week.
+
+**ABOUT US**  
+
+JPMorgan Chase & Co., one of the oldest financial institutions, offers
+innovative financial solutions to millions of consumers, small businesses and
+many of the world's most prominent corporate, institutional and government
+clients under the J.P. Morgan and Chase brands. Our history spans over 200
+years and today we are a leader in investment banking, consumer and small
+business banking, commercial banking, financial transaction processing and
+asset management.
+
+We offer a competitive total rewards package including base salary determined
+based on the role, experience, skill set, and location. For those in eligible
+roles, we offer discretionary incentive compensation which may be awarded in
+recognition of firm performance and individual achievements and contributions.
+We also offer a range of benefits and programs to meet employee needs, based
+on eligibility. These benefits include comprehensive health care coverage, on-
+site health and wellness centers, a retirement savings plan, backup childcare,
+tuition reimbursement, mental health support, financial coaching and more.
+Additional details about total compensation and benefits will be provided
+during the hiring process.
+
+We recognize that our people are our strength and the diverse talents they
+bring to our global workforce are directly linked to our success. We are an
+equal opportunity employer and place a high value on diversity and inclusion
+at our company. We do not discriminate on the basis of any protected
+attribute, including race, religion, color, national origin, gender, sexual
+orientation, gender identity, gender expression, age, marital or veteran
+status, pregnancy or disability, or any other basis protected under applicable
+law. We also make reasonable accommodations for applicants' and employees'
+religious practices and beliefs, as well as mental health or physical
+disability needs. Visit our FAQs for more information about requesting an
+accommodation.
+
+JPMorgan Chase is an Equal Opportunity Employer, including Disability/Veterans
 
   
 
-Our mid-size client firm, a leader in its industry, is hiring a Software
-Engineer to work on software solutions for large-scale automated assembly. The
-primary focus is control system configuration and development, including
-microprocessor-based servo motion control, heating applications, analog and
-digital sensors, network communication, and graphical user interfaces.
-Opportunity for a project engineering role, initially or in the future. This
-entails overseeing, leading, and managing the project.
-
+  
   
 
-**Why should you apply here?**
-
-  * Successful 25+ year old firm
-  * Large domestic and global clients
-  * Factory automation, Robotics, Device Control Systems
-  * Staff of 25 Engineers in the business unit, 16 Software Engineers
-  * Employee high retention rate
-  * No-cost medical insurance for employee and family coverage
+**ABOUT THE TEAM**  
+  
+Commercial Banking is focused on helping our clients succeed and making a
+positive difference in our communities. We provide credit and financing,
+treasury and payment services, international banking and real estate services
+to clients including corporations, municipalities, institutions, real estate
+investors and owners, and nonprofit organizations."
+https://www.indeed.com/viewjob?jk=279924e2c973cfef,indeed,Software Engineer,JPMorgan Chase & Co,https://www.indeed.com/cmp/JPMorgan-Chase-&-Co-7555c073,"Plano, TX, USA",fulltime,2024-03-04,,,,,False,0,,,"**JOB DESCRIPTION**
 
   
+DESCRIPTION:
 
-**What will you be doing?**
-
-  * Work on projects throughout the full SCLC, including specification, design, programming, implementation, integration, commissioning, and debugging
-  * Work in a structured coding environment and participate in projects that involve software and hardware
-  * Program in Siemens Scripting or Allen Bradley Scripting
-  * Work on cross-functional teams with mechanical/electrical design, project management, and manufacturing
-  * Opportunity for a project engineering role, initially or in the future. Entails overseeing leading, and managing the project
-  * Works directly with customer to troubleshoot and solve critical problems within the automation system
-  * Presents information and interfaces with customers and leadership
-  * Develops and executes functional software test plans to validate project requirements
-  * Travel to customer sites
-
-  
-
-**What are the minimum qualifications?**
-
-  * Bachelor of Science in Electrical, Computer Engineering, Mechanical, Mathematics, etc.
-  * 3+ years of experience
-  * Experience programming in one of the following:
-  * Siemens Scripting/Siemens PLC programming (TIA-Step 7) or equivalent, WinCC Advanced, WinCC OA, WinCC Flex,**_OR_**
-  * Allen Bradley Scripting, Allen Bradley Studio 5000, FactoryTalk View ME
-  * Must be able to travel 35% of the time, primarily domestically, with potential for international travel
-  * Excellent oral and written communication skills are a must
+Duties: Develop software engineering solutions. Develop and automate large
+scale, high performance data processing systems to drive and improve product
+experience. Build scalable Spark data pipelines leveraging scheduler/executor
+framework. Identify additional capabilities gaps for data platform to support
+models. Design and build telemetry and usage tracking solutions for BI tools
+to improve tool governance and monitoring. Design data models for optimal
+storage and retrieval as well as to meet critical product and business
+requirements. Support logging of the bank's data flow along with architecting
+logging best practices. Perform cloud engineering. Build modern data pipeline
+streams for analytics use-cases. Maintain data resources to ensure strong
+delivery. Support the data development teams in sprints for daily deliveries.
+Collaborate with data scientists, data analysts, product owners to analyze
+data requirements for models and business objectives.
 
   
+QUALIFICATIONS:
 
-**What will make your rsum stand out?**
+Minimum education and experience required: Bachelor's degree in Applied
+Computer Science, Computer Science, Information Technology, or related field
+of study plus 5 years of experience in the job offered or as Software
+Engineer, IT Analyst/Consultant, or related occupation.
 
-  * Experience in factory automation or control systems
-  * Self-starter, able to work independently, act and deliver results, and exercise a high level of judgment
-  * Project leadership/management skills
+Skills Required: Requires experience in the following: Java; JSON; Maven;
+Oracle; Spark; UNIX; Hive; Junit; Performance Testing; Shell Scripting;
+Jenkins; Python; Cucumber; Hadoop; J2EE; Software Development; SQL; XML;
+Teradata; Big Data; CI/CD Jules; ETL Data Warehousing; Abinitio; Informatica;
+PowerShell; Control-M; SQL Server.
 
-  
+Job Location: 8181 Communications Pkwy, Plano, TX 75024
 
-**Location:** 100% on-site. Headquarters in Dallas, TX.
-
-  
-
-**Relocation:** Assistance offered.
-
-  
-
-**Citizenship:** U.S. Citizens. If necessary, you may need to get DOD security
-clearance.
+**ABOUT US**
 
   
+Chase is a leading financial services firm, helping nearly half of America's
+households and small businesses achieve their financial goals through a broad
+range of financial products. Our mission is to create engaged, lifelong
+relationships and put our customers at the heart of everything we do. We also
+help small businesses, nonprofits and cities grow, delivering solutions to
+solve all their financial needs.
 
-**Salary:** 80k 115k, Paid Overtime (10k - 20k), 401k matching is 6%.
-Fullypaid medicalinsurance for employees and dependents."
-https://www.ziprecruiter.com/jobs//j?lvk=jGsqDcPARqqb5ikn15-C8A,zip_recruiter,Senior Software Engineer,Spero Llc,,"Dallas, TX, USA",fulltime,2024-01-28,hourly,50.0,60.0,USD,,0,,,"Job Title: Sr. Software Engineer  
-Location: Ft Worth, Texas (50% on-site role)  
-Job Description:  
-We are seeking a highly skilled and experienced Sr. Software Engineer to join
-our team and design, develop, implement, document, and support various
-internally developed Train Control Systems, including Positive Train Control
-(PTC), Train Sheets, and various supporting .NET applications/services, with a
-focus on Safety and High Availability. The ideal candidate will use technology
-systems/applications development experience to analyze requirements, evaluate
-design alternatives, and develop software solutions that meet business
-objectives.  
-Key Responsibilities:  
+We offer a competitive total rewards package including base salary determined
+based on the role, experience, skill set, and location. For those in eligible
+roles, discretionary incentive compensation which may be awarded in
+recognition of individual achievements and contributions. We also offer a
+range of benefits and programs to meet employee needs, based on eligibility.
+These benefits include comprehensive health care coverage, on-site health and
+wellness centers, a retirement savings plan, backup childcare, tuition
+reimbursement, mental health support, financial coaching and more. Additional
+details about total compensation and benefits will be provided during the
+hiring process.
 
-  * Design, develop, implement, document, and support various internally developed Train Control Systems
-  * Use technology systems/applications development experience to analyze requirements, evaluate design alternatives, and develop software solutions that meet business objectives
-  * The applications developed will primarily use the .Net framework, the C# language, ASP.NET, Geographic Information System (GIS) and SQL Server databases in implementing Microsoft based software systems for an intranet web environment
-  * Key responsibilities will be the architecture and design of applications for a safety-sensitive environment
-  * Work with business customers for requirements gathering and system analysis
-  * Responsible for design, implementation, and all phases of testing
-  * Ensure best practices are followed in implementing technical solutions
+We recognize that our people are our strength and the diverse talents they
+bring to our global workforce are directly linked to our success. We are an
+equal opportunity employer and place a high value on diversity and inclusion
+at our company. We do not discriminate on the basis of any protected
+attribute, including race, religion, color, national origin, gender, sexual
+orientation, gender identity, gender expression, age, marital or veteran
+status, pregnancy or disability, or any other basis protected under applicable
+law. We also make reasonable accommodations for applicants' and employees'
+religious practices and beliefs, as well as mental health or physical
+disability needs. Visit our FAQs for more information about requesting an
+accommodation.
 
-Basic Qualifications:  
+Equal Opportunity Employer/Disability/Veterans
 
-  * B.S. degree in a technical or Engineering field or at least 6 years of equivalent business experience/ equivalent formal training
-  * At least 6 years of Object Oriented Development experience
-  * 5+ years of proven hands-on experience developing distributed systems based using C# to develop .Net Framework based desktop client applications and highly available Windows Services
-  * 5+ years of SQL Server
-  * Extensive web API and microservice development, integration and orchestration
-  * Experienced at unit, integration, system level testing and troubleshooting issues across platforms
-  * Able to identify underlying problems and appropriate techniques for solving them
-  * Excellent verbal and written communication skills
-  * Excellent organizational skills
-  * Solid analytical and problem-solving skills
-  * Must be a team player who shares knowledge
-  * Able to work in high performing teams and deliver under pressure situations
-
-Highly Qualified Candidates Will Have:  
-
-  * 10 years of Object Oriented Development experience
-  * Experience in safety critical product development (e.g. rail, medical, aerospace...)
-  * Experience with Web Forms ASP.NET, JavaScript, CSS, HTML
-  * Experience with GIS
-
-If you're a team player with a passion for technology and a desire to work
-with a growing company, we encourage you to apply for this exciting
-opportunity.  
   
+  
+  
+**ABOUT THE TEAM**  
+  
+Our Consumer & Community Banking division serves our Chase customers through a
+range of financial services, including personal banking, credit cards,
+mortgages, auto financing, investment advice, small business loans and payment
+processing. We're proud to lead the U.S. in credit card sales and deposit
+growth and have the most-used digital solutions - all while ranking first in
+customer satisfaction."
+https://www.indeed.com/viewjob?jk=abc9d7e7a73eedbe,indeed,Senior Software Engineer,JPMorgan Chase & Co,https://www.indeed.com/cmp/JPMorgan-Chase-&-Co-7555c073,"Plano, TX, USA",fulltime,2024-03-04,,,,,False,0,,,"**JOB DESCRIPTION**
 
-Flexible work from home options available."
-https://www.ziprecruiter.com/jobs//j?lvk=hJxD0980U97zaLdYF7nj_g,zip_recruiter,Experienced Software Engineer Java / Python (Full Stack or Back End),JPMorgan Chase & Co,,"Plano, TX, USA",,2023-02-04,,,,,,0,,,"As an Experienced **Software** **Engineer** at JPMorgan Chase within the
-Global Technology team, you serve as member of an agile team to design and
-deliver trusted market-leading technology products in a ..."
+  
+We have an exciting and rewarding opportunity for you to take your software
+engineering career to the next level.
+
+As a Software Engineer III at JPMorgan Chase within the Consumer & Community
+Banking - Data Services team, you serve as a seasoned member of an agile team
+to design and deliver trusted market-leading technology products in a secure,
+stable, and scalable way. You are responsible for carrying out critical
+technology solutions across multiple technical areas within various business
+functions in support of the firm's business objectives.
+
+**Job responsibilities**
+
+  * Executes software solutions, design, development, and technical troubleshooting with ability to think beyond routine or conventional approaches to build solutions or break down technical problems
+  * Creates secure and high-quality production code and maintains algorithms that run synchronously with appropriate systems
+  * Produces architecture and design artifacts for complex applications while being accountable for ensuring design constraints are met by software code development
+  * Gathers, analyzes, synthesizes, and develops visualizations and reporting from large, diverse data sets in service of continuous improvement of software applications and systems
+  * Proactively identifies hidden problems and patterns in data and uses these insights to drive improvements to coding hygiene and system architecture
+  * Contributes to software engineering communities of practice and events that explore new and emerging technologies
+  * Adds to team culture of diversity, equity, inclusion, and respect
+
+**Required qualifications, capabilities, and skills**
+
+  * Formal training or certification on software engineering concepts and 3+ years applied experience
+  * Hands-on practical experience in system design, application development, testing, and operational stability
+  * Hands-on practical experience in ETL and Data warehouse applications
+  * Proficient in coding in one or more languages (JAVA, Python, PySpark)
+  * Proficient in SQL, able to write complex SQL Queries
+  * Experience in developing, debugging, and maintaining code in a large corporate environment with one or more modern programming languages and database querying languages
+  * Overall knowledge of the Software Development Life Cycle
+  * Solid understanding of agile methodologies such as CI/CD, Applicant Resiliency, and Security
+  * Demonstrated knowledge of software applications and technical processes within a technical discipline (e.g., cloud, artificial intelligence, machine learning, mobile, etc.)
+
+**Preferred qualifications, capabilities, and skills**
+
+  * Familiarity with modern front-end technologies
+  * Exposure to cloud technologies (AWS, Databricks, NiFi)
+  * Data Modeling & Analysis, experience with Data Modeling tools preferably ERWIN 
+
+**ABOUT US**
+
+  
+Chase is a leading financial services firm, helping nearly half of America's
+households and small businesses achieve their financial goals through a broad
+range of financial products. Our mission is to create engaged, lifelong
+relationships and put our customers at the heart of everything we do. We also
+help small businesses, nonprofits and cities grow, delivering solutions to
+solve all their financial needs.
+
+We offer a competitive total rewards package including base salary determined
+based on the role, experience, skill set, and location. For those in eligible
+roles, discretionary incentive compensation which may be awarded in
+recognition of individual achievements and contributions. We also offer a
+range of benefits and programs to meet employee needs, based on eligibility.
+These benefits include comprehensive health care coverage, on-site health and
+wellness centers, a retirement savings plan, backup childcare, tuition
+reimbursement, mental health support, financial coaching and more. Additional
+details about total compensation and benefits will be provided during the
+hiring process.
+
+We recognize that our people are our strength and the diverse talents they
+bring to our global workforce are directly linked to our success. We are an
+equal opportunity employer and place a high value on diversity and inclusion
+at our company. We do not discriminate on the basis of any protected
+attribute, including race, religion, color, national origin, gender, sexual
+orientation, gender identity, gender expression, age, marital or veteran
+status, pregnancy or disability, or any other basis protected under applicable
+law. We also make reasonable accommodations for applicants' and employees'
+religious practices and beliefs, as well as mental health or physical
+disability needs. Visit our FAQs for more information about requesting an
+accommodation.
+
+Equal Opportunity Employer/Disability/Veterans
+
+  
+  
+  
+**ABOUT THE TEAM**  
+  
+Our Consumer & Community Banking division serves our Chase customers through a
+range of financial services, including personal banking, credit cards,
+mortgages, auto financing, investment advice, small business loans and payment
+processing. We're proud to lead the U.S. in credit card sales and deposit
+growth and have the most-used digital solutions - all while ranking first in
+customer satisfaction."
+https://www.linkedin.com/jobs/view/3846223940,linkedin,Full Stack Web Developer (Junior level),Matrix Fitness USA,https://www.linkedin.com/company/matrixfitnessusa,"Evansville, IN",,2024-03-05,,,,,,,,,
+https://www.linkedin.com/jobs/view/3841415630,linkedin,Entry Level Software Engineer (Remote),Engtal,https://www.linkedin.com/company/engtal,,,2024-03-02,,,,,,,,,
+https://www.linkedin.com/jobs/view/3841325655,linkedin,"Software Engineer Intern, Full-Stack",Loop,https://www.linkedin.com/company/loop-payments,"San Francisco, CA",,2024-02-29,,,,,,,,,
+https://www.linkedin.com/jobs/view/3840806257,linkedin,Frontend Software Engineer,Lumafield,https://www.linkedin.com/company/lumafield,"San Francisco, CA",,2024-02-27,,,,,,,,,
+https://www.linkedin.com/jobs/view/3838854957,linkedin,Software Engineer Intern- Remotes,Roku,https://www.linkedin.com/company/roku,"San Jose, CA",,2024-02-27,,,,,,,,,
+https://www.linkedin.com/jobs/view/3838194196,linkedin,Software Engineer - Early Career,Lockheed Martin,https://www.linkedin.com/company/lockheed-martin,"Fort Worth, TX",,2024-02-27,,,,,,,,,
+https://www.linkedin.com/jobs/view/3837055358,linkedin,Software Engineer - Fullstack,Remi,https://www.linkedin.com/company/remilabs,"Lehi, UT",,2024-02-23,,,,,,,,,
+https://www.linkedin.com/jobs/view/3831975122,linkedin,Software Engineer (University Grad),Meta,https://www.linkedin.com/company/meta,"Fremont, CA",,2024-02-16,,,,,,,,,
+https://www.linkedin.com/jobs/view/3848411263,linkedin,Junior Software Development Engineer,Team Remotely Inc,https://www.linkedin.com/company/team-remotely-llc,"Baltimore, MD",,,,,,,,,,,
+https://www.linkedin.com/jobs/view/3843648879,linkedin,Software Engineer: Web Developer,Nanobiosym,https://www.linkedin.com/company/nanobiosym,"Cambridge, MA",,,,,,,,,,,
