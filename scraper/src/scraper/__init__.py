@@ -1,5 +1,5 @@
 import pandas as pd
-from typing import Tuple
+from typing import Tuple, Union, List
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from .jobs import JobType, Location
@@ -15,24 +15,47 @@ from .scrapers.exceptions import (
 
 
 def scrape(
-    sites: str | list[str] | Site | list[Site] | None = None,
-    search_term: str | None = None,
-    location: str | None = None,
-    distance: int | None = None,
+    sites: Union[str, List[str], Site, List[Site], None] = None,
+    search_term: Optional[str] = None,
+    location: Optional[str] = None,
+    distance: Optional[int] = None,
     is_remote: bool = False,
-    job_type: str | None = None,
-    easy_apply: bool | None = None,
+    job_type: Optional[str] = None,
+    easy_apply: Optional[bool] = None,
     jobs_count: int = 15,
     country_indeed: str = "india",
     hyperlinks: bool = False,
-    proxy: str | None = None,
+    proxy: Optional[str] = None,
     description_format: str = "markdown",
-    linkedin_fetch_description: bool | None = False,
-    linkedin_company_ids: list[int] | None = None,
-    offset: int | None = 0,
-    hours_old: int = None,
+    linkedin_fetch_description: Optional[bool] = False,
+    linkedin_company_ids: Optional[List[int]] = None,
+    offset: Optional[int] = 0,
+    hours_old: Optional[int] = None,
     **kwargs,
 ) -> pd.DataFrame:
+    """Scrape job postings from multiple websites and return them as a DataFrame.
+
+    Args:
+        sites (Union[str, List[str], Site, List[Site], None]): Websites to scrape.
+        search_term (str, optional): Search term for job postings. Defaults to None.
+        location (str, optional): Location for job search. Defaults to None.
+        distance (int, optional): Distance around the location. Defaults to None.
+        is_remote (bool, optional): Whether to include remote jobs. Defaults to False.
+        job_type (str, optional): Type of job (full-time, part-time, etc.). Defaults to None.
+        easy_apply (bool, optional): Whether to filter jobs with easy apply option. Defaults to None.
+        jobs_count (int, optional): Number of jobs to scrape. Defaults to 15.
+        country_indeed (str, optional): Country for Indeed scraping. Defaults to "india".
+        hyperlinks (bool, optional): Whether to include hyperlinks in job URLs. Defaults to False.
+        proxy (str, optional): Proxy settings. Defaults to None.
+        description_format (str, optional): Format of job description (markdown or html). Defaults to "markdown".
+        linkedin_fetch_description (bool, optional): Whether to fetch job descriptions from LinkedIn. Defaults to False.
+        linkedin_company_ids (List[int], optional): LinkedIn company IDs for filtering jobs. Defaults to None.
+        offset (int, optional): Offset for job search. Defaults to 0.
+        hours_old (int, optional): Maximum hours since job posting. Defaults to None.
+
+    Returns:
+        pd.DataFrame: DataFrame containing scraped job postings.
+    """
     SCRAPER_MAPPING = {
         Site.LINKEDIN: LinkedInScraper,
         Site.INDEED: IndeedScraper,
@@ -42,7 +65,7 @@ def scrape(
     def map_str_to_site(sites: str) -> Site:
         return Site[sites.upper()]
 
-    def get_enum_from_value(value_str):
+    def get_enum_from_value(value_str: str) -> JobType:
         for job_type in JobType:
             if value_str in job_type.value:
                 return job_type
@@ -50,7 +73,7 @@ def scrape(
 
     job_type = get_enum_from_value(job_type) if job_type else None
 
-    def get_site_type():
+    def get_site_type() -> List[Site]:
         site_types = list(Site)
         if isinstance(sites, str):
             site_types = [map_str_to_site(sites)]
@@ -90,7 +113,7 @@ def scrape(
 
     site_to_jobs_dict = {}
 
-    def worker(site):
+    def worker(site: Site) -> Tuple[str, JobResponse]:
         site_val, scraped_info = scrape_site(site)
         return site_val, scraped_info
 
@@ -103,7 +126,7 @@ def scrape(
             site_value, scraped_data = future.result()
             site_to_jobs_dict[site_value] = scraped_data
 
-    jobs_dfs: list[pd.DataFrame] = []
+    jobs_dfs: List[pd.DataFrame] = []
 
     for site, job_response in site_to_jobs_dict.items():
         for job in job_response.jobs:
@@ -147,7 +170,7 @@ def scrape(
 
     if jobs_dfs:
         jobs_df = pd.concat(jobs_dfs, ignore_index=True)
-        desired_order: list[str] = [
+        desired_order: List[str] = [
             "job_url_hyper" if hyperlinks else "job_url",
             "site",
             "title",

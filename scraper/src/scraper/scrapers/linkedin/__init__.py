@@ -33,16 +33,35 @@ from ..utils import (
 
 
 class LinkedInScraper(Scraper):
+    """
+    A scraper class to extract job listings from LinkedIn.
+    """
+
     base_url = "https://www.linkedin.com"
     delay = 3
 
     def __init__(self, proxy: Optional[str] = None):
+        """
+        Initialize the LinkedInScraper.
+
+        Args:
+            proxy (Optional[str]): Proxy URL if needed.
+        """
         self.scraper_input = None
         site = Site(Site.LINKEDIN)
         self.country = "worldwide"
         super().__init__(site, proxy=proxy)
 
     def scrape(self, scraper_input: ScraperInput) -> JobResponse:
+        """
+        Scrape job listings from LinkedIn.
+
+        Args:
+            scraper_input (ScraperInput): Input parameters for scraping.
+
+        Returns:
+            JobResponse: Response containing job listings.
+        """
         self.scraper_input = scraper_input
         job_list: list[JobPost] = []
         seen_urls = set()
@@ -143,6 +162,17 @@ class LinkedInScraper(Scraper):
     def _process_job(
         self, job_card: Tag, job_url: str, full_descr: bool
     ) -> Optional[JobPost]:
+        """
+        Process individual job card and extract job information.
+
+        Args:
+            job_card (Tag): HTML tag containing job information.
+            job_url (str): URL of the job listing.
+            full_descr (bool): Whether to fetch full job description.
+
+        Returns:
+            Optional[JobPost]: JobPost object containing job information.
+        """
         salary_tag = job_card.find("span", class_="job-search-card__salary-info")
 
         compensation = None
@@ -210,9 +240,13 @@ class LinkedInScraper(Scraper):
         self, job_page_url: str
     ) -> tuple[None, None] | tuple[str | None, tuple[str | None, JobType | None]]:
         """
-        Retrieves job description by going to the job page url
-        :param job_page_url:
-        :return: description or None
+        Retrieves job description by going to the job page url.
+
+        Args:
+            job_page_url (str): URL of the job listing.
+
+        Returns:
+            tuple[None, None] | tuple[str | None, tuple[str | None, JobType | None]]: Description and job type.
         """
         try:
             session = create_session(is_tls=False, has_retry=True)
@@ -244,6 +278,15 @@ class LinkedInScraper(Scraper):
         return description, self._parse_job_type(soup)
 
     def _get_location(self, metadata_card: Optional[Tag]) -> Location:
+        """
+        Extract location information from metadata card.
+
+        Args:
+            metadata_card (Optional[Tag]): HTML tag containing metadata.
+
+        Returns:
+            Location: Location object containing city, state, and country.
+        """
         location = Location(country=Country.from_string(self.country))
         if metadata_card is not None:
             location_tag = metadata_card.find(
@@ -267,6 +310,15 @@ class LinkedInScraper(Scraper):
 
     @staticmethod
     def _parse_job_type(soup_job_type: BeautifulSoup) -> list[JobType] | None:
+        """
+        Parse job type information from BeautifulSoup object.
+
+        Args:
+            soup_job_type (BeautifulSoup): BeautifulSoup object containing job type information.
+
+        Returns:
+            list[JobType] | None: List of job types.
+        """
         h3_tag = soup_job_type.find(
             "h3",
             class_="description__job-criteria-subheader",
@@ -287,6 +339,15 @@ class LinkedInScraper(Scraper):
 
     @staticmethod
     def job_type_code(job_type_enum: JobType) -> str:
+        """
+        Get the job type code based on the enum.
+
+        Args:
+            job_type_enum (JobType): Job type enum.
+
+        Returns:
+            str: Job type code.
+        """
         return {
             JobType.FULL_TIME: "F",
             JobType.PART_TIME: "P",

@@ -24,6 +24,15 @@ if not logger.handlers:
 
 
 def count_urgent_words(description: str) -> int:
+    """
+    Count the number of urgent words in a job description.
+
+    Args:
+        description (str): The job description.
+
+    Returns:
+        int: Number of urgent words found.
+    """
     urgent_patterns = re.compile(
         r"\burgen(t|cy)|\bimmediate(ly)?\b|start asap|\bhiring (now|immediate(ly)?)\b",
         re.IGNORECASE,
@@ -35,6 +44,15 @@ def count_urgent_words(description: str) -> int:
 
 
 def markdown_converter(description_html: str):
+    """
+    Convert HTML description to markdown format.
+
+    Args:
+        description_html (str): The HTML description.
+
+    Returns:
+        str: Markdown formatted description.
+    """
     if description_html is None:
         return ""
     text_maker.ignore_links = False
@@ -46,6 +64,15 @@ def markdown_converter(description_html: str):
 
 
 def extract_emails_from_text(text: str) -> list[str] | None:
+    """
+    Extract emails from text.
+
+    Args:
+        text (str): The text to search for emails.
+
+    Returns:
+        list[str] | None: List of email addresses found, or None if no emails found.
+    """
     if not text:
         return None
     email_regex = re.compile(r"[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}")
@@ -58,6 +85,18 @@ def create_session(
     has_retry: bool = False,
     delay: int = 1,
 ) -> requests.Session:
+    """
+    Create and configure a requests session.
+
+    Args:
+        proxy (dict, optional): Proxy settings. Defaults to None.
+        is_tls (bool, optional): Whether to use TLS client. Defaults to True.
+        has_retry (bool, optional): Whether to enable request retries. Defaults to False.
+        delay (int, optional): Delay factor for retry backoff. Defaults to 1.
+
+    Returns:
+        requests.Session: Configured requests session.
+    """
     if is_tls:
         session = tls_client.Session(random_tls_extension_order=True)
         session.proxies = proxy
@@ -82,6 +121,15 @@ def create_session(
 
 
 def get_enum_from_job_type(job_type_str: str) -> JobType | None:
+    """
+    Get JobType enum from string.
+
+    Args:
+        job_type_str (str): Job type string.
+
+    Returns:
+        JobType | None: Corresponding JobType enum or None if not found.
+    """
     res = None
     for job_type in JobType:
         if job_type_str in job_type.value:
@@ -90,6 +138,15 @@ def get_enum_from_job_type(job_type_str: str) -> JobType | None:
 
 
 def currency_parser(cur_str):
+    """
+    Parse currency string to float.
+
+    Args:
+        cur_str: Currency string.
+
+    Returns:
+        float: Parsed currency value.
+    """
     cur_str = re.sub("[^-0-9.,]", "", cur_str)
     cur_str = re.sub("[.,]", "", cur_str[:-3]) + cur_str[-3:]
     if "." in list(cur_str[-3:]):
