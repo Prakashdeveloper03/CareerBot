@@ -1,39 +1,71 @@
 {
-    "intents": [
-        {
-            "tag": "greeting",
-            "patterns": ["Hi", "Hello", "Hey"],
-            "responses": ["Hello! How can I help you?", "Hi there! What can I do for you?", "Hey! How may I assist you?"]
-        },
-        {
-            "tag": "goodbye",
-            "patterns": ["Bye", "Goodbye", "See you later"],
-            "responses": ["Goodbye! Have a great day!", "See you later! Take care!", "Bye! Come back soon!"]
-        },
-        {
-            "tag": "thanks",
-            "patterns": ["Thank you", "Thanks", "Appreciate it"],
-            "responses": ["You're welcome!", "No problem!", "Anytime!"]
-        },
-        {
-            "tag": "options",
-            "patterns": ["What can you do?", "What services do you offer?", "How can you help?"],
-            "responses": ["I can provide information, answer questions, and more. Feel free to ask!"]
-        }, 
-        {
-            "tag": "python_course_recommendation",
-            "patterns": ["Do you have any suggestions for a Python course?", "Python courses", "Where can I find Python tutorials?"],
-            "responses": ["Great choice! Here are some Python courses you might find useful: \n1. Complete Python Bootcamp: Go from zero to hero in Python 3, \n2. Python for Data Science and Machine Learning Bootcamp, \n3. Automate the Boring Stuff with Python."]
-        },
-        {
-            "tag": "java_course_recommendation",
-            "patterns": ["I want to learn Java", "Java courses", "Where can I find Java tutorials?"],
-            "responses": ["Excellent! Consider these Java courses: \n1. Java Programming Masterclass for Software Developers, \n2. Java In-Depth: Become a Complete Java Engineer!, \n3. Java Certification Training Course."]
-        },
-        {
-            "tag": "javascript_course_recommendation",
-            "patterns": ["I want to learn JavaScript", "JavaScript courses", "Where can I find JavaScript tutorials?"],
-            "responses": ["Fantastic choice! Check out these JavaScript courses: \n1. The Complete JavaScript Course 2021: From Zero to Expert!, \n2. JavaScript: Understanding the Weird Parts, \n3. JavaScript Algorithms and Data Structures Masterclass."]
-        }
-    ]
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "Hello", "Hey"],
+      "responses": [
+        "Hello! How can I help you?",
+        "Hi there! What can I do for you?",
+        "Hey! How may I assist you?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "Goodbye", "See you later"],
+      "responses": [
+        "Goodbye! Have a great day!",
+        "See you later! Take care!",
+        "Bye! Come back soon!"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thank you", "Thanks", "Appreciate it"],
+      "responses": ["You're welcome!", "No problem!", "Anytime!"]
+    },
+    {
+      "tag": "options",
+      "patterns": [
+        "What can you do?",
+        "What services do you offer?",
+        "How can you help?"
+      ],
+      "responses": [
+        "I can provide information, answer questions, and more. Feel free to ask!"
+      ]
+    },
+    {
+      "tag": "python_course_recommendation",
+      "patterns": [
+        "Do you have any suggestions for a Python course?",
+        "Python courses",
+        "Where can I find Python tutorials?"
+      ],
+      "responses": [
+        "Great choice! Here are some Python courses you might find useful: \n1. Complete Python Bootcamp: Go from zero to hero in Python 3, \n2. Python for Data Science and Machine Learning Bootcamp, \n3. Automate the Boring Stuff with Python."
+      ]
+    },
+    {
+      "tag": "java_course_recommendation",
+      "patterns": [
+        "I want to learn Java",
+        "Java courses",
+        "Where can I find Java tutorials?"
+      ],
+      "responses": [
+        "Excellent! Consider these Java courses: \n1. Java Programming Masterclass for Software Developers, \n2. Java In-Depth: Become a Complete Java Engineer!, \n3. Java Certification Training Course."
+      ]
+    },
+    {
+      "tag": "javascript_course_recommendation",
+      "patterns": [
+        "I want to learn JavaScript",
+        "JavaScript courses",
+        "Where can I find JavaScript tutorials?"
+      ],
+      "responses": [
+        "Fantastic choice! Check out these JavaScript courses: \n1. The Complete JavaScript Course 2021: From Zero to Expert!, \n2. JavaScript: Understanding the Weird Parts, \n3. JavaScript Algorithms and Data Structures Masterclass."
+      ]
+    }
+  ]
 }
