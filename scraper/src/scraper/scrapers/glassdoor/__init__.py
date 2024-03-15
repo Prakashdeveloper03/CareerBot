@@ -20,15 +20,7 @@ from ...jobs import (
 
 
 class GlassdoorScraper(Scraper):
-    """Class to scrape job postings from Glassdoor."""
-
     def __init__(self, proxy: Optional[str] = None):
-        """
-        Initialize the GlassdoorScraper.
-
-        Args:
-            proxy (Optional[str], optional): Proxy settings. Defaults to None.
-        """
         site = Site(Site.GLASSDOOR)
         super().__init__(site, proxy=proxy)
         self.base_url = None
@@ -40,13 +32,13 @@ class GlassdoorScraper(Scraper):
 
     def scrape(self, scraper_input: ScraperInput) -> JobResponse:
         """
-        Scrape job postings from Glassdoor.
+        Scrape job listings from Glassdoor based on the provided ScraperInput.
 
-        Args:
+        Parameters:
             scraper_input (ScraperInput): Input parameters for the scraper.
 
         Returns:
-            JobResponse: Response containing the scraped job postings.
+            JobResponse: JobResponse object containing the scraped job listings.
         """
         self.scraper_input = scraper_input
         self.scraper_input.results_wanted = min(900, scraper_input.results_wanted)
@@ -94,13 +86,13 @@ class GlassdoorScraper(Scraper):
         cursor: str | None,
     ) -> (list[JobPost], str | None):
         """
-        Fetch a page of job listings from Glassdoor.
+        Fetch job listings for a specific page.
 
-        Args:
+        Parameters:
             scraper_input (ScraperInput): Input parameters for the scraper.
             location_id (int): ID of the location for the job search.
-            location_type (str): Type of the location (CITY, STATE, COUNTRY).
-            page_num (int): Page number of the search results.
+            location_type (str): Type of the location (e.g., CITY, STATE, COUNTRY).
+            page_num (int): Page number to fetch job listings from.
             cursor (str | None): Cursor for pagination.
 
         Returns:
@@ -143,13 +135,13 @@ class GlassdoorScraper(Scraper):
 
     def _process_job(self, job_data):
         """
-        Process a single job listing.
+        Process individual job data.
 
-        Args:
-            job_data: Data of the job listing.
+        Parameters:
+            job_data (dict): Data of an individual job.
 
         Returns:
-            JobPost: Processed job posting.
+            JobPost | None: Processed JobPost object or None if the job is already seen.
         """
         job_id = job_data["jobview"]["job"]["listingId"]
         job_url = f"{self.base_url}job-listing/j?jl={job_id}"
@@ -200,13 +192,13 @@ class GlassdoorScraper(Scraper):
 
     def _fetch_job_description(self, job_id):
         """
-        Fetch the description of a job posting.
+        Fetch job description for a given job ID.
 
-        Args:
-            job_id: ID of the job listing.
+        Parameters:
+            job_id (str): ID of the job to fetch description for.
 
         Returns:
-            str: Description of the job posting.
+            str | None: Job description or None if fetching fails.
         """
         url = f"{self.base_url}/graph"
         body = [
@@ -242,14 +234,14 @@ class GlassdoorScraper(Scraper):
 
     def _get_location(self, location: str, is_remote: bool) -> (int, str):
         """
-        Get the location ID and type for the job search.
+        Get location details for the job search.
 
-        Args:
-            location (str): Location for the job search.
-            is_remote (bool): Whether the search is for remote jobs.
+        Parameters:
+            location (str): Location string.
+            is_remote (bool): Indicates if the job search is remote.
 
         Returns:
-            tuple: A tuple containing the location ID and type.
+            tuple: A tuple containing location ID and location type.
         """
         if not location or is_remote:
             return "11047", "STATE"  # remote options
@@ -288,14 +280,14 @@ class GlassdoorScraper(Scraper):
         """
         Add payload for the API request.
 
-        Args:
+        Parameters:
             location_id (int): ID of the location for the job search.
-            location_type (str): Type of the location (CITY, STATE, COUNTRY).
-            page_num (int): Page number of the search results.
-            cursor (str | None, optional): Cursor for pagination. Defaults to None.
+            location_type (str): Type of the location (e.g., CITY, STATE, COUNTRY).
+            page_num (int): Page number to fetch job listings from.
+            cursor (str | None): Cursor for pagination.
 
         Returns:
-            str: Payload for the API request.
+            str: JSON string representing the payload.
         """
         fromage = (
             max(self.scraper_input.hours_old // 24, 1)
@@ -498,13 +490,13 @@ class GlassdoorScraper(Scraper):
     @staticmethod
     def parse_compensation(data: dict) -> Optional[Compensation]:
         """
-        Parse compensation data.
+        Parse compensation data from the provided dictionary.
 
-        Args:
-            data (dict): Compensation data.
+        Parameters:
+            data (dict): Dictionary containing compensation data.
 
         Returns:
-            Optional[Compensation]: Parsed compensation data.
+            Compensation | None: Parsed Compensation object or None if data is missing.
         """
         pay_period = data.get("payPeriod")
         adjusted_pay = data.get("payPeriodAdjustedPay")
@@ -529,13 +521,13 @@ class GlassdoorScraper(Scraper):
     @staticmethod
     def get_job_type_enum(job_type_str: str) -> list[JobType] | None:
         """
-        Get JobType enum from string.
+        Get job type enum from the job type string.
 
-        Args:
+        Parameters:
             job_type_str (str): Job type string.
 
         Returns:
-            list[JobType] | None: List of JobType enum values.
+            list[JobType] | None: List of JobType enum or None if not found.
         """
         for job_type in JobType:
             if job_type_str in job_type.value:
@@ -544,13 +536,13 @@ class GlassdoorScraper(Scraper):
     @staticmethod
     def parse_location(location_name: str) -> Location | None:
         """
-        Parse location from string.
+        Parse location details from the location name.
 
-        Args:
+        Parameters:
             location_name (str): Location name string.
 
         Returns:
-            Location | None: Parsed Location object.
+            Location | None: Parsed Location object or None if location is remote or empty.
         """
         if not location_name or location_name == "Remote":
             return
@@ -560,14 +552,14 @@ class GlassdoorScraper(Scraper):
     @staticmethod
     def get_cursor_for_page(pagination_cursors, page_num):
         """
-        Get cursor for page from pagination cursors.
+        Get cursor for the specified page number.
 
-        Args:
-            pagination_cursors: Pagination cursors.
-            page_num: Page number.
+        Parameters:
+            pagination_cursors: Cursors for pagination.
+            page_num (int): Page number to get cursor for.
 
         Returns:
-            str: Cursor for the page.
+            str | None: Cursor for the specified page number or None if not found.
         """
         for cursor_data in pagination_cursors:
             if cursor_data["pageNumber"] == page_num:
@@ -583,10 +575,11 @@ class GlassdoorScraper(Scraper):
         "gd-csrf-token": "Ft6oHEWlRZrxDww95Cpazw:0pGUrkb2y3TyOpAIqF2vbPmUXoXVkD3oEGDVkvfeCerceQ5-n8mBg3BovySUIjmCPHCaW0H2nQVdqzbtsYqf4Q:wcqRqeegRUa9MVLJGyujVXB7vWFPjdaS1CtrrzJq-ok",
         "origin": "https://www.glassdoor.com",
         "referer": "https://www.glassdoor.com/",
-        "sec-ch-ua": '"Chromium";v="118", "Google Chrome";v="118", ";Not A Brand";v="99"',
+        "sec-ch-ua": '"Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"',
         "sec-ch-ua-mobile": "?0",
-        "sec-ch-ua-platform": '"Windows"',
+        "sec-ch-ua-platform": '"macOS"',
         "sec-fetch-dest": "empty",
         "sec-fetch-mode": "cors",
         "sec-fetch-site": "same-origin",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
     }

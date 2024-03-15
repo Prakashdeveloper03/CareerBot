@@ -9,7 +9,10 @@ from requests.adapters import HTTPAdapter, Retry
 
 from ..jobs import JobType
 
+# HTML to Markdown converter instance
 text_maker = html2text.HTML2Text()
+
+# Logger configuration
 logger = logging.getLogger("Scraper")
 logger.propagate = False
 if not logger.handlers:
@@ -27,11 +30,11 @@ def count_urgent_words(description: str) -> int:
     """
     Count the number of urgent words in a job description.
 
-    Args:
-        description (str): The job description.
+    Parameters:
+        description (str): The job description text.
 
     Returns:
-        int: Number of urgent words found.
+        int: The count of urgent words found in the description.
     """
     urgent_patterns = re.compile(
         r"\burgen(t|cy)|\bimmediate(ly)?\b|start asap|\bhiring (now|immediate(ly)?)\b",
@@ -45,13 +48,13 @@ def count_urgent_words(description: str) -> int:
 
 def markdown_converter(description_html: str):
     """
-    Convert HTML description to markdown format.
+    Convert HTML description to Markdown format.
 
-    Args:
-        description_html (str): The HTML description.
+    Parameters:
+        description_html (str): The HTML formatted job description.
 
     Returns:
-        str: Markdown formatted description.
+        str: The converted Markdown formatted description.
     """
     if description_html is None:
         return ""
@@ -65,13 +68,13 @@ def markdown_converter(description_html: str):
 
 def extract_emails_from_text(text: str) -> list[str] | None:
     """
-    Extract emails from text.
+    Extract email addresses from a text.
 
-    Args:
-        text (str): The text to search for emails.
+    Parameters:
+        text (str): The text containing email addresses.
 
     Returns:
-        list[str] | None: List of email addresses found, or None if no emails found.
+        list[str] | None: List of email addresses found in the text, or None if no emails found.
     """
     if not text:
         return None
@@ -88,11 +91,11 @@ def create_session(
     """
     Create and configure a requests session.
 
-    Args:
-        proxy (dict, optional): Proxy settings. Defaults to None.
-        is_tls (bool, optional): Whether to use TLS client. Defaults to True.
-        has_retry (bool, optional): Whether to enable request retries. Defaults to False.
-        delay (int, optional): Delay factor for retry backoff. Defaults to 1.
+    Parameters:
+        proxy (dict | None): Proxy settings for the session. Defaults to None.
+        is_tls (bool): Whether to use TLS for the session. Defaults to True.
+        has_retry (bool): Whether to include retry logic for the session. Defaults to False.
+        delay (int): Delay factor for retry logic. Defaults to 1.
 
     Returns:
         requests.Session: Configured requests session.
@@ -122,13 +125,13 @@ def create_session(
 
 def get_enum_from_job_type(job_type_str: str) -> JobType | None:
     """
-    Get JobType enum from string.
+    Get JobType enum from its string representation.
 
-    Args:
-        job_type_str (str): Job type string.
+    Parameters:
+        job_type_str (str): String representation of the JobType.
 
     Returns:
-        JobType | None: Corresponding JobType enum or None if not found.
+        JobType | None: JobType enum if found, else None.
     """
     res = None
     for job_type in JobType:
@@ -139,13 +142,13 @@ def get_enum_from_job_type(job_type_str: str) -> JobType | None:
 
 def currency_parser(cur_str):
     """
-    Parse currency string to float.
+    Parse currency string into numeric value.
 
-    Args:
-        cur_str: Currency string.
+    Parameters:
+        cur_str (str): The currency string to parse.
 
     Returns:
-        float: Parsed currency value.
+        float: The parsed numeric value of the currency.
     """
     cur_str = re.sub("[^-0-9.,]", "", cur_str)
     cur_str = re.sub("[.,]", "", cur_str[:-3]) + cur_str[-3:]

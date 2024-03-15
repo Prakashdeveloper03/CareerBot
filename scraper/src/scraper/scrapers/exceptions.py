@@ -1,6 +1,6 @@
 class LinkedInException(Exception):
     """
-    Exception raised for errors occurring during LinkedIn scraping.
+    Exception raised for errors related to LinkedIn scraping.
 
     Attributes:
         message (str): Explanation of the error.
@@ -10,15 +10,15 @@ class LinkedInException(Exception):
         """
         Initialize the LinkedInException.
 
-        Args:
-            message (str, optional): Explanation of the error. Defaults to None.
+        Parameters:
+            message (str): Explanation of the error. Defaults to None.
         """
-        super().__init__(message or "An error occurred during LinkedIn scraping.")
+        super().__init__(message or "An error occurred with LinkedIn")
 
 
 class IndeedException(Exception):
     """
-    Exception raised for errors occurring during Indeed scraping.
+    Exception raised for errors related to Indeed scraping.
 
     Attributes:
         message (str): Explanation of the error.
@@ -28,15 +28,15 @@ class IndeedException(Exception):
         """
         Initialize the IndeedException.
 
-        Args:
-            message (str, optional): Explanation of the error. Defaults to None.
+        Parameters:
+            message (str): Explanation of the error. Defaults to None.
         """
-        super().__init__(message or "An error occurred during Indeed scraping.")
+        super().__init__(message or "An error occurred with Indeed")
 
 
 class GlassdoorException(Exception):
     """
-    Exception raised for errors occurring during Glassdoor scraping.
+    Exception raised for errors related to Glassdoor scraping.
 
     Attributes:
         message (str): Explanation of the error.
@@ -46,7 +46,7 @@ class GlassdoorException(Exception):
         """
         Initialize the GlassdoorException.
 
-        Args:
-            message (str, optional): Explanation of the error. Defaults to None.
+        Parameters:
+            message (str): Explanation of the error. Defaults to None.
         """
-        super().__init__(message or "An error occurred during Glassdoor scraping.")
+        super().__init__(message or "An error occurred with Glassdoor")
