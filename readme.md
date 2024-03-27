@@ -17,13 +17,13 @@ This is repository contains source code for my final semester project.
 Open Anaconda prompt and create new environment
 
 ```
-conda create -n your_env_name python = (any_version_number > 3.10)
+conda create -n bot python=3.12
 ```
 
 Then Activate the newly created environment
 
 ```
-conda activate your_env_name
+conda activate bot
 ```
 
 Clone the repository using `git`
@@ -32,22 +32,22 @@ Clone the repository using `git`
 git clone https://github.com/Prakashdeveloper03/CareerBot.git
 ```
 
-Change to the cloned directory
+To install `poetry` package manager
 
 ```
-cd <directory_name>
+pip install poetry
 ```
 
-To install all requirement packages for the app
+To install all requirement packages locally,
 
 ```
-pip install -r requirements.txt
+poetry install
 ```
 
 Then, Run the app
 
 ```
-python app.py
+poetry run python app.py
 ```
 
 ## 📷 Screenshots
