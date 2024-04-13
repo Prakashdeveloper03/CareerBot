@@ -1,0 +1,213 @@
+% Chapter 4
+
+\chapter{\uppercase{Implementation of your work}} % Main chapter title
+\label{chap4} % For referencing
+
+This chapter explains about the implementation of various modules and the algorithms used in this system.
+
+\section{Course Recommendation Generator Function}
+\textbf{Workflow of the Proposed Recommendation System:}
+\begin{enumerate}
+    \item Retrieve course data from the course dataset and sort it by relevant attributes.
+    \item Retrieve skill measurement data from the skill dataset.
+    \item Retrieve user data, including preferences and career goals.
+    \item Set the variable \texttt{rb} as a reference to the skill measurement data.
+    \item Perform preprocessing on user input data using the \texttt{preprocessModule1} function, extracting relevant information such as user interests and career aspirations.
+    \item Perform content analysis and similarity computations on the preprocessed user data using the \texttt{contentSimilarityAnalyzer} function, leveraging cosine similarity measures to identify related courses and skillsets.
+    \item Iterate over each recommended item in the computed similarity data.
+    \item Recommend courses and skillsets using the \texttt{recommendationGenerator} function, considering the user's preferences and career goals.
+    \item Filter and refine recommendations based on availability and relevance to the user's current skill level and career trajectory.
+    \item Present the recommended courses and skillsets to the user through the chatbot interface.
+    \item Allow users to interact with the chatbot to provide feedback on recommendations and refine their preferences for future recommendations.
+\end{enumerate}
+
+\textbf{Algorithm for Course Recommendation Generator:}
+
+\begin{algorithm}
+\caption{Course Recommendation Generator}
+\begin{algorithmic}[1]
+\Require $courses$: Dataset of available courses, $skills$: Dataset of available skills, $user_preferences$: User's preferences and career goals
+\Ensure $recommended_courses_and_skills$: Recommended courses and skills
+\Function{RecommendationSystem}{$courses$, $skills$, $user_preferences$}
+\State $content_analysis_data \gets$ Perform Content Analysis on $user_preferences$ and $skills$
+\State $similarity_data \gets$ Calculate Similarity Measures on $content_analysis_data$
+\State $recommended_items \gets$ Generate Recommendations from $similarity_data$ and $courses$
+\State $refined_recommendations \gets$ Refine Recommendations based on $user_preferences$ and Availability
+\State \Return $refined_recommendations$
+\EndFunction
+\end{algorithmic}
+\end{algorithm}
+
+\section{STL Decomposition Function}
+\textbf{Workflow of the Proposed STL Function:}
+\begin{enumerate}
+    \item Input: The function takes three parameters: $data$ (the dataset), $target column$ (the column to decompose), and $period$ (the period of the seasonal component).
+    \item Seasonal Decomposition: The function performs seasonal decomposition on the target column of the data using the additive model. It decomposes the time series into three components: trend, seasonal, and residual.
+    \item Trend Extraction: The function extracts the trend component from the seasonal decomposition result and assigns it to the variable $trend$.
+    \item Seasonal Extraction: The function extracts the seasonal component from the seasonal decomposition result and assigns it to the variable $seasonal$.
+    \item Residual Extraction: The function extracts the residual component from the seasonal decomposition result and assigns it to the variable $residual$.
+    \item DataFrame Construction: The function creates a new DataFrame $data\_stl$ by concatenating the original data with the trend, seasonal, and residual components. The columns of the new DataFrame are named "Trend", "Seasonal", and "Residual".
+    \item DataFrame Concatenation: The function concatenates the $data$ DataFrame and the $data\_stl$ DataFrame along the columns axis.
+    \item Output: The function returns the resulting $data\_stl$ DataFrame, which contains the original data along with the extracted trend, seasonal, and residual components.
+\end{enumerate}
+
+\textbf{Algorithm 4.2 Pseudocode for \texttt{stlDecomposition} Function:}
+\begin{algorithm}
+\caption{STL Decomposition}
+\begin{algorithmic}[1]
+\Require $data$: Input dataframe for the \texttt{stlDecomposition} Function, $target column$: Input string for the \texttt{stlDecomposition} Function, $period$: Input number for the \texttt{stlDecomposition} Function
+\Ensure $data\_stl$: Output dataframe from \texttt{stlDecomposition} Function
+\Function{STL\_DECOMPOSITION}{$data$, $target column$, $period$}
+    \State $result \gets$ seasonal decompose($data$[$target column$], model='additive', period=$period$)
+    \State $trend \gets result.trend$
+    \State $seasonal \gets result.seasonal$
+    \State $residual \gets result.resid$
+    \State $data\_stl \gets$ pd.concat([$trend$, $seasonal$, $residual$], axis=1)
+    \State $data\_stl$.columns $\gets$ ["Trend", "Seasonal", "Residual"]
+    \State $data\_stl \gets$ pd.concat([$data$, $data\_stl$], axis=1)
+    \State \Return $data\_stl$
+\EndFunction
+\end{algorithmic}
+\end{algorithm}
+
+
+\section{Perform Imputation Function}
+
+\textbf{Workflow of the Proposed Imputation Function:}
+\begin{enumerate}
+    \item Input: The function takes a single parameter $X$, which is the input dataset containing missing values.
+    \item Imputer Initialization: The function initializes an instance of the IterativeImputer class as $imputer$. The IterativeImputer is a class for imputing missing values by modeling each feature with missing values as a function of other features.
+    \item Imputation: The function uses the fit transform method of the imputer object to perform imputation on the input dataset $X$. This method fits the imputer model on $X$ and transforms $X$ by filling in the missing values. The result is stored in $X\_filled$.
+    \item DataFrame Construction: The function creates a new DataFrame $X\_imputed$ using the filled data $X\_filled$. The columns of the new DataFrame are set to be the same as the columns of the original $X$ dataset.
+    \item Output: The function returns the resulting $X\_imputed$ DataFrame, which contains the input dataset $X$ with the missing values imputed.
+\end{enumerate}
+
+\textbf{Algorithm 4.3 Pseudocode for \texttt{performImputation} Function:}
+\begin{algorithm}
+\caption{Perform Imputation}
+\begin{algorithmic}[1]
+\Require $X$: Input dataframe for the \texttt{performImputation} Function
+\Ensure $X\_imputed$: Output dataframe from \texttt{performImputation} Function
+\Function{PERFORM\_IMPUTATION}{$X$}
+    \State $imputer \gets$ IterativeImputer(estimator=HistGradientBoostingRegressor())
+    \State $X\_filled \gets$ imputer.fit transform($X$)
+    \State $X\_imputed \gets$ pd.DataFrame($X\_filled$, columns = $X$.columns)
+    \State \Return $X\_imputed$
+\EndFunction
+\end{algorithmic}
+\end{algorithm}
+
+\section{Random Forest Regressor Algorithm}
+
+\textbf{Workflow of the Proposed Model:}
+\begin{enumerate}
+    \item Initialize an empty random forest model.
+    \item Repeat the following steps for each tree in the forest (100 trees in total):
+    \begin{enumerate}
+        \item Sample a bootstrap dataset from the training data. This involves randomly selecting samples from the training dataset with replacement, creating a new dataset of the same size as the original but with some duplicate samples.
+        \item Create a decision tree with a maximum depth of 5. The decision tree will recursively split the dataset based on the features and their values, aiming to minimize the mean squared error of the predicted values.
+        \item Fit the decision tree to the bootstrap dataset. The decision tree algorithm will determine the optimal splitting points for each node based on the selected features and their values.
+        \item Add the decision tree to the random forest model.
+    \end{enumerate}
+    \item Once all the trees are added to the forest, the model is ready for prediction.
+    \item To make a prediction, provide an input feature vector to the random forest model.
+    \item Each tree in the forest independently predicts the output value based on the input feature vector.
+    \item The final prediction is obtained by aggregating the predictions of all the trees. In the case of regression, this is commonly done by taking the average of the individual tree predictions.
+    \item The trained random forest model can be used to make predictions on new unseen data by passing the feature vectors through each tree in the forest and aggregating the results.
+\end{enumerate}
+
+\textbf{Algorithm 4.4 Pseudocode for Random Forest Regressor:}
+\begin{algorithm}
+\caption{Random Forest Regressor}
+\begin{algorithmic}[1]
+\Require $X$: Input features, $Y$: Output labels, $n\_estimators$: Number of trees in the random forest, $max\_depth$: Maximum depth of each tree
+\Ensure $forest$: Trained random forest model
+\Function{RANDOM\_FOREST\_REGRESSOR}{$X$, $Y$, $n\_estimators$, $max\_depth$}
+    \State Initialize an empty list $forest$
+    \For{$i$ in range($n\_estimators$)}
+        \State Sample a bootstrap dataset $X\_sample$, $Y\_sample$ from $X$, $Y$
+        \State Create a decision tree $T_i$ with maximum depth $max\_depth$
+        \State Fit the decision tree $T_i$ to $X\_sample$, $Y\_sample$
+        \State Add $T_i$ to the forest $forest$
+    \EndFor
+    \State \Return $forest$
+\EndFunction
+\end{algorithmic}
+\end{algorithm}
+
+\section{Gradient Boosting Regressor Algorithm}
+
+\textbf{Workflow of the Proposed Model:}
+\begin{enumerate}
+    \item Initialize the boosting model by setting the initial prediction value for each sample in the training data.
+    \item Repeat the following steps for each boosting stage (100 stages in total):
+    \begin{enumerate}
+        \item Compute the negative gradient of the loss function with respect to the current predictions. This represents the ”residuals” or errors that the model needs to correct.
+        \item Fit a regression tree to the negative gradients. The tree is trained to predict the negative gradients, which captures the information to correct the previous predictions.
+        \item Determine the step size (learning rate) by minimizing the loss function. The step size controls the contribution of each tree to the final prediction and helps prevent overfitting.
+        \item Update the model by adding the current tree’s predictions, scaled by the step size, to the previous predictions. This update corrects the previous predictions based on the new information learned from the current tree.
+    \end{enumerate}
+    \item Once all the boosting stages are completed, the model is ready for prediction.
+    \item To make a prediction, provide an input feature vector to the gradient boosting model.
+    \item Each regression tree in the ensemble independently predicts the output value based on the input feature vector.
+    \item The final prediction is obtained by summing the predictions of all the regression trees, weighted by the learning rate.
+    \item The trained gradient boosting model can be used to make predictions on new unseen data by passing the feature vectors through each tree in the ensemble and aggregating the results.
+\end{enumerate}
+
+\textbf{Algorithm 4.5 Pseudocode for Gradient Boosting Regressor:}
+\begin{algorithm}
+\caption{Gradient Boosting Regressor}
+\begin{algorithmic}[1]
+\Require $X$: Input features, $Y$: Output labels, $n\_estimators$: Number of boosting stages to perform, $max\_depth$: Maximum depth of each tree, $min\_samples\_leaf$: Minimum number of samples required to be at a leaf node, $learning\_rate$: Learning rate shrinks the contribution of each tree
+\Ensure $F_m(X)$: Trained gradient boosting model
+\Function{GRADIENT\_BOOSTING\_REGRESSOR}{$X$, $Y$, $n\_estimators$, $max\_depth$, $min\_samples\_leaf$, $learning\_rate$}
+    \State Initialize $F_0$ as a constant value
+    \For{$m$ in range($n\_estimators$)}
+        \State Compute the negative gradient $r_{im}$ for each sample $i$ using the loss function
+        \State Train a regression tree $h_m(X)$ to the negative gradients
+        \State Compute the step size $\gamma_m$ by minimizing the loss function
+        \State Update the function $F_m(X) = F_{m-1}(X) + \gamma_m \cdot h_m(X)$
+    \EndFor
+    \State \Return $F_m(X)$
+\EndFunction
+\end{algorithmic}
+\end{algorithm}
+
+\section{Histogram Gradient Boosting Regressor Algorithm}
+
+\textbf{Workflow of the Proposed Model:}
+\begin{enumerate}
+    \item Initialize the histogram-based gradient boosting model.
+    \item Repeat the following steps for each boosting stage (100 stages in total):
+    \begin{enumerate}
+        \item Compute the negative gradients (residuals) of the loss function with respect to the current predictions.
+        \item Construct histograms for each feature in the training data, partitioning the feature space into discrete bins.
+        \item For each feature, find the optimal splits to minimize the loss function within each bin, considering the negative gradients.
+        \item Build a tree structure using the best splits for each feature, where the nodes represent the bins and the leaves represent the predictions.
+        \item Update the model by adding the predictions of the current tree to the previous predictions, weighted by the learning rate.
+    \end{enumerate}
+    \item Once all the boosting stages are completed, the model is ready for prediction.
+    \item To make a prediction, provide an input feature vector to the histogram-based gradient boosting model.
+    \item The feature values are binned based on the histograms created during training, and the model navigates the tree structure to find the corresponding prediction.
+    \item The final prediction is obtained by summing the predictions of all the trees, weighted by the learning rate.
+    \item The trained histogram-based gradient boosting model can be used to make predictions on new unseen data by following the same binning and tree traversal process as during training.
+\end{enumerate}
+
+\textbf{Algorithm 4.6 Pseudocode for Histogram Gradient Boosting Regressor:}
+\begin{algorithm}
+\caption{Histogram Gradient Boosting Regressor}
+\begin{algorithmic}[1]
+\Require $X$: Input features, $Y$: Output labels, $max\_iter$: Maximum number of iterations (boosting stages) to perform, $max\_depth$: Maximum depth of each tree, $min\_samples\_leaf$: Minimum number of samples required to be at a leaf node
+\Ensure $F_m(X)$: Trained histogram-based gradient boosting model
+\Function{HIST\_GRADIENT\_BOOSTING\_REGRESSOR}{$X$, $Y$, $max\_iter$, $max\_depth$, $min\_samples\_leaf$}
+    \State Initialize $F_0$ as a constant value
+    \For{$m$ in range($max\_iter$)}
+        \State Compute the negative gradient $r_{im}$ for each sample $i$ using the loss function
+        \State Train a histogram-based gradient boosting tree $T_m(X)$ to the negative gradients
+        \State Compute the step size $\gamma_m$ by minimizing the loss function
+        \State Update the function $F_m(X) = F_{m-1}(X) + \gamma_m \cdot T_m(X)$
+    \EndFor
+    \State \Return $F_m(X)$
+\EndFunction
+\end{algorithmic}
+\end{algorithm}

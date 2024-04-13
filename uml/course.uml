@@ -1,0 +1,12 @@
+@startuml
+title Course Recommendation
+
+participant "User" as User
+participant "Recommendation System" as RS
+database "Firebase" as FirebaseDB
+
+User -> RS : Request recommendations
+RS -> FirebaseDB : Retrieve user data
+RS -> RS : Generate similarities, Filter, Rank
+RS -> User : Return recommendations
+@enduml
