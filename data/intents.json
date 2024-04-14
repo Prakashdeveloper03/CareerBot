@@ -1,0 +1,2084 @@
+{
+  "intents": [
+    {
+      "tag": "se_account_executive",
+      "patterns": [
+        "What skills are required for SE Account Executive?",
+        "Skills for SE Account Executive",
+        "What are the prerequisites for SE Account Executive?",
+        "List the required skills for SE Account Executive",
+        "Which skills do I need to become a SE Account Executive?"
+      ],
+      "responses": [
+        "To become a SE Account Executive, you'll need the following skills:\n- aws.",
+        "The essential skills for SE Account Executive include:\n- aws.",
+        "Here are the skills required to excel as a SE Account Executive:\n- aws.",
+        "Here's a list of skills you'll need for SE Account Executive:\n- aws."
+      ]
+    },
+    {
+      "tag": "accounts_payable_specialist",
+      "patterns": [
+        "What skills are required for Accounts Payable Specialist?",
+        "Skills for Accounts Payable Specialist",
+        "What are the prerequisites for Accounts Payable Specialist?",
+        "List the required skills for Accounts Payable Specialist",
+        "Which skills do I need to become a Accounts Payable Specialist?"
+      ],
+      "responses": [
+        "To become a Accounts Payable Specialist, you'll need the following skills:\n- problem solving.",
+        "The essential skills for Accounts Payable Specialist include:\n- problem solving.",
+        "Here are the skills required to excel as a Accounts Payable Specialist:\n- problem solving.",
+        "Here's a list of skills you'll need for Accounts Payable Specialist:\n- problem solving."
+      ]
+    },
+    {
+      "tag": "accounts_receivable_specialist_i",
+      "patterns": [
+        "What skills are required for Accounts Receivable Specialist I?",
+        "Skills for Accounts Receivable Specialist I",
+        "What are the prerequisites for Accounts Receivable Specialist I?",
+        "List the required skills for Accounts Receivable Specialist I",
+        "Which skills do I need to become a Accounts Receivable Specialist I?"
+      ],
+      "responses": [
+        "To become a Accounts Receivable Specialist I, you'll need the following skills:\n- aws.",
+        "The essential skills for Accounts Receivable Specialist I include:\n- aws.",
+        "Here are the skills required to excel as a Accounts Receivable Specialist I:\n- aws.",
+        "Here's a list of skills you'll need for Accounts Receivable Specialist I:\n- aws."
+      ]
+    },
+    {
+      "tag": "senior_project_scheduler",
+      "patterns": [
+        "What skills are required for Senior Project Scheduler?",
+        "Skills for Senior Project Scheduler",
+        "What are the prerequisites for Senior Project Scheduler?",
+        "List the required skills for Senior Project Scheduler",
+        "Which skills do I need to become a Senior Project Scheduler?"
+      ],
+      "responses": [
+        "To become a Senior Project Scheduler, you'll need the following skills:\n- interpersonal.",
+        "The essential skills for Senior Project Scheduler include:\n- interpersonal.",
+        "Here are the skills required to excel as a Senior Project Scheduler:\n- interpersonal.",
+        "Here's a list of skills you'll need for Senior Project Scheduler:\n- interpersonal."
+      ]
+    },
+    {
+      "tag": "ai_training_for_travel",
+      "patterns": [
+        "What skills are required for AI Training for Travel?",
+        "Skills for AI Training for Travel",
+        "What are the prerequisites for AI Training for Travel?",
+        "List the required skills for AI Training for Travel",
+        "Which skills do I need to become a AI Training for Travel?"
+      ],
+      "responses": [
+        "To become a AI Training for Travel, you'll need the following skills:\n- java.",
+        "The essential skills for AI Training for Travel include:\n- java.",
+        "Here are the skills required to excel as a AI Training for Travel:\n- java.",
+        "Here's a list of skills you'll need for AI Training for Travel:\n- java."
+      ]
+    },
+    {
+      "tag": "data_analyst_(remote_opportunity)",
+      "patterns": [
+        "What skills are required for Data Analyst (Remote Opportunity)?",
+        "Skills for Data Analyst (Remote Opportunity)",
+        "What are the prerequisites for Data Analyst (Remote Opportunity)?",
+        "List the required skills for Data Analyst (Remote Opportunity)",
+        "Which skills do I need to become a Data Analyst (Remote Opportunity)?"
+      ],
+      "responses": [
+        "To become a Data Analyst (Remote Opportunity), you'll need the following skills:\n- risk management.",
+        "The essential skills for Data Analyst (Remote Opportunity) include:\n- risk management.",
+        "Here are the skills required to excel as a Data Analyst (Remote Opportunity):\n- risk management.",
+        "Here's a list of skills you'll need for Data Analyst (Remote Opportunity):\n- risk management."
+      ]
+    },
+    {
+      "tag": "peoplesoft_developer",
+      "patterns": [
+        "What skills are required for PeopleSoft Developer?",
+        "Skills for PeopleSoft Developer",
+        "What are the prerequisites for PeopleSoft Developer?",
+        "List the required skills for PeopleSoft Developer",
+        "Which skills do I need to become a PeopleSoft Developer?"
+      ],
+      "responses": [
+        "To become a PeopleSoft Developer, you'll need the following skills:\n- scala.",
+        "The essential skills for PeopleSoft Developer include:\n- scala.",
+        "Here are the skills required to excel as a PeopleSoft Developer:\n- scala.",
+        "Here's a list of skills you'll need for PeopleSoft Developer:\n- scala."
+      ]
+    },
+    {
+      "tag": "unreal_engine_/_c++_engineer",
+      "patterns": [
+        "What skills are required for Unreal Engine / C++ Engineer?",
+        "Skills for Unreal Engine / C++ Engineer",
+        "What are the prerequisites for Unreal Engine / C++ Engineer?",
+        "List the required skills for Unreal Engine / C++ Engineer",
+        "Which skills do I need to become a Unreal Engine / C++ Engineer?"
+      ],
+      "responses": [
+        "To become a Unreal Engine / C++ Engineer, you'll need the following skills:\n- user experience.",
+        "The essential skills for Unreal Engine / C++ Engineer include:\n- user experience.",
+        "Here are the skills required to excel as a Unreal Engine / C++ Engineer:\n- user experience.",
+        "Here's a list of skills you'll need for Unreal Engine / C++ Engineer:\n- user experience."
+      ]
+    },
+    {
+      "tag": "rittal_automation_system_service_&_application_engineer",
+      "patterns": [
+        "What skills are required for Rittal Automation System Service & Application Engineer?",
+        "Skills for Rittal Automation System Service & Application Engineer",
+        "What are the prerequisites for Rittal Automation System Service & Application Engineer?",
+        "List the required skills for Rittal Automation System Service & Application Engineer",
+        "Which skills do I need to become a Rittal Automation System Service & Application Engineer?"
+      ],
+      "responses": [
+        "To become a Rittal Automation System Service & Application Engineer, you'll need the following skills:\n- leadership.",
+        "The essential skills for Rittal Automation System Service & Application Engineer include:\n- leadership.",
+        "Here are the skills required to excel as a Rittal Automation System Service & Application Engineer:\n- leadership.",
+        "Here's a list of skills you'll need for Rittal Automation System Service & Application Engineer:\n- leadership."
+      ]
+    },
+    {
+      "tag": "back_end_developer",
+      "patterns": [
+        "What skills are required for Back End Developer?",
+        "Skills for Back End Developer",
+        "What are the prerequisites for Back End Developer?",
+        "List the required skills for Back End Developer",
+        "Which skills do I need to become a Back End Developer?"
+      ],
+      "responses": [
+        "To become a Back End Developer, you'll need the following skills:\n- aws.",
+        "The essential skills for Back End Developer include:\n- aws.",
+        "Here are the skills required to excel as a Back End Developer:\n- aws.",
+        "Here's a list of skills you'll need for Back End Developer:\n- aws."
+      ]
+    },
+    {
+      "tag": "entry_level_data_engineer",
+      "patterns": [
+        "What skills are required for Entry Level Data Engineer?",
+        "Skills for Entry Level Data Engineer",
+        "What are the prerequisites for Entry Level Data Engineer?",
+        "List the required skills for Entry Level Data Engineer",
+        "Which skills do I need to become a Entry Level Data Engineer?"
+      ],
+      "responses": [
+        "To become a Entry Level Data Engineer, you'll need the following skills:\n- agile.",
+        "The essential skills for Entry Level Data Engineer include:\n- agile.",
+        "Here are the skills required to excel as a Entry Level Data Engineer:\n- agile.",
+        "Here's a list of skills you'll need for Entry Level Data Engineer:\n- agile."
+      ]
+    },
+    {
+      "tag": "senior_sustaining_engineer_-_remote",
+      "patterns": [
+        "What skills are required for Senior Sustaining Engineer - REMOTE?",
+        "Skills for Senior Sustaining Engineer - REMOTE",
+        "What are the prerequisites for Senior Sustaining Engineer - REMOTE?",
+        "List the required skills for Senior Sustaining Engineer - REMOTE",
+        "Which skills do I need to become a Senior Sustaining Engineer - REMOTE?"
+      ],
+      "responses": [
+        "To become a Senior Sustaining Engineer - REMOTE, you'll need the following skills:\n- machine learning.",
+        "The essential skills for Senior Sustaining Engineer - REMOTE include:\n- machine learning.",
+        "Here are the skills required to excel as a Senior Sustaining Engineer - REMOTE:\n- machine learning.",
+        "Here's a list of skills you'll need for Senior Sustaining Engineer - REMOTE:\n- machine learning."
+      ]
+    },
+    {
+      "tag": "cash_customer_operations_program_manager",
+      "patterns": [
+        "What skills are required for Cash Customer Operations Program Manager?",
+        "Skills for Cash Customer Operations Program Manager",
+        "What are the prerequisites for Cash Customer Operations Program Manager?",
+        "List the required skills for Cash Customer Operations Program Manager",
+        "Which skills do I need to become a Cash Customer Operations Program Manager?"
+      ],
+      "responses": [
+        "To become a Cash Customer Operations Program Manager, you'll need the following skills:\n- python.",
+        "The essential skills for Cash Customer Operations Program Manager include:\n- python.",
+        "Here are the skills required to excel as a Cash Customer Operations Program Manager:\n- python.",
+        "Here's a list of skills you'll need for Cash Customer Operations Program Manager:\n- python."
+      ]
+    },
+    {
+      "tag": "manager,_brand_research",
+      "patterns": [
+        "What skills are required for Manager, Brand Research?",
+        "Skills for Manager, Brand Research",
+        "What are the prerequisites for Manager, Brand Research?",
+        "List the required skills for Manager, Brand Research",
+        "Which skills do I need to become a Manager, Brand Research?"
+      ],
+      "responses": [
+        "To become a Manager, Brand Research, you'll need the following skills:\n- market research.",
+        "The essential skills for Manager, Brand Research include:\n- market research.",
+        "Here are the skills required to excel as a Manager, Brand Research:\n- market research.",
+        "Here's a list of skills you'll need for Manager, Brand Research:\n- market research."
+      ]
+    },
+    {
+      "tag": "business_analyst_*remote*",
+      "patterns": [
+        "What skills are required for Business Analyst *REMOTE*?",
+        "Skills for Business Analyst *REMOTE*",
+        "What are the prerequisites for Business Analyst *REMOTE*?",
+        "List the required skills for Business Analyst *REMOTE*",
+        "Which skills do I need to become a Business Analyst *REMOTE*?"
+      ],
+      "responses": [
+        "To become a Business Analyst *REMOTE*, you'll need the following skills:\n- git.",
+        "The essential skills for Business Analyst *REMOTE* include:\n- git.",
+        "Here are the skills required to excel as a Business Analyst *REMOTE*:\n- git.",
+        "Here's a list of skills you'll need for Business Analyst *REMOTE*:\n- git."
+      ]
+    },
+    {
+      "tag": "commercial_business_development_manager",
+      "patterns": [
+        "What skills are required for Commercial Business Development Manager?",
+        "Skills for Commercial Business Development Manager",
+        "What are the prerequisites for Commercial Business Development Manager?",
+        "List the required skills for Commercial Business Development Manager",
+        "Which skills do I need to become a Commercial Business Development Manager?"
+      ],
+      "responses": [
+        "To become a Commercial Business Development Manager, you'll need the following skills:\n- negotiation.",
+        "The essential skills for Commercial Business Development Manager include:\n- negotiation.",
+        "Here are the skills required to excel as a Commercial Business Development Manager:\n- negotiation.",
+        "Here's a list of skills you'll need for Commercial Business Development Manager:\n- negotiation."
+      ]
+    },
+    {
+      "tag": "business_analyst_(remote)",
+      "patterns": [
+        "What skills are required for Business Analyst (Remote)?",
+        "Skills for Business Analyst (Remote)",
+        "What are the prerequisites for Business Analyst (Remote)?",
+        "List the required skills for Business Analyst (Remote)",
+        "Which skills do I need to become a Business Analyst (Remote)?"
+      ],
+      "responses": [
+        "To become a Business Analyst (Remote), you'll need the following skills:\n- agile.",
+        "The essential skills for Business Analyst (Remote) include:\n- agile.",
+        "Here are the skills required to excel as a Business Analyst (Remote):\n- agile.",
+        "Here's a list of skills you'll need for Business Analyst (Remote):\n- agile."
+      ]
+    },
+    {
+      "tag": "process_safety_engineer",
+      "patterns": [
+        "What skills are required for Process Safety Engineer?",
+        "Skills for Process Safety Engineer",
+        "What are the prerequisites for Process Safety Engineer?",
+        "List the required skills for Process Safety Engineer",
+        "Which skills do I need to become a Process Safety Engineer?"
+      ],
+      "responses": [
+        "To become a Process Safety Engineer, you'll need the following skills:\n- interpersonal.",
+        "The essential skills for Process Safety Engineer include:\n- interpersonal.",
+        "Here are the skills required to excel as a Process Safety Engineer:\n- interpersonal.",
+        "Here's a list of skills you'll need for Process Safety Engineer:\n- interpersonal."
+      ]
+    },
+    {
+      "tag": "vice_president_of_information_technology",
+      "patterns": [
+        "What skills are required for Vice President of Information Technology?",
+        "Skills for Vice President of Information Technology",
+        "What are the prerequisites for Vice President of Information Technology?",
+        "List the required skills for Vice President of Information Technology",
+        "Which skills do I need to become a Vice President of Information Technology?"
+      ],
+      "responses": [
+        "To become a Vice President of Information Technology, you'll need the following skills:\n- risk management.",
+        "The essential skills for Vice President of Information Technology include:\n- risk management.",
+        "Here are the skills required to excel as a Vice President of Information Technology:\n- risk management.",
+        "Here's a list of skills you'll need for Vice President of Information Technology:\n- risk management."
+      ]
+    },
+    {
+      "tag": "director_of_security_operations_and_infrastructure",
+      "patterns": [
+        "What skills are required for Director of Security Operations and Infrastructure?",
+        "Skills for Director of Security Operations and Infrastructure",
+        "What are the prerequisites for Director of Security Operations and Infrastructure?",
+        "List the required skills for Director of Security Operations and Infrastructure",
+        "Which skills do I need to become a Director of Security Operations and Infrastructure?"
+      ],
+      "responses": [
+        "To become a Director of Security Operations and Infrastructure, you'll need the following skills:\n- recruitment.",
+        "The essential skills for Director of Security Operations and Infrastructure include:\n- recruitment.",
+        "Here are the skills required to excel as a Director of Security Operations and Infrastructure:\n- recruitment.",
+        "Here's a list of skills you'll need for Director of Security Operations and Infrastructure:\n- recruitment."
+      ]
+    },
+    {
+      "tag": "chief_data_officer",
+      "patterns": [
+        "What skills are required for Chief Data Officer?",
+        "Skills for Chief Data Officer",
+        "What are the prerequisites for Chief Data Officer?",
+        "List the required skills for Chief Data Officer",
+        "Which skills do I need to become a Chief Data Officer?"
+      ],
+      "responses": [
+        "To become a Chief Data Officer, you'll need the following skills:\n- agile.",
+        "The essential skills for Chief Data Officer include:\n- agile.",
+        "Here are the skills required to excel as a Chief Data Officer:\n- agile.",
+        "Here's a list of skills you'll need for Chief Data Officer:\n- agile."
+      ]
+    },
+    {
+      "tag": "civil_engineer",
+      "patterns": [
+        "What skills are required for Civil Engineer?",
+        "Skills for Civil Engineer",
+        "What are the prerequisites for Civil Engineer?",
+        "List the required skills for Civil Engineer",
+        "Which skills do I need to become a Civil Engineer?"
+      ],
+      "responses": [
+        "To become a Civil Engineer, you'll need the following skills:\n- aws.",
+        "The essential skills for Civil Engineer include:\n- aws.",
+        "Here are the skills required to excel as a Civil Engineer:\n- aws.",
+        "Here's a list of skills you'll need for Civil Engineer:\n- aws."
+      ]
+    },
+    {
+      "tag": "remote_clinical_psychologist_-_pediatrics",
+      "patterns": [
+        "What skills are required for Remote Clinical Psychologist - Pediatrics?",
+        "Skills for Remote Clinical Psychologist - Pediatrics",
+        "What are the prerequisites for Remote Clinical Psychologist - Pediatrics?",
+        "List the required skills for Remote Clinical Psychologist - Pediatrics",
+        "Which skills do I need to become a Remote Clinical Psychologist - Pediatrics?"
+      ],
+      "responses": [
+        "To become a Remote Clinical Psychologist - Pediatrics, you'll need the following skills:\n- written communication.",
+        "The essential skills for Remote Clinical Psychologist - Pediatrics include:\n- written communication.",
+        "Here are the skills required to excel as a Remote Clinical Psychologist - Pediatrics:\n- written communication.",
+        "Here's a list of skills you'll need for Remote Clinical Psychologist - Pediatrics:\n- written communication."
+      ]
+    },
+    {
+      "tag": "genesys_cloud_support_engineer",
+      "patterns": [
+        "What skills are required for Genesys Cloud Support Engineer?",
+        "Skills for Genesys Cloud Support Engineer",
+        "What are the prerequisites for Genesys Cloud Support Engineer?",
+        "List the required skills for Genesys Cloud Support Engineer",
+        "Which skills do I need to become a Genesys Cloud Support Engineer?"
+      ],
+      "responses": [
+        "To become a Genesys Cloud Support Engineer, you'll need the following skills:\n- java.",
+        "The essential skills for Genesys Cloud Support Engineer include:\n- java.",
+        "Here are the skills required to excel as a Genesys Cloud Support Engineer:\n- java.",
+        "Here's a list of skills you'll need for Genesys Cloud Support Engineer:\n- java."
+      ]
+    },
+    {
+      "tag": "aws_cloud_data_architect",
+      "patterns": [
+        "What skills are required for AWS Cloud Data Architect?",
+        "Skills for AWS Cloud Data Architect",
+        "What are the prerequisites for AWS Cloud Data Architect?",
+        "List the required skills for AWS Cloud Data Architect",
+        "Which skills do I need to become a AWS Cloud Data Architect?"
+      ],
+      "responses": [
+        "To become a AWS Cloud Data Architect, you'll need the following skills:\n- agile.",
+        "The essential skills for AWS Cloud Data Architect include:\n- agile.",
+        "Here are the skills required to excel as a AWS Cloud Data Architect:\n- agile.",
+        "Here's a list of skills you'll need for AWS Cloud Data Architect:\n- agile."
+      ]
+    },
+    {
+      "tag": "tester_with_workday",
+      "patterns": [
+        "What skills are required for Tester with Workday?",
+        "Skills for Tester with Workday",
+        "What are the prerequisites for Tester with Workday?",
+        "List the required skills for Tester with Workday",
+        "Which skills do I need to become a Tester with Workday?"
+      ],
+      "responses": [
+        "To become a Tester with Workday, you'll need the following skills:\n- oracle.",
+        "The essential skills for Tester with Workday include:\n- oracle.",
+        "Here are the skills required to excel as a Tester with Workday:\n- oracle.",
+        "Here's a list of skills you'll need for Tester with Workday:\n- oracle."
+      ]
+    },
+    {
+      "tag": "value-based_programs_analyst",
+      "patterns": [
+        "What skills are required for Value-Based Programs Analyst?",
+        "Skills for Value-Based Programs Analyst",
+        "What are the prerequisites for Value-Based Programs Analyst?",
+        "List the required skills for Value-Based Programs Analyst",
+        "Which skills do I need to become a Value-Based Programs Analyst?"
+      ],
+      "responses": [
+        "To become a Value-Based Programs Analyst, you'll need the following skills:\n- recruitment.",
+        "The essential skills for Value-Based Programs Analyst include:\n- recruitment.",
+        "Here are the skills required to excel as a Value-Based Programs Analyst:\n- recruitment.",
+        "Here's a list of skills you'll need for Value-Based Programs Analyst:\n- recruitment."
+      ]
+    },
+    {
+      "tag": "policy_analyst_ii",
+      "patterns": [
+        "What skills are required for Policy Analyst II?",
+        "Skills for Policy Analyst II",
+        "What are the prerequisites for Policy Analyst II?",
+        "List the required skills for Policy Analyst II",
+        "Which skills do I need to become a Policy Analyst II?"
+      ],
+      "responses": [
+        "To become a Policy Analyst II, you'll need the following skills:\n- aws.",
+        "The essential skills for Policy Analyst II include:\n- aws.",
+        "Here are the skills required to excel as a Policy Analyst II:\n- aws.",
+        "Here's a list of skills you'll need for Policy Analyst II:\n- aws."
+      ]
+    },
+    {
+      "tag": "manager-information_systems",
+      "patterns": [
+        "What skills are required for Manager-Information Systems?",
+        "Skills for Manager-Information Systems",
+        "What are the prerequisites for Manager-Information Systems?",
+        "List the required skills for Manager-Information Systems",
+        "Which skills do I need to become a Manager-Information Systems?"
+      ],
+      "responses": [
+        "To become a Manager-Information Systems, you'll need the following skills:\n- monitoring.",
+        "The essential skills for Manager-Information Systems include:\n- monitoring.",
+        "Here are the skills required to excel as a Manager-Information Systems:\n- monitoring.",
+        "Here's a list of skills you'll need for Manager-Information Systems:\n- monitoring."
+      ]
+    },
+    {
+      "tag": "cybersecurity_engineer",
+      "patterns": [
+        "What skills are required for Cybersecurity Engineer?",
+        "Skills for Cybersecurity Engineer",
+        "What are the prerequisites for Cybersecurity Engineer?",
+        "List the required skills for Cybersecurity Engineer",
+        "Which skills do I need to become a Cybersecurity Engineer?"
+      ],
+      "responses": [
+        "To become a Cybersecurity Engineer, you'll need the following skills:\n- interpersonal.",
+        "The essential skills for Cybersecurity Engineer include:\n- interpersonal.",
+        "Here are the skills required to excel as a Cybersecurity Engineer:\n- interpersonal.",
+        "Here's a list of skills you'll need for Cybersecurity Engineer:\n- interpersonal."
+      ]
+    },
+    {
+      "tag": "senior_infrastructure_engineer_(remote)",
+      "patterns": [
+        "What skills are required for Senior Infrastructure Engineer (REMOTE)?",
+        "Skills for Senior Infrastructure Engineer (REMOTE)",
+        "What are the prerequisites for Senior Infrastructure Engineer (REMOTE)?",
+        "List the required skills for Senior Infrastructure Engineer (REMOTE)",
+        "Which skills do I need to become a Senior Infrastructure Engineer (REMOTE)?"
+      ],
+      "responses": [
+        "To become a Senior Infrastructure Engineer (REMOTE), you'll need the following skills:\n- scala.",
+        "The essential skills for Senior Infrastructure Engineer (REMOTE) include:\n- scala.",
+        "Here are the skills required to excel as a Senior Infrastructure Engineer (REMOTE):\n- scala.",
+        "Here's a list of skills you'll need for Senior Infrastructure Engineer (REMOTE):\n- scala."
+      ]
+    },
+    {
+      "tag": "infrastructure_architect",
+      "patterns": [
+        "What skills are required for Infrastructure Architect?",
+        "Skills for Infrastructure Architect",
+        "What are the prerequisites for Infrastructure Architect?",
+        "List the required skills for Infrastructure Architect",
+        "Which skills do I need to become a Infrastructure Architect?"
+      ],
+      "responses": [
+        "To become a Infrastructure Architect, you'll need the following skills:\n- devops.",
+        "The essential skills for Infrastructure Architect include:\n- devops.",
+        "Here are the skills required to excel as a Infrastructure Architect:\n- devops.",
+        "Here's a list of skills you'll need for Infrastructure Architect:\n- devops."
+      ]
+    },
+    {
+      "tag": "it_programmer_analyst_(ft)_remote_position",
+      "patterns": [
+        "What skills are required for IT Programmer Analyst (FT) Remote Position?",
+        "Skills for IT Programmer Analyst (FT) Remote Position",
+        "What are the prerequisites for IT Programmer Analyst (FT) Remote Position?",
+        "List the required skills for IT Programmer Analyst (FT) Remote Position",
+        "Which skills do I need to become a IT Programmer Analyst (FT) Remote Position?"
+      ],
+      "responses": [
+        "To become a IT Programmer Analyst (FT) Remote Position, you'll need the following skills:\n- aws.",
+        "The essential skills for IT Programmer Analyst (FT) Remote Position include:\n- aws.",
+        "Here are the skills required to excel as a IT Programmer Analyst (FT) Remote Position:\n- aws.",
+        "Here's a list of skills you'll need for IT Programmer Analyst (FT) Remote Position:\n- aws."
+      ]
+    },
+    {
+      "tag": "programmer_analyst",
+      "patterns": [
+        "What skills are required for Programmer Analyst?",
+        "Skills for Programmer Analyst",
+        "What are the prerequisites for Programmer Analyst?",
+        "List the required skills for Programmer Analyst",
+        "Which skills do I need to become a Programmer Analyst?"
+      ],
+      "responses": [
+        "To become a Programmer Analyst, you'll need the following skills:\n- collaboration.",
+        "The essential skills for Programmer Analyst include:\n- collaboration.",
+        "Here are the skills required to excel as a Programmer Analyst:\n- collaboration.",
+        "Here's a list of skills you'll need for Programmer Analyst:\n- collaboration."
+      ]
+    },
+    {
+      "tag": "sr._content_manager_(remote)",
+      "patterns": [
+        "What skills are required for Sr. Content Manager (Remote)?",
+        "Skills for Sr. Content Manager (Remote)",
+        "What are the prerequisites for Sr. Content Manager (Remote)?",
+        "List the required skills for Sr. Content Manager (Remote)",
+        "Which skills do I need to become a Sr. Content Manager (Remote)?"
+      ],
+      "responses": [
+        "To become a Sr. Content Manager (Remote), you'll need the following skills:\n- project management.",
+        "The essential skills for Sr. Content Manager (Remote) include:\n- project management.",
+        "Here are the skills required to excel as a Sr. Content Manager (Remote):\n- project management.",
+        "Here's a list of skills you'll need for Sr. Content Manager (Remote):\n- project management."
+      ]
+    },
+    {
+      "tag": "forensic_psychologist_-_remote_\u00e2\u20ac\u201c_full-time_position",
+      "patterns": [
+        "What skills are required for Forensic Psychologist - Remote \u00e2\u20ac\u201c full-time position?",
+        "Skills for Forensic Psychologist - Remote \u00e2\u20ac\u201c full-time position",
+        "What are the prerequisites for Forensic Psychologist - Remote \u00e2\u20ac\u201c full-time position?",
+        "List the required skills for Forensic Psychologist - Remote \u00e2\u20ac\u201c full-time position",
+        "Which skills do I need to become a Forensic Psychologist - Remote \u00e2\u20ac\u201c full-time position?"
+      ],
+      "responses": [
+        "To become a Forensic Psychologist - Remote \u00e2\u20ac\u201c full-time position, you'll need the following skills:\n- express.",
+        "The essential skills for Forensic Psychologist - Remote \u00e2\u20ac\u201c full-time position include:\n- express.",
+        "Here are the skills required to excel as a Forensic Psychologist - Remote \u00e2\u20ac\u201c full-time position:\n- express.",
+        "Here's a list of skills you'll need for Forensic Psychologist - Remote \u00e2\u20ac\u201c full-time position:\n- express."
+      ]
+    },
+    {
+      "tag": "social_media_coordinator_manager_internship_for_credit_/_national_beauty_brand",
+      "patterns": [
+        "What skills are required for Social Media Coordinator Manager Internship for Credit / National Beauty Brand?",
+        "Skills for Social Media Coordinator Manager Internship for Credit / National Beauty Brand",
+        "What are the prerequisites for Social Media Coordinator Manager Internship for Credit / National Beauty Brand?",
+        "List the required skills for Social Media Coordinator Manager Internship for Credit / National Beauty Brand",
+        "Which skills do I need to become a Social Media Coordinator Manager Internship for Credit / National Beauty Brand?"
+      ],
+      "responses": [
+        "To become a Social Media Coordinator Manager Internship for Credit / National Beauty Brand, you'll need the following skills:\n- leadership.",
+        "The essential skills for Social Media Coordinator Manager Internship for Credit / National Beauty Brand include:\n- leadership.",
+        "Here are the skills required to excel as a Social Media Coordinator Manager Internship for Credit / National Beauty Brand:\n- leadership.",
+        "Here's a list of skills you'll need for Social Media Coordinator Manager Internship for Credit / National Beauty Brand:\n- leadership."
+      ]
+    },
+    {
+      "tag": "functional_dynamics_crm_contractor",
+      "patterns": [
+        "What skills are required for Functional Dynamics CRM Contractor?",
+        "Skills for Functional Dynamics CRM Contractor",
+        "What are the prerequisites for Functional Dynamics CRM Contractor?",
+        "List the required skills for Functional Dynamics CRM Contractor",
+        "Which skills do I need to become a Functional Dynamics CRM Contractor?"
+      ],
+      "responses": [
+        "To become a Functional Dynamics CRM Contractor, you'll need the following skills:\n- leadership.",
+        "The essential skills for Functional Dynamics CRM Contractor include:\n- leadership.",
+        "Here are the skills required to excel as a Functional Dynamics CRM Contractor:\n- leadership.",
+        "Here's a list of skills you'll need for Functional Dynamics CRM Contractor:\n- leadership."
+      ]
+    },
+    {
+      "tag": "incident_response_analyst_tier_2_(hybrid)",
+      "patterns": [
+        "What skills are required for Incident Response Analyst Tier 2 (Hybrid)?",
+        "Skills for Incident Response Analyst Tier 2 (Hybrid)",
+        "What are the prerequisites for Incident Response Analyst Tier 2 (Hybrid)?",
+        "List the required skills for Incident Response Analyst Tier 2 (Hybrid)",
+        "Which skills do I need to become a Incident Response Analyst Tier 2 (Hybrid)?"
+      ],
+      "responses": [
+        "To become a Incident Response Analyst Tier 2 (Hybrid), you'll need the following skills:\n- scala.",
+        "The essential skills for Incident Response Analyst Tier 2 (Hybrid) include:\n- scala.",
+        "Here are the skills required to excel as a Incident Response Analyst Tier 2 (Hybrid):\n- scala.",
+        "Here's a list of skills you'll need for Incident Response Analyst Tier 2 (Hybrid):\n- scala."
+      ]
+    },
+    {
+      "tag": "telephone_support_-_operations_specialist_iii",
+      "patterns": [
+        "What skills are required for Telephone Support - Operations Specialist III?",
+        "Skills for Telephone Support - Operations Specialist III",
+        "What are the prerequisites for Telephone Support - Operations Specialist III?",
+        "List the required skills for Telephone Support - Operations Specialist III",
+        "Which skills do I need to become a Telephone Support - Operations Specialist III?"
+      ],
+      "responses": [
+        "To become a Telephone Support - Operations Specialist III, you'll need the following skills:\n- recruitment.",
+        "The essential skills for Telephone Support - Operations Specialist III include:\n- recruitment.",
+        "Here are the skills required to excel as a Telephone Support - Operations Specialist III:\n- recruitment.",
+        "Here's a list of skills you'll need for Telephone Support - Operations Specialist III:\n- recruitment."
+      ]
+    },
+    {
+      "tag": "senior_data_engineer",
+      "patterns": [
+        "What skills are required for Senior Data Engineer?",
+        "Skills for Senior Data Engineer",
+        "What are the prerequisites for Senior Data Engineer?",
+        "List the required skills for Senior Data Engineer",
+        "Which skills do I need to become a Senior Data Engineer?"
+      ],
+      "responses": [
+        "To become a Senior Data Engineer, you'll need the following skills:\n- sales.",
+        "The essential skills for Senior Data Engineer include:\n- sales.",
+        "Here are the skills required to excel as a Senior Data Engineer:\n- sales.",
+        "Here's a list of skills you'll need for Senior Data Engineer:\n- sales."
+      ]
+    },
+    {
+      "tag": "healthcare_data_scientist",
+      "patterns": [
+        "What skills are required for Healthcare Data Scientist?",
+        "Skills for Healthcare Data Scientist",
+        "What are the prerequisites for Healthcare Data Scientist?",
+        "List the required skills for Healthcare Data Scientist",
+        "Which skills do I need to become a Healthcare Data Scientist?"
+      ],
+      "responses": [
+        "To become a Healthcare Data Scientist, you'll need the following skills:\n- collaboration.",
+        "The essential skills for Healthcare Data Scientist include:\n- collaboration.",
+        "Here are the skills required to excel as a Healthcare Data Scientist:\n- collaboration.",
+        "Here's a list of skills you'll need for Healthcare Data Scientist:\n- collaboration."
+      ]
+    },
+    {
+      "tag": "data_architect",
+      "patterns": [
+        "What skills are required for Data Architect?",
+        "Skills for Data Architect",
+        "What are the prerequisites for Data Architect?",
+        "List the required skills for Data Architect",
+        "Which skills do I need to become a Data Architect?"
+      ],
+      "responses": [
+        "To become a Data Architect, you'll need the following skills:\n- tableau.",
+        "The essential skills for Data Architect include:\n- tableau.",
+        "Here are the skills required to excel as a Data Architect:\n- tableau.",
+        "Here's a list of skills you'll need for Data Architect:\n- tableau."
+      ]
+    },
+    {
+      "tag": "oracle_database_administrator||_(w2_only)_||_12_hours_remote_shift_job.",
+      "patterns": [
+        "What skills are required for Oracle Database Administrator|| (W2 only) || 12 hours REMOTE shift job.?",
+        "Skills for Oracle Database Administrator|| (W2 only) || 12 hours REMOTE shift job.",
+        "What are the prerequisites for Oracle Database Administrator|| (W2 only) || 12 hours REMOTE shift job.?",
+        "List the required skills for Oracle Database Administrator|| (W2 only) || 12 hours REMOTE shift job.",
+        "Which skills do I need to become a Oracle Database Administrator|| (W2 only) || 12 hours REMOTE shift job.?"
+      ],
+      "responses": [
+        "To become a Oracle Database Administrator|| (W2 only) || 12 hours REMOTE shift job., you'll need the following skills:\n- git.",
+        "The essential skills for Oracle Database Administrator|| (W2 only) || 12 hours REMOTE shift job. include:\n- git.",
+        "Here are the skills required to excel as a Oracle Database Administrator|| (W2 only) || 12 hours REMOTE shift job.:\n- git.",
+        "Here's a list of skills you'll need for Oracle Database Administrator|| (W2 only) || 12 hours REMOTE shift job.:\n- git."
+      ]
+    },
+    {
+      "tag": "informatica_mdm_developer",
+      "patterns": [
+        "What skills are required for Informatica MDM Developer?",
+        "Skills for Informatica MDM Developer",
+        "What are the prerequisites for Informatica MDM Developer?",
+        "List the required skills for Informatica MDM Developer",
+        "Which skills do I need to become a Informatica MDM Developer?"
+      ],
+      "responses": [
+        "To become a Informatica MDM Developer, you'll need the following skills:\n- collaboration.",
+        "The essential skills for Informatica MDM Developer include:\n- collaboration.",
+        "Here are the skills required to excel as a Informatica MDM Developer:\n- collaboration.",
+        "Here's a list of skills you'll need for Informatica MDM Developer:\n- collaboration."
+      ]
+    },
+    {
+      "tag": "senior_devops_engineer",
+      "patterns": [
+        "What skills are required for Senior DevOps Engineer?",
+        "Skills for Senior DevOps Engineer",
+        "What are the prerequisites for Senior DevOps Engineer?",
+        "List the required skills for Senior DevOps Engineer",
+        "Which skills do I need to become a Senior DevOps Engineer?"
+      ],
+      "responses": [
+        "To become a Senior DevOps Engineer, you'll need the following skills:\n- python.",
+        "The essential skills for Senior DevOps Engineer include:\n- python.",
+        "Here are the skills required to excel as a Senior DevOps Engineer:\n- python.",
+        "Here's a list of skills you'll need for Senior DevOps Engineer:\n- python."
+      ]
+    },
+    {
+      "tag": "account_manager_(digital_ad_agency)",
+      "patterns": [
+        "What skills are required for Account Manager (Digital Ad Agency)?",
+        "Skills for Account Manager (Digital Ad Agency)",
+        "What are the prerequisites for Account Manager (Digital Ad Agency)?",
+        "List the required skills for Account Manager (Digital Ad Agency)",
+        "Which skills do I need to become a Account Manager (Digital Ad Agency)?"
+      ],
+      "responses": [
+        "To become a Account Manager (Digital Ad Agency), you'll need the following skills:\n- project management.",
+        "The essential skills for Account Manager (Digital Ad Agency) include:\n- project management.",
+        "Here are the skills required to excel as a Account Manager (Digital Ad Agency):\n- project management.",
+        "Here's a list of skills you'll need for Account Manager (Digital Ad Agency):\n- project management."
+      ]
+    },
+    {
+      "tag": "member_support_specialist",
+      "patterns": [
+        "What skills are required for Member Support Specialist?",
+        "Skills for Member Support Specialist",
+        "What are the prerequisites for Member Support Specialist?",
+        "List the required skills for Member Support Specialist",
+        "Which skills do I need to become a Member Support Specialist?"
+      ],
+      "responses": [
+        "To become a Member Support Specialist, you'll need the following skills:\n- content marketing.",
+        "The essential skills for Member Support Specialist include:\n- content marketing.",
+        "Here are the skills required to excel as a Member Support Specialist:\n- content marketing.",
+        "Here's a list of skills you'll need for Member Support Specialist:\n- content marketing."
+      ]
+    },
+    {
+      "tag": "vp,_consulting_-_virtual",
+      "patterns": [
+        "What skills are required for VP, Consulting - Virtual?",
+        "Skills for VP, Consulting - Virtual",
+        "What are the prerequisites for VP, Consulting - Virtual?",
+        "List the required skills for VP, Consulting - Virtual",
+        "Which skills do I need to become a VP, Consulting - Virtual?"
+      ],
+      "responses": [
+        "To become a VP, Consulting - Virtual, you'll need the following skills:\n- python.",
+        "The essential skills for VP, Consulting - Virtual include:\n- python.",
+        "Here are the skills required to excel as a VP, Consulting - Virtual:\n- python.",
+        "Here's a list of skills you'll need for VP, Consulting - Virtual:\n- python."
+      ]
+    },
+    {
+      "tag": "javascript_developer",
+      "patterns": [
+        "What skills are required for JavaScript Developer?",
+        "Skills for JavaScript Developer",
+        "What are the prerequisites for JavaScript Developer?",
+        "List the required skills for JavaScript Developer",
+        "Which skills do I need to become a JavaScript Developer?"
+      ],
+      "responses": [
+        "To become a JavaScript Developer, you'll need the following skills:\n- react.",
+        "The essential skills for JavaScript Developer include:\n- react.",
+        "Here are the skills required to excel as a JavaScript Developer:\n- react.",
+        "Here's a list of skills you'll need for JavaScript Developer:\n- react."
+      ]
+    },
+    {
+      "tag": "verification_engineer",
+      "patterns": [
+        "What skills are required for Verification Engineer?",
+        "Skills for Verification Engineer",
+        "What are the prerequisites for Verification Engineer?",
+        "List the required skills for Verification Engineer",
+        "Which skills do I need to become a Verification Engineer?"
+      ],
+      "responses": [
+        "To become a Verification Engineer, you'll need the following skills:\n- project management.",
+        "The essential skills for Verification Engineer include:\n- project management.",
+        "Here are the skills required to excel as a Verification Engineer:\n- project management.",
+        "Here's a list of skills you'll need for Verification Engineer:\n- project management."
+      ]
+    },
+    {
+      "tag": "embedded_software_engineer",
+      "patterns": [
+        "What skills are required for Embedded Software Engineer?",
+        "Skills for Embedded Software Engineer",
+        "What are the prerequisites for Embedded Software Engineer?",
+        "List the required skills for Embedded Software Engineer",
+        "Which skills do I need to become a Embedded Software Engineer?"
+      ],
+      "responses": [
+        "To become a Embedded Software Engineer, you'll need the following skills:\n- agile.",
+        "The essential skills for Embedded Software Engineer include:\n- agile.",
+        "Here are the skills required to excel as a Embedded Software Engineer:\n- agile.",
+        "Here's a list of skills you'll need for Embedded Software Engineer:\n- agile."
+      ]
+    },
+    {
+      "tag": "embedded_firmware_engineer",
+      "patterns": [
+        "What skills are required for Embedded Firmware Engineer?",
+        "Skills for Embedded Firmware Engineer",
+        "What are the prerequisites for Embedded Firmware Engineer?",
+        "List the required skills for Embedded Firmware Engineer",
+        "Which skills do I need to become a Embedded Firmware Engineer?"
+      ],
+      "responses": [
+        "To become a Embedded Firmware Engineer, you'll need the following skills:\n- scala.",
+        "The essential skills for Embedded Firmware Engineer include:\n- scala.",
+        "Here are the skills required to excel as a Embedded Firmware Engineer:\n- scala.",
+        "Here's a list of skills you'll need for Embedded Firmware Engineer:\n- scala."
+      ]
+    },
+    {
+      "tag": "human_resource_lead_-_remote_&_haiti",
+      "patterns": [
+        "What skills are required for Human Resource Lead - Remote & Haiti?",
+        "Skills for Human Resource Lead - Remote & Haiti",
+        "What are the prerequisites for Human Resource Lead - Remote & Haiti?",
+        "List the required skills for Human Resource Lead - Remote & Haiti",
+        "Which skills do I need to become a Human Resource Lead - Remote & Haiti?"
+      ],
+      "responses": [
+        "To become a Human Resource Lead - Remote & Haiti, you'll need the following skills:\n- rust.",
+        "The essential skills for Human Resource Lead - Remote & Haiti include:\n- rust.",
+        "Here are the skills required to excel as a Human Resource Lead - Remote & Haiti:\n- rust.",
+        "Here's a list of skills you'll need for Human Resource Lead - Remote & Haiti:\n- rust."
+      ]
+    },
+    {
+      "tag": "data_enterprise_architect",
+      "patterns": [
+        "What skills are required for Data Enterprise Architect?",
+        "Skills for Data Enterprise Architect",
+        "What are the prerequisites for Data Enterprise Architect?",
+        "List the required skills for Data Enterprise Architect",
+        "Which skills do I need to become a Data Enterprise Architect?"
+      ],
+      "responses": [
+        "To become a Data Enterprise Architect, you'll need the following skills:\n- collaboration.",
+        "The essential skills for Data Enterprise Architect include:\n- collaboration.",
+        "Here are the skills required to excel as a Data Enterprise Architect:\n- collaboration.",
+        "Here's a list of skills you'll need for Data Enterprise Architect:\n- collaboration."
+      ]
+    },
+    {
+      "tag": "remote_environmental_consultant",
+      "patterns": [
+        "What skills are required for Remote Environmental Consultant?",
+        "Skills for Remote Environmental Consultant",
+        "What are the prerequisites for Remote Environmental Consultant?",
+        "List the required skills for Remote Environmental Consultant",
+        "Which skills do I need to become a Remote Environmental Consultant?"
+      ],
+      "responses": [
+        "To become a Remote Environmental Consultant, you'll need the following skills:\n- monitoring.",
+        "The essential skills for Remote Environmental Consultant include:\n- monitoring.",
+        "Here are the skills required to excel as a Remote Environmental Consultant:\n- monitoring.",
+        "Here's a list of skills you'll need for Remote Environmental Consultant:\n- monitoring."
+      ]
+    },
+    {
+      "tag": "erp_consultant",
+      "patterns": [
+        "What skills are required for ERP Consultant?",
+        "Skills for ERP Consultant",
+        "What are the prerequisites for ERP Consultant?",
+        "List the required skills for ERP Consultant",
+        "Which skills do I need to become a ERP Consultant?"
+      ],
+      "responses": [
+        "To become a ERP Consultant, you'll need the following skills:\n- scala.",
+        "The essential skills for ERP Consultant include:\n- scala.",
+        "Here are the skills required to excel as a ERP Consultant:\n- scala.",
+        "Here's a list of skills you'll need for ERP Consultant:\n- scala."
+      ]
+    },
+    {
+      "tag": "accountant_(part-time,_work_from_home)",
+      "patterns": [
+        "What skills are required for Accountant (part-time, work from home)?",
+        "Skills for Accountant (part-time, work from home)",
+        "What are the prerequisites for Accountant (part-time, work from home)?",
+        "List the required skills for Accountant (part-time, work from home)",
+        "Which skills do I need to become a Accountant (part-time, work from home)?"
+      ],
+      "responses": [
+        "To become a Accountant (part-time, work from home), you'll need the following skills:\n- forecasting.",
+        "The essential skills for Accountant (part-time, work from home) include:\n- forecasting.",
+        "Here are the skills required to excel as a Accountant (part-time, work from home):\n- forecasting.",
+        "Here's a list of skills you'll need for Accountant (part-time, work from home):\n- forecasting."
+      ]
+    },
+    {
+      "tag": "chartered_financial_analyst_(cfa)_tutor",
+      "patterns": [
+        "What skills are required for Chartered Financial Analyst (CFA) Tutor?",
+        "Skills for Chartered Financial Analyst (CFA) Tutor",
+        "What are the prerequisites for Chartered Financial Analyst (CFA) Tutor?",
+        "List the required skills for Chartered Financial Analyst (CFA) Tutor",
+        "Which skills do I need to become a Chartered Financial Analyst (CFA) Tutor?"
+      ],
+      "responses": [
+        "To become a Chartered Financial Analyst (CFA) Tutor, you'll need the following skills:\n- rust.",
+        "The essential skills for Chartered Financial Analyst (CFA) Tutor include:\n- rust.",
+        "Here are the skills required to excel as a Chartered Financial Analyst (CFA) Tutor:\n- rust.",
+        "Here's a list of skills you'll need for Chartered Financial Analyst (CFA) Tutor:\n- rust."
+      ]
+    },
+    {
+      "tag": "financial_services_specialist_[remote/part-time]",
+      "patterns": [
+        "What skills are required for Financial Services Specialist [REMOTE/PART-TIME]?",
+        "Skills for Financial Services Specialist [REMOTE/PART-TIME]",
+        "What are the prerequisites for Financial Services Specialist [REMOTE/PART-TIME]?",
+        "List the required skills for Financial Services Specialist [REMOTE/PART-TIME]",
+        "Which skills do I need to become a Financial Services Specialist [REMOTE/PART-TIME]?"
+      ],
+      "responses": [
+        "To become a Financial Services Specialist [REMOTE/PART-TIME], you'll need the following skills:\n- collaboration.",
+        "The essential skills for Financial Services Specialist [REMOTE/PART-TIME] include:\n- collaboration.",
+        "Here are the skills required to excel as a Financial Services Specialist [REMOTE/PART-TIME]:\n- collaboration.",
+        "Here's a list of skills you'll need for Financial Services Specialist [REMOTE/PART-TIME]:\n- collaboration."
+      ]
+    },
+    {
+      "tag": "java/j2ee_developer",
+      "patterns": [
+        "What skills are required for Java/J2EE Developer?",
+        "Skills for Java/J2EE Developer",
+        "What are the prerequisites for Java/J2EE Developer?",
+        "List the required skills for Java/J2EE Developer",
+        "Which skills do I need to become a Java/J2EE Developer?"
+      ],
+      "responses": [
+        "To become a Java/J2EE Developer, you'll need the following skills:\n- aws.",
+        "The essential skills for Java/J2EE Developer include:\n- aws.",
+        "Here are the skills required to excel as a Java/J2EE Developer:\n- aws.",
+        "Here's a list of skills you'll need for Java/J2EE Developer:\n- aws."
+      ]
+    },
+    {
+      "tag": "shopify/shopify_plus_full-stack_developer",
+      "patterns": [
+        "What skills are required for Shopify/Shopify Plus Full-Stack Developer?",
+        "Skills for Shopify/Shopify Plus Full-Stack Developer",
+        "What are the prerequisites for Shopify/Shopify Plus Full-Stack Developer?",
+        "List the required skills for Shopify/Shopify Plus Full-Stack Developer",
+        "Which skills do I need to become a Shopify/Shopify Plus Full-Stack Developer?"
+      ],
+      "responses": [
+        "To become a Shopify/Shopify Plus Full-Stack Developer, you'll need the following skills:\n- angular.",
+        "The essential skills for Shopify/Shopify Plus Full-Stack Developer include:\n- angular.",
+        "Here are the skills required to excel as a Shopify/Shopify Plus Full-Stack Developer:\n- angular.",
+        "Here's a list of skills you'll need for Shopify/Shopify Plus Full-Stack Developer:\n- angular."
+      ]
+    },
+    {
+      "tag": "senior_.net_developer_(c#_/_typescript)",
+      "patterns": [
+        "What skills are required for Senior .NET Developer (C# / TypeScript)?",
+        "Skills for Senior .NET Developer (C# / TypeScript)",
+        "What are the prerequisites for Senior .NET Developer (C# / TypeScript)?",
+        "List the required skills for Senior .NET Developer (C# / TypeScript)",
+        "Which skills do I need to become a Senior .NET Developer (C# / TypeScript)?"
+      ],
+      "responses": [
+        "To become a Senior .NET Developer (C# / TypeScript), you'll need the following skills:\n- devops.",
+        "The essential skills for Senior .NET Developer (C# / TypeScript) include:\n- devops.",
+        "Here are the skills required to excel as a Senior .NET Developer (C# / TypeScript):\n- devops.",
+        "Here's a list of skills you'll need for Senior .NET Developer (C# / TypeScript):\n- devops."
+      ]
+    },
+    {
+      "tag": "associate_gis_analyst",
+      "patterns": [
+        "What skills are required for Associate GIS Analyst?",
+        "Skills for Associate GIS Analyst",
+        "What are the prerequisites for Associate GIS Analyst?",
+        "List the required skills for Associate GIS Analyst",
+        "Which skills do I need to become a Associate GIS Analyst?"
+      ],
+      "responses": [
+        "To become a Associate GIS Analyst, you'll need the following skills:\n- aws.",
+        "The essential skills for Associate GIS Analyst include:\n- aws.",
+        "Here are the skills required to excel as a Associate GIS Analyst:\n- aws.",
+        "Here's a list of skills you'll need for Associate GIS Analyst:\n- aws."
+      ]
+    },
+    {
+      "tag": "technical_customer_service_representative",
+      "patterns": [
+        "What skills are required for Technical Customer Service Representative?",
+        "Skills for Technical Customer Service Representative",
+        "What are the prerequisites for Technical Customer Service Representative?",
+        "List the required skills for Technical Customer Service Representative",
+        "Which skills do I need to become a Technical Customer Service Representative?"
+      ],
+      "responses": [
+        "To become a Technical Customer Service Representative, you'll need the following skills:\n- interpersonal.",
+        "The essential skills for Technical Customer Service Representative include:\n- interpersonal.",
+        "Here are the skills required to excel as a Technical Customer Service Representative:\n- interpersonal.",
+        "Here's a list of skills you'll need for Technical Customer Service Representative:\n- interpersonal."
+      ]
+    },
+    {
+      "tag": "field_hr_business_partner-company_operations_(hybrid)",
+      "patterns": [
+        "What skills are required for Field HR Business Partner-Company Operations (Hybrid)?",
+        "Skills for Field HR Business Partner-Company Operations (Hybrid)",
+        "What are the prerequisites for Field HR Business Partner-Company Operations (Hybrid)?",
+        "List the required skills for Field HR Business Partner-Company Operations (Hybrid)",
+        "Which skills do I need to become a Field HR Business Partner-Company Operations (Hybrid)?"
+      ],
+      "responses": [
+        "To become a Field HR Business Partner-Company Operations (Hybrid), you'll need the following skills:\n- employee engagement.",
+        "The essential skills for Field HR Business Partner-Company Operations (Hybrid) include:\n- employee engagement.",
+        "Here are the skills required to excel as a Field HR Business Partner-Company Operations (Hybrid):\n- employee engagement.",
+        "Here's a list of skills you'll need for Field HR Business Partner-Company Operations (Hybrid):\n- employee engagement."
+      ]
+    },
+    {
+      "tag": "human_resources_generalist",
+      "patterns": [
+        "What skills are required for Human Resources Generalist?",
+        "Skills for Human Resources Generalist",
+        "What are the prerequisites for Human Resources Generalist?",
+        "List the required skills for Human Resources Generalist",
+        "Which skills do I need to become a Human Resources Generalist?"
+      ],
+      "responses": [
+        "To become a Human Resources Generalist, you'll need the following skills:\n- employee engagement.",
+        "The essential skills for Human Resources Generalist include:\n- employee engagement.",
+        "Here are the skills required to excel as a Human Resources Generalist:\n- employee engagement.",
+        "Here's a list of skills you'll need for Human Resources Generalist:\n- employee engagement."
+      ]
+    },
+    {
+      "tag": "talent_acquisition_manager",
+      "patterns": [
+        "What skills are required for Talent Acquisition Manager?",
+        "Skills for Talent Acquisition Manager",
+        "What are the prerequisites for Talent Acquisition Manager?",
+        "List the required skills for Talent Acquisition Manager",
+        "Which skills do I need to become a Talent Acquisition Manager?"
+      ],
+      "responses": [
+        "To become a Talent Acquisition Manager, you'll need the following skills:\n- git.",
+        "The essential skills for Talent Acquisition Manager include:\n- git.",
+        "Here are the skills required to excel as a Talent Acquisition Manager:\n- git.",
+        "Here's a list of skills you'll need for Talent Acquisition Manager:\n- git."
+      ]
+    },
+    {
+      "tag": "graduate_engineer",
+      "patterns": [
+        "What skills are required for Graduate Engineer?",
+        "Skills for Graduate Engineer",
+        "What are the prerequisites for Graduate Engineer?",
+        "List the required skills for Graduate Engineer",
+        "Which skills do I need to become a Graduate Engineer?"
+      ],
+      "responses": [
+        "To become a Graduate Engineer, you'll need the following skills:\n- agile.",
+        "The essential skills for Graduate Engineer include:\n- agile.",
+        "Here are the skills required to excel as a Graduate Engineer:\n- agile.",
+        "Here's a list of skills you'll need for Graduate Engineer:\n- agile."
+      ]
+    },
+    {
+      "tag": "senior_cloud_information_security_analyst",
+      "patterns": [
+        "What skills are required for Senior Cloud Information Security Analyst?",
+        "Skills for Senior Cloud Information Security Analyst",
+        "What are the prerequisites for Senior Cloud Information Security Analyst?",
+        "List the required skills for Senior Cloud Information Security Analyst",
+        "Which skills do I need to become a Senior Cloud Information Security Analyst?"
+      ],
+      "responses": [
+        "To become a Senior Cloud Information Security Analyst, you'll need the following skills:\n- scala.",
+        "The essential skills for Senior Cloud Information Security Analyst include:\n- scala.",
+        "Here are the skills required to excel as a Senior Cloud Information Security Analyst:\n- scala.",
+        "Here's a list of skills you'll need for Senior Cloud Information Security Analyst:\n- scala."
+      ]
+    },
+    {
+      "tag": "(jr.)_program_manager,_program_management,_freewheel,_remote_(jr._audit_readiness,_information_security))",
+      "patterns": [
+        "What skills are required for (Jr.) Program Manager, Program Management, FreeWheel, Remote (Jr. audit readiness, information security))?",
+        "Skills for (Jr.) Program Manager, Program Management, FreeWheel, Remote (Jr. audit readiness, information security))",
+        "What are the prerequisites for (Jr.) Program Manager, Program Management, FreeWheel, Remote (Jr. audit readiness, information security))?",
+        "List the required skills for (Jr.) Program Manager, Program Management, FreeWheel, Remote (Jr. audit readiness, information security))",
+        "Which skills do I need to become a (Jr.) Program Manager, Program Management, FreeWheel, Remote (Jr. audit readiness, information security))?"
+      ],
+      "responses": [
+        "To become a (Jr.) Program Manager, Program Management, FreeWheel, Remote (Jr. audit readiness, information security)), you'll need the following skills:\n- collaboration.",
+        "The essential skills for (Jr.) Program Manager, Program Management, FreeWheel, Remote (Jr. audit readiness, information security)) include:\n- collaboration.",
+        "Here are the skills required to excel as a (Jr.) Program Manager, Program Management, FreeWheel, Remote (Jr. audit readiness, information security)):\n- collaboration.",
+        "Here's a list of skills you'll need for (Jr.) Program Manager, Program Management, FreeWheel, Remote (Jr. audit readiness, information security)):\n- collaboration."
+      ]
+    },
+    {
+      "tag": "customer_happiness_specialist",
+      "patterns": [
+        "What skills are required for Customer Happiness Specialist?",
+        "Skills for Customer Happiness Specialist",
+        "What are the prerequisites for Customer Happiness Specialist?",
+        "List the required skills for Customer Happiness Specialist",
+        "Which skills do I need to become a Customer Happiness Specialist?"
+      ],
+      "responses": [
+        "To become a Customer Happiness Specialist, you'll need the following skills:\n- agile.",
+        "The essential skills for Customer Happiness Specialist include:\n- agile.",
+        "Here are the skills required to excel as a Customer Happiness Specialist:\n- agile.",
+        "Here's a list of skills you'll need for Customer Happiness Specialist:\n- agile."
+      ]
+    },
+    {
+      "tag": "loan_opener_-_wholesale",
+      "patterns": [
+        "What skills are required for Loan Opener - Wholesale?",
+        "Skills for Loan Opener - Wholesale",
+        "What are the prerequisites for Loan Opener - Wholesale?",
+        "List the required skills for Loan Opener - Wholesale",
+        "Which skills do I need to become a Loan Opener - Wholesale?"
+      ],
+      "responses": [
+        "To become a Loan Opener - Wholesale, you'll need the following skills:\n- interpersonal.",
+        "The essential skills for Loan Opener - Wholesale include:\n- interpersonal.",
+        "Here are the skills required to excel as a Loan Opener - Wholesale:\n- interpersonal.",
+        "Here's a list of skills you'll need for Loan Opener - Wholesale:\n- interpersonal."
+      ]
+    },
+    {
+      "tag": "solution_delivery_associate",
+      "patterns": [
+        "What skills are required for Solution Delivery Associate?",
+        "Skills for Solution Delivery Associate",
+        "What are the prerequisites for Solution Delivery Associate?",
+        "List the required skills for Solution Delivery Associate",
+        "Which skills do I need to become a Solution Delivery Associate?"
+      ],
+      "responses": [
+        "To become a Solution Delivery Associate, you'll need the following skills:\n- python.",
+        "The essential skills for Solution Delivery Associate include:\n- python.",
+        "Here are the skills required to excel as a Solution Delivery Associate:\n- python.",
+        "Here's a list of skills you'll need for Solution Delivery Associate:\n- python."
+      ]
+    },
+    {
+      "tag": "healthcare_it_software_architect",
+      "patterns": [
+        "What skills are required for Healthcare IT Software Architect?",
+        "Skills for Healthcare IT Software Architect",
+        "What are the prerequisites for Healthcare IT Software Architect?",
+        "List the required skills for Healthcare IT Software Architect",
+        "Which skills do I need to become a Healthcare IT Software Architect?"
+      ],
+      "responses": [
+        "To become a Healthcare IT Software Architect, you'll need the following skills:\n- agile.",
+        "The essential skills for Healthcare IT Software Architect include:\n- agile.",
+        "Here are the skills required to excel as a Healthcare IT Software Architect:\n- agile.",
+        "Here's a list of skills you'll need for Healthcare IT Software Architect:\n- agile."
+      ]
+    },
+    {
+      "tag": "senior_information_security_risk_auditor_-_remote",
+      "patterns": [
+        "What skills are required for Senior Information Security Risk Auditor - Remote?",
+        "Skills for Senior Information Security Risk Auditor - Remote",
+        "What are the prerequisites for Senior Information Security Risk Auditor - Remote?",
+        "List the required skills for Senior Information Security Risk Auditor - Remote",
+        "Which skills do I need to become a Senior Information Security Risk Auditor - Remote?"
+      ],
+      "responses": [
+        "To become a Senior Information Security Risk Auditor - Remote, you'll need the following skills:\n- interpersonal.",
+        "The essential skills for Senior Information Security Risk Auditor - Remote include:\n- interpersonal.",
+        "Here are the skills required to excel as a Senior Information Security Risk Auditor - Remote:\n- interpersonal.",
+        "Here's a list of skills you'll need for Senior Information Security Risk Auditor - Remote:\n- interpersonal."
+      ]
+    },
+    {
+      "tag": "it_business_analyst_-_supply_chain_domain",
+      "patterns": [
+        "What skills are required for IT Business Analyst - Supply Chain Domain?",
+        "Skills for IT Business Analyst - Supply Chain Domain",
+        "What are the prerequisites for IT Business Analyst - Supply Chain Domain?",
+        "List the required skills for IT Business Analyst - Supply Chain Domain",
+        "Which skills do I need to become a IT Business Analyst - Supply Chain Domain?"
+      ],
+      "responses": [
+        "To become a IT Business Analyst - Supply Chain Domain, you'll need the following skills:\n- leadership.",
+        "The essential skills for IT Business Analyst - Supply Chain Domain include:\n- leadership.",
+        "Here are the skills required to excel as a IT Business Analyst - Supply Chain Domain:\n- leadership.",
+        "Here's a list of skills you'll need for IT Business Analyst - Supply Chain Domain:\n- leadership."
+      ]
+    },
+    {
+      "tag": "it_analyst",
+      "patterns": [
+        "What skills are required for IT Analyst?",
+        "Skills for IT Analyst",
+        "What are the prerequisites for IT Analyst?",
+        "List the required skills for IT Analyst",
+        "Which skills do I need to become a IT Analyst?"
+      ],
+      "responses": [
+        "To become a IT Analyst, you'll need the following skills:\n- express.",
+        "The essential skills for IT Analyst include:\n- express.",
+        "Here are the skills required to excel as a IT Analyst:\n- express.",
+        "Here's a list of skills you'll need for IT Analyst:\n- express."
+      ]
+    },
+    {
+      "tag": "etl_tester",
+      "patterns": [
+        "What skills are required for ETL Tester?",
+        "Skills for ETL Tester",
+        "What are the prerequisites for ETL Tester?",
+        "List the required skills for ETL Tester",
+        "Which skills do I need to become a ETL Tester?"
+      ],
+      "responses": [
+        "To become a ETL Tester, you'll need the following skills:\n- collaboration.",
+        "The essential skills for ETL Tester include:\n- collaboration.",
+        "Here are the skills required to excel as a ETL Tester:\n- collaboration.",
+        "Here's a list of skills you'll need for ETL Tester:\n- collaboration."
+      ]
+    },
+    {
+      "tag": "vp_&_senior_director,_strategy_&_transformation_-_grs_tech",
+      "patterns": [
+        "What skills are required for VP & Senior Director, Strategy & Transformation - GRS Tech?",
+        "Skills for VP & Senior Director, Strategy & Transformation - GRS Tech",
+        "What are the prerequisites for VP & Senior Director, Strategy & Transformation - GRS Tech?",
+        "List the required skills for VP & Senior Director, Strategy & Transformation - GRS Tech",
+        "Which skills do I need to become a VP & Senior Director, Strategy & Transformation - GRS Tech?"
+      ],
+      "responses": [
+        "To become a VP & Senior Director, Strategy & Transformation - GRS Tech, you'll need the following skills:\n- scala.",
+        "The essential skills for VP & Senior Director, Strategy & Transformation - GRS Tech include:\n- scala.",
+        "Here are the skills required to excel as a VP & Senior Director, Strategy & Transformation - GRS Tech:\n- scala.",
+        "Here's a list of skills you'll need for VP & Senior Director, Strategy & Transformation - GRS Tech:\n- scala."
+      ]
+    },
+    {
+      "tag": "data_application_specialist",
+      "patterns": [
+        "What skills are required for Data Application Specialist?",
+        "Skills for Data Application Specialist",
+        "What are the prerequisites for Data Application Specialist?",
+        "List the required skills for Data Application Specialist",
+        "Which skills do I need to become a Data Application Specialist?"
+      ],
+      "responses": [
+        "To become a Data Application Specialist, you'll need the following skills:\n- scala.",
+        "The essential skills for Data Application Specialist include:\n- scala.",
+        "Here are the skills required to excel as a Data Application Specialist:\n- scala.",
+        "Here's a list of skills you'll need for Data Application Specialist:\n- scala."
+      ]
+    },
+    {
+      "tag": "account_manager_\u00e2\u20ac\u201c_it",
+      "patterns": [
+        "What skills are required for Account Manager \u00e2\u20ac\u201c IT?",
+        "Skills for Account Manager \u00e2\u20ac\u201c IT",
+        "What are the prerequisites for Account Manager \u00e2\u20ac\u201c IT?",
+        "List the required skills for Account Manager \u00e2\u20ac\u201c IT",
+        "Which skills do I need to become a Account Manager \u00e2\u20ac\u201c IT?"
+      ],
+      "responses": [
+        "To become a Account Manager \u00e2\u20ac\u201c IT, you'll need the following skills:\n- agile.",
+        "The essential skills for Account Manager \u00e2\u20ac\u201c IT include:\n- agile.",
+        "Here are the skills required to excel as a Account Manager \u00e2\u20ac\u201c IT:\n- agile.",
+        "Here's a list of skills you'll need for Account Manager \u00e2\u20ac\u201c IT:\n- agile."
+      ]
+    },
+    {
+      "tag": "project_manager",
+      "patterns": [
+        "What skills are required for Project Manager?",
+        "Skills for Project Manager",
+        "What are the prerequisites for Project Manager?",
+        "List the required skills for Project Manager",
+        "Which skills do I need to become a Project Manager?"
+      ],
+      "responses": [
+        "To become a Project Manager, you'll need the following skills:\n- rust.",
+        "The essential skills for Project Manager include:\n- rust.",
+        "Here are the skills required to excel as a Project Manager:\n- rust.",
+        "Here's a list of skills you'll need for Project Manager:\n- rust."
+      ]
+    },
+    {
+      "tag": "recruiter",
+      "patterns": [
+        "What skills are required for Recruiter?",
+        "Skills for Recruiter",
+        "What are the prerequisites for Recruiter?",
+        "List the required skills for Recruiter",
+        "Which skills do I need to become a Recruiter?"
+      ],
+      "responses": [
+        "To become a Recruiter, you'll need the following skills:\n- aws.",
+        "The essential skills for Recruiter include:\n- aws.",
+        "Here are the skills required to excel as a Recruiter:\n- aws.",
+        "Here's a list of skills you'll need for Recruiter:\n- aws."
+      ]
+    },
+    {
+      "tag": "senior_governance,_risk_&_compliance_analyst",
+      "patterns": [
+        "What skills are required for Senior Governance, Risk & Compliance Analyst?",
+        "Skills for Senior Governance, Risk & Compliance Analyst",
+        "What are the prerequisites for Senior Governance, Risk & Compliance Analyst?",
+        "List the required skills for Senior Governance, Risk & Compliance Analyst",
+        "Which skills do I need to become a Senior Governance, Risk & Compliance Analyst?"
+      ],
+      "responses": [
+        "To become a Senior Governance, Risk & Compliance Analyst, you'll need the following skills:\n- scala.",
+        "The essential skills for Senior Governance, Risk & Compliance Analyst include:\n- scala.",
+        "Here are the skills required to excel as a Senior Governance, Risk & Compliance Analyst:\n- scala.",
+        "Here's a list of skills you'll need for Senior Governance, Risk & Compliance Analyst:\n- scala."
+      ]
+    },
+    {
+      "tag": "senior_solutions_architect",
+      "patterns": [
+        "What skills are required for Senior Solutions Architect?",
+        "Skills for Senior Solutions Architect",
+        "What are the prerequisites for Senior Solutions Architect?",
+        "List the required skills for Senior Solutions Architect",
+        "Which skills do I need to become a Senior Solutions Architect?"
+      ],
+      "responses": [
+        "To become a Senior Solutions Architect, you'll need the following skills:\n- project management.",
+        "The essential skills for Senior Solutions Architect include:\n- project management.",
+        "Here are the skills required to excel as a Senior Solutions Architect:\n- project management.",
+        "Here's a list of skills you'll need for Senior Solutions Architect:\n- project management."
+      ]
+    },
+    {
+      "tag": "network_security_engineer",
+      "patterns": [
+        "What skills are required for Network Security Engineer?",
+        "Skills for Network Security Engineer",
+        "What are the prerequisites for Network Security Engineer?",
+        "List the required skills for Network Security Engineer",
+        "Which skills do I need to become a Network Security Engineer?"
+      ],
+      "responses": [
+        "To become a Network Security Engineer, you'll need the following skills:\n- collaboration.",
+        "The essential skills for Network Security Engineer include:\n- collaboration.",
+        "Here are the skills required to excel as a Network Security Engineer:\n- collaboration.",
+        "Here's a list of skills you'll need for Network Security Engineer:\n- collaboration."
+      ]
+    },
+    {
+      "tag": "principal_enterprise_strategist",
+      "patterns": [
+        "What skills are required for Principal Enterprise Strategist?",
+        "Skills for Principal Enterprise Strategist",
+        "What are the prerequisites for Principal Enterprise Strategist?",
+        "List the required skills for Principal Enterprise Strategist",
+        "Which skills do I need to become a Principal Enterprise Strategist?"
+      ],
+      "responses": [
+        "To become a Principal Enterprise Strategist, you'll need the following skills:\n- seo.",
+        "The essential skills for Principal Enterprise Strategist include:\n- seo.",
+        "Here are the skills required to excel as a Principal Enterprise Strategist:\n- seo.",
+        "Here's a list of skills you'll need for Principal Enterprise Strategist:\n- seo."
+      ]
+    },
+    {
+      "tag": "helpdesk_technician_i",
+      "patterns": [
+        "What skills are required for Helpdesk Technician I?",
+        "Skills for Helpdesk Technician I",
+        "What are the prerequisites for Helpdesk Technician I?",
+        "List the required skills for Helpdesk Technician I",
+        "Which skills do I need to become a Helpdesk Technician I?"
+      ],
+      "responses": [
+        "To become a Helpdesk Technician I, you'll need the following skills:\n- aws.",
+        "The essential skills for Helpdesk Technician I include:\n- aws.",
+        "Here are the skills required to excel as a Helpdesk Technician I:\n- aws.",
+        "Here's a list of skills you'll need for Helpdesk Technician I:\n- aws."
+      ]
+    },
+    {
+      "tag": "training_specialist",
+      "patterns": [
+        "What skills are required for Training Specialist?",
+        "Skills for Training Specialist",
+        "What are the prerequisites for Training Specialist?",
+        "List the required skills for Training Specialist",
+        "Which skills do I need to become a Training Specialist?"
+      ],
+      "responses": [
+        "To become a Training Specialist, you'll need the following skills:\n- interpersonal.",
+        "The essential skills for Training Specialist include:\n- interpersonal.",
+        "Here are the skills required to excel as a Training Specialist:\n- interpersonal.",
+        "Here's a list of skills you'll need for Training Specialist:\n- interpersonal."
+      ]
+    },
+    {
+      "tag": "software_engineer_(c#,_angular,_typescript)_-_hybrid_role",
+      "patterns": [
+        "What skills are required for Software Engineer (C#, Angular, Typescript) - Hybrid Role?",
+        "Skills for Software Engineer (C#, Angular, Typescript) - Hybrid Role",
+        "What are the prerequisites for Software Engineer (C#, Angular, Typescript) - Hybrid Role?",
+        "List the required skills for Software Engineer (C#, Angular, Typescript) - Hybrid Role",
+        "Which skills do I need to become a Software Engineer (C#, Angular, Typescript) - Hybrid Role?"
+      ],
+      "responses": [
+        "To become a Software Engineer (C#, Angular, Typescript) - Hybrid Role, you'll need the following skills:\n- data modeling.",
+        "The essential skills for Software Engineer (C#, Angular, Typescript) - Hybrid Role include:\n- data modeling.",
+        "Here are the skills required to excel as a Software Engineer (C#, Angular, Typescript) - Hybrid Role:\n- data modeling.",
+        "Here's a list of skills you'll need for Software Engineer (C#, Angular, Typescript) - Hybrid Role:\n- data modeling."
+      ]
+    },
+    {
+      "tag": "network_and_computer_systems_administrator,_jr",
+      "patterns": [
+        "What skills are required for Network and Computer Systems Administrator, Jr?",
+        "Skills for Network and Computer Systems Administrator, Jr",
+        "What are the prerequisites for Network and Computer Systems Administrator, Jr?",
+        "List the required skills for Network and Computer Systems Administrator, Jr",
+        "Which skills do I need to become a Network and Computer Systems Administrator, Jr?"
+      ],
+      "responses": [
+        "To become a Network and Computer Systems Administrator, Jr, you'll need the following skills:\n- collaboration.",
+        "The essential skills for Network and Computer Systems Administrator, Jr include:\n- collaboration.",
+        "Here are the skills required to excel as a Network and Computer Systems Administrator, Jr:\n- collaboration.",
+        "Here's a list of skills you'll need for Network and Computer Systems Administrator, Jr:\n- collaboration."
+      ]
+    },
+    {
+      "tag": "sr_machine_learning_operations_engineer",
+      "patterns": [
+        "What skills are required for Sr Machine Learning Operations Engineer?",
+        "Skills for Sr Machine Learning Operations Engineer",
+        "What are the prerequisites for Sr Machine Learning Operations Engineer?",
+        "List the required skills for Sr Machine Learning Operations Engineer",
+        "Which skills do I need to become a Sr Machine Learning Operations Engineer?"
+      ],
+      "responses": [
+        "To become a Sr Machine Learning Operations Engineer, you'll need the following skills:\n- azure.",
+        "The essential skills for Sr Machine Learning Operations Engineer include:\n- azure.",
+        "Here are the skills required to excel as a Sr Machine Learning Operations Engineer:\n- azure.",
+        "Here's a list of skills you'll need for Sr Machine Learning Operations Engineer:\n- azure."
+      ]
+    },
+    {
+      "tag": "compensation_analyst",
+      "patterns": [
+        "What skills are required for Compensation Analyst?",
+        "Skills for Compensation Analyst",
+        "What are the prerequisites for Compensation Analyst?",
+        "List the required skills for Compensation Analyst",
+        "Which skills do I need to become a Compensation Analyst?"
+      ],
+      "responses": [
+        "To become a Compensation Analyst, you'll need the following skills:\n- risk management.",
+        "The essential skills for Compensation Analyst include:\n- risk management.",
+        "Here are the skills required to excel as a Compensation Analyst:\n- risk management.",
+        "Here's a list of skills you'll need for Compensation Analyst:\n- risk management."
+      ]
+    },
+    {
+      "tag": "product_marketing_manager_(remote)",
+      "patterns": [
+        "What skills are required for Product Marketing Manager (Remote)?",
+        "Skills for Product Marketing Manager (Remote)",
+        "What are the prerequisites for Product Marketing Manager (Remote)?",
+        "List the required skills for Product Marketing Manager (Remote)",
+        "Which skills do I need to become a Product Marketing Manager (Remote)?"
+      ],
+      "responses": [
+        "To become a Product Marketing Manager (Remote), you'll need the following skills:\n- email marketing.",
+        "The essential skills for Product Marketing Manager (Remote) include:\n- email marketing.",
+        "Here are the skills required to excel as a Product Marketing Manager (Remote):\n- email marketing.",
+        "Here's a list of skills you'll need for Product Marketing Manager (Remote):\n- email marketing."
+      ]
+    },
+    {
+      "tag": "operations_engineer,_robotics",
+      "patterns": [
+        "What skills are required for Operations Engineer, Robotics?",
+        "Skills for Operations Engineer, Robotics",
+        "What are the prerequisites for Operations Engineer, Robotics?",
+        "List the required skills for Operations Engineer, Robotics",
+        "Which skills do I need to become a Operations Engineer, Robotics?"
+      ],
+      "responses": [
+        "To become a Operations Engineer, Robotics, you'll need the following skills:\n- negotiation.",
+        "The essential skills for Operations Engineer, Robotics include:\n- negotiation.",
+        "Here are the skills required to excel as a Operations Engineer, Robotics:\n- negotiation.",
+        "Here's a list of skills you'll need for Operations Engineer, Robotics:\n- negotiation."
+      ]
+    },
+    {
+      "tag": "ios_developer_for_mobile_app",
+      "patterns": [
+        "What skills are required for IOS Developer for Mobile App?",
+        "Skills for IOS Developer for Mobile App",
+        "What are the prerequisites for IOS Developer for Mobile App?",
+        "List the required skills for IOS Developer for Mobile App",
+        "Which skills do I need to become a IOS Developer for Mobile App?"
+      ],
+      "responses": [
+        "To become a IOS Developer for Mobile App, you'll need the following skills:\n- collaboration.",
+        "The essential skills for IOS Developer for Mobile App include:\n- collaboration.",
+        "Here are the skills required to excel as a IOS Developer for Mobile App:\n- collaboration.",
+        "Here's a list of skills you'll need for IOS Developer for Mobile App:\n- collaboration."
+      ]
+    },
+    {
+      "tag": "bubble.io_developer_-_usa",
+      "patterns": [
+        "What skills are required for Bubble.io Developer - USA?",
+        "Skills for Bubble.io Developer - USA",
+        "What are the prerequisites for Bubble.io Developer - USA?",
+        "List the required skills for Bubble.io Developer - USA",
+        "Which skills do I need to become a Bubble.io Developer - USA?"
+      ],
+      "responses": [
+        "To become a Bubble.io Developer - USA, you'll need the following skills:\n- react.",
+        "The essential skills for Bubble.io Developer - USA include:\n- react.",
+        "Here are the skills required to excel as a Bubble.io Developer - USA:\n- react.",
+        "Here's a list of skills you'll need for Bubble.io Developer - USA:\n- react."
+      ]
+    },
+    {
+      "tag": "specialist_information_systems_architect",
+      "patterns": [
+        "What skills are required for Specialist Information Systems Architect?",
+        "Skills for Specialist Information Systems Architect",
+        "What are the prerequisites for Specialist Information Systems Architect?",
+        "List the required skills for Specialist Information Systems Architect",
+        "Which skills do I need to become a Specialist Information Systems Architect?"
+      ],
+      "responses": [
+        "To become a Specialist Information Systems Architect, you'll need the following skills:\n- monitoring.",
+        "The essential skills for Specialist Information Systems Architect include:\n- monitoring.",
+        "Here are the skills required to excel as a Specialist Information Systems Architect:\n- monitoring.",
+        "Here's a list of skills you'll need for Specialist Information Systems Architect:\n- monitoring."
+      ]
+    },
+    {
+      "tag": "we_care_consulting_apprentice_work-study_program",
+      "patterns": [
+        "What skills are required for We Care Consulting Apprentice Work-Study Program?",
+        "Skills for We Care Consulting Apprentice Work-Study Program",
+        "What are the prerequisites for We Care Consulting Apprentice Work-Study Program?",
+        "List the required skills for We Care Consulting Apprentice Work-Study Program",
+        "Which skills do I need to become a We Care Consulting Apprentice Work-Study Program?"
+      ],
+      "responses": [
+        "To become a We Care Consulting Apprentice Work-Study Program, you'll need the following skills:\n- recruitment.",
+        "The essential skills for We Care Consulting Apprentice Work-Study Program include:\n- recruitment.",
+        "Here are the skills required to excel as a We Care Consulting Apprentice Work-Study Program:\n- recruitment.",
+        "Here's a list of skills you'll need for We Care Consulting Apprentice Work-Study Program:\n- recruitment."
+      ]
+    },
+    {
+      "tag": "payroll_administrator",
+      "patterns": [
+        "What skills are required for Payroll Administrator?",
+        "Skills for Payroll Administrator",
+        "What are the prerequisites for Payroll Administrator?",
+        "List the required skills for Payroll Administrator",
+        "Which skills do I need to become a Payroll Administrator?"
+      ],
+      "responses": [
+        "To become a Payroll Administrator, you'll need the following skills:\n- time management.",
+        "The essential skills for Payroll Administrator include:\n- time management.",
+        "Here are the skills required to excel as a Payroll Administrator:\n- time management.",
+        "Here's a list of skills you'll need for Payroll Administrator:\n- time management."
+      ]
+    },
+    {
+      "tag": "penetration_tester_-_dod_-_national_capitol_region",
+      "patterns": [
+        "What skills are required for Penetration Tester - DOD - National Capitol Region?",
+        "Skills for Penetration Tester - DOD - National Capitol Region",
+        "What are the prerequisites for Penetration Tester - DOD - National Capitol Region?",
+        "List the required skills for Penetration Tester - DOD - National Capitol Region",
+        "Which skills do I need to become a Penetration Tester - DOD - National Capitol Region?"
+      ],
+      "responses": [
+        "To become a Penetration Tester - DOD - National Capitol Region, you'll need the following skills:\n- rust.",
+        "The essential skills for Penetration Tester - DOD - National Capitol Region include:\n- rust.",
+        "Here are the skills required to excel as a Penetration Tester - DOD - National Capitol Region:\n- rust.",
+        "Here's a list of skills you'll need for Penetration Tester - DOD - National Capitol Region:\n- rust."
+      ]
+    },
+    {
+      "tag": "fuels_engineer_(hybrid/_remote)",
+      "patterns": [
+        "What skills are required for Fuels Engineer (Hybrid/ Remote)?",
+        "Skills for Fuels Engineer (Hybrid/ Remote)",
+        "What are the prerequisites for Fuels Engineer (Hybrid/ Remote)?",
+        "List the required skills for Fuels Engineer (Hybrid/ Remote)",
+        "Which skills do I need to become a Fuels Engineer (Hybrid/ Remote)?"
+      ],
+      "responses": [
+        "To become a Fuels Engineer (Hybrid/ Remote), you'll need the following skills:\n- collaboration.",
+        "The essential skills for Fuels Engineer (Hybrid/ Remote) include:\n- collaboration.",
+        "Here are the skills required to excel as a Fuels Engineer (Hybrid/ Remote):\n- collaboration.",
+        "Here's a list of skills you'll need for Fuels Engineer (Hybrid/ Remote):\n- collaboration."
+      ]
+    },
+    {
+      "tag": "ecommerce_product_manager",
+      "patterns": [
+        "What skills are required for Ecommerce Product Manager?",
+        "Skills for Ecommerce Product Manager",
+        "What are the prerequisites for Ecommerce Product Manager?",
+        "List the required skills for Ecommerce Product Manager",
+        "Which skills do I need to become a Ecommerce Product Manager?"
+      ],
+      "responses": [
+        "To become a Ecommerce Product Manager, you'll need the following skills:\n- scrum.",
+        "The essential skills for Ecommerce Product Manager include:\n- scrum.",
+        "Here are the skills required to excel as a Ecommerce Product Manager:\n- scrum.",
+        "Here's a list of skills you'll need for Ecommerce Product Manager:\n- scrum."
+      ]
+    },
+    {
+      "tag": "principal_quality_assurance_engineer",
+      "patterns": [
+        "What skills are required for Principal Quality Assurance Engineer?",
+        "Skills for Principal Quality Assurance Engineer",
+        "What are the prerequisites for Principal Quality Assurance Engineer?",
+        "List the required skills for Principal Quality Assurance Engineer",
+        "Which skills do I need to become a Principal Quality Assurance Engineer?"
+      ],
+      "responses": [
+        "To become a Principal Quality Assurance Engineer, you'll need the following skills:\n- rust.",
+        "The essential skills for Principal Quality Assurance Engineer include:\n- rust.",
+        "Here are the skills required to excel as a Principal Quality Assurance Engineer:\n- rust.",
+        "Here's a list of skills you'll need for Principal Quality Assurance Engineer:\n- rust."
+      ]
+    },
+    {
+      "tag": "program_manager,_risk",
+      "patterns": [
+        "What skills are required for Program Manager, Risk?",
+        "Skills for Program Manager, Risk",
+        "What are the prerequisites for Program Manager, Risk?",
+        "List the required skills for Program Manager, Risk",
+        "Which skills do I need to become a Program Manager, Risk?"
+      ],
+      "responses": [
+        "To become a Program Manager, Risk, you'll need the following skills:\n- aws.",
+        "The essential skills for Program Manager, Risk include:\n- aws.",
+        "Here are the skills required to excel as a Program Manager, Risk:\n- aws.",
+        "Here's a list of skills you'll need for Program Manager, Risk:\n- aws."
+      ]
+    },
+    {
+      "tag": "solutions_engineer_-_higher_ed_(central_or_east_coast)",
+      "patterns": [
+        "What skills are required for Solutions Engineer - Higher Ed (Central or East Coast)?",
+        "Skills for Solutions Engineer - Higher Ed (Central or East Coast)",
+        "What are the prerequisites for Solutions Engineer - Higher Ed (Central or East Coast)?",
+        "List the required skills for Solutions Engineer - Higher Ed (Central or East Coast)",
+        "Which skills do I need to become a Solutions Engineer - Higher Ed (Central or East Coast)?"
+      ],
+      "responses": [
+        "To become a Solutions Engineer - Higher Ed (Central or East Coast), you'll need the following skills:\n- project management.",
+        "The essential skills for Solutions Engineer - Higher Ed (Central or East Coast) include:\n- project management.",
+        "Here are the skills required to excel as a Solutions Engineer - Higher Ed (Central or East Coast):\n- project management.",
+        "Here's a list of skills you'll need for Solutions Engineer - Higher Ed (Central or East Coast):\n- project management."
+      ]
+    },
+    {
+      "tag": "technical_account_manager_-_ccaas",
+      "patterns": [
+        "What skills are required for Technical Account Manager - CCaaS?",
+        "Skills for Technical Account Manager - CCaaS",
+        "What are the prerequisites for Technical Account Manager - CCaaS?",
+        "List the required skills for Technical Account Manager - CCaaS",
+        "Which skills do I need to become a Technical Account Manager - CCaaS?"
+      ],
+      "responses": [
+        "To become a Technical Account Manager - CCaaS, you'll need the following skills:\n- onboarding.",
+        "The essential skills for Technical Account Manager - CCaaS include:\n- onboarding.",
+        "Here are the skills required to excel as a Technical Account Manager - CCaaS:\n- onboarding.",
+        "Here's a list of skills you'll need for Technical Account Manager - CCaaS:\n- onboarding."
+      ]
+    },
+    {
+      "tag": "remote_inside_sales",
+      "patterns": [
+        "What skills are required for Remote Inside Sales?",
+        "Skills for Remote Inside Sales",
+        "What are the prerequisites for Remote Inside Sales?",
+        "List the required skills for Remote Inside Sales",
+        "Which skills do I need to become a Remote Inside Sales?"
+      ],
+      "responses": [
+        "To become a Remote Inside Sales, you'll need the following skills:\n- rust.",
+        "The essential skills for Remote Inside Sales include:\n- rust.",
+        "Here are the skills required to excel as a Remote Inside Sales:\n- rust.",
+        "Here's a list of skills you'll need for Remote Inside Sales:\n- rust."
+      ]
+    },
+    {
+      "tag": "marketing_specialist",
+      "patterns": [
+        "What skills are required for Marketing Specialist?",
+        "Skills for Marketing Specialist",
+        "What are the prerequisites for Marketing Specialist?",
+        "List the required skills for Marketing Specialist",
+        "Which skills do I need to become a Marketing Specialist?"
+      ],
+      "responses": [
+        "To become a Marketing Specialist, you'll need the following skills:\n- content marketing.",
+        "The essential skills for Marketing Specialist include:\n- content marketing.",
+        "Here are the skills required to excel as a Marketing Specialist:\n- content marketing.",
+        "Here's a list of skills you'll need for Marketing Specialist:\n- content marketing."
+      ]
+    },
+    {
+      "tag": "real_estate_social_media_content_&_engagement_manager",
+      "patterns": [
+        "What skills are required for Real Estate Social Media Content & Engagement Manager?",
+        "Skills for Real Estate Social Media Content & Engagement Manager",
+        "What are the prerequisites for Real Estate Social Media Content & Engagement Manager?",
+        "List the required skills for Real Estate Social Media Content & Engagement Manager",
+        "Which skills do I need to become a Real Estate Social Media Content & Engagement Manager?"
+      ],
+      "responses": [
+        "To become a Real Estate Social Media Content & Engagement Manager, you'll need the following skills:\n- graphic design.",
+        "The essential skills for Real Estate Social Media Content & Engagement Manager include:\n- graphic design.",
+        "Here are the skills required to excel as a Real Estate Social Media Content & Engagement Manager:\n- graphic design.",
+        "Here's a list of skills you'll need for Real Estate Social Media Content & Engagement Manager:\n- graphic design."
+      ]
+    },
+    {
+      "tag": "aws_developer",
+      "patterns": [
+        "What skills are required for AWS Developer?",
+        "Skills for AWS Developer",
+        "What are the prerequisites for AWS Developer?",
+        "List the required skills for AWS Developer",
+        "Which skills do I need to become a AWS Developer?"
+      ],
+      "responses": [
+        "To become a AWS Developer, you'll need the following skills:\n- html.",
+        "The essential skills for AWS Developer include:\n- html.",
+        "Here are the skills required to excel as a AWS Developer:\n- html.",
+        "Here's a list of skills you'll need for AWS Developer:\n- html."
+      ]
+    },
+    {
+      "tag": "product_development_-_software_engineer_iv",
+      "patterns": [
+        "What skills are required for Product Development - Software Engineer IV?",
+        "Skills for Product Development - Software Engineer IV",
+        "What are the prerequisites for Product Development - Software Engineer IV?",
+        "List the required skills for Product Development - Software Engineer IV",
+        "Which skills do I need to become a Product Development - Software Engineer IV?"
+      ],
+      "responses": [
+        "To become a Product Development - Software Engineer IV, you'll need the following skills:\n- react.",
+        "The essential skills for Product Development - Software Engineer IV include:\n- react.",
+        "Here are the skills required to excel as a Product Development - Software Engineer IV:\n- react.",
+        "Here's a list of skills you'll need for Product Development - Software Engineer IV:\n- react."
+      ]
+    },
+    {
+      "tag": "software_engineer_-_backend",
+      "patterns": [
+        "What skills are required for Software Engineer - Backend?",
+        "Skills for Software Engineer - Backend",
+        "What are the prerequisites for Software Engineer - Backend?",
+        "List the required skills for Software Engineer - Backend",
+        "Which skills do I need to become a Software Engineer - Backend?"
+      ],
+      "responses": [
+        "To become a Software Engineer - Backend, you'll need the following skills:\n- leadership.",
+        "The essential skills for Software Engineer - Backend include:\n- leadership.",
+        "Here are the skills required to excel as a Software Engineer - Backend:\n- leadership.",
+        "Here's a list of skills you'll need for Software Engineer - Backend:\n- leadership."
+      ]
+    },
+    {
+      "tag": "web_tester_(contract)",
+      "patterns": [
+        "What skills are required for Web Tester (contract)?",
+        "Skills for Web Tester (contract)",
+        "What are the prerequisites for Web Tester (contract)?",
+        "List the required skills for Web Tester (contract)",
+        "Which skills do I need to become a Web Tester (contract)?"
+      ],
+      "responses": [
+        "To become a Web Tester (contract), you'll need the following skills:\n- oracle.",
+        "The essential skills for Web Tester (contract) include:\n- oracle.",
+        "Here are the skills required to excel as a Web Tester (contract):\n- oracle.",
+        "Here's a list of skills you'll need for Web Tester (contract):\n- oracle."
+      ]
+    },
+    {
+      "tag": "senior_solution_architect",
+      "patterns": [
+        "What skills are required for Senior Solution Architect?",
+        "Skills for Senior Solution Architect",
+        "What are the prerequisites for Senior Solution Architect?",
+        "List the required skills for Senior Solution Architect",
+        "Which skills do I need to become a Senior Solution Architect?"
+      ],
+      "responses": [
+        "To become a Senior Solution Architect, you'll need the following skills:\n- rust.",
+        "The essential skills for Senior Solution Architect include:\n- rust.",
+        "Here are the skills required to excel as a Senior Solution Architect:\n- rust.",
+        "Here's a list of skills you'll need for Senior Solution Architect:\n- rust."
+      ]
+    },
+    {
+      "tag": "client_services_administrator",
+      "patterns": [
+        "What skills are required for Client Services Administrator?",
+        "Skills for Client Services Administrator",
+        "What are the prerequisites for Client Services Administrator?",
+        "List the required skills for Client Services Administrator",
+        "Which skills do I need to become a Client Services Administrator?"
+      ],
+      "responses": [
+        "To become a Client Services Administrator, you'll need the following skills:\n- collaboration.",
+        "The essential skills for Client Services Administrator include:\n- collaboration.",
+        "Here are the skills required to excel as a Client Services Administrator:\n- collaboration.",
+        "Here's a list of skills you'll need for Client Services Administrator:\n- collaboration."
+      ]
+    },
+    {
+      "tag": "hris_analyst",
+      "patterns": [
+        "What skills are required for HRIS Analyst?",
+        "Skills for HRIS Analyst",
+        "What are the prerequisites for HRIS Analyst?",
+        "List the required skills for HRIS Analyst",
+        "Which skills do I need to become a HRIS Analyst?"
+      ],
+      "responses": [
+        "To become a HRIS Analyst, you'll need the following skills:\n- scala.",
+        "The essential skills for HRIS Analyst include:\n- scala.",
+        "Here are the skills required to excel as a HRIS Analyst:\n- scala.",
+        "Here's a list of skills you'll need for HRIS Analyst:\n- scala."
+      ]
+    },
+    {
+      "tag": "idms_active_directory_(ad)_engineer",
+      "patterns": [
+        "What skills are required for IDMS Active Directory (AD) Engineer?",
+        "Skills for IDMS Active Directory (AD) Engineer",
+        "What are the prerequisites for IDMS Active Directory (AD) Engineer?",
+        "List the required skills for IDMS Active Directory (AD) Engineer",
+        "Which skills do I need to become a IDMS Active Directory (AD) Engineer?"
+      ],
+      "responses": [
+        "To become a IDMS Active Directory (AD) Engineer, you'll need the following skills:\n- monitoring.",
+        "The essential skills for IDMS Active Directory (AD) Engineer include:\n- monitoring.",
+        "Here are the skills required to excel as a IDMS Active Directory (AD) Engineer:\n- monitoring.",
+        "Here's a list of skills you'll need for IDMS Active Directory (AD) Engineer:\n- monitoring."
+      ]
+    },
+    {
+      "tag": "talent_acquisition_&_onboarding_specialist",
+      "patterns": [
+        "What skills are required for Talent Acquisition & Onboarding Specialist?",
+        "Skills for Talent Acquisition & Onboarding Specialist",
+        "What are the prerequisites for Talent Acquisition & Onboarding Specialist?",
+        "List the required skills for Talent Acquisition & Onboarding Specialist",
+        "Which skills do I need to become a Talent Acquisition & Onboarding Specialist?"
+      ],
+      "responses": [
+        "To become a Talent Acquisition & Onboarding Specialist, you'll need the following skills:\n- written communication.",
+        "The essential skills for Talent Acquisition & Onboarding Specialist include:\n- written communication.",
+        "Here are the skills required to excel as a Talent Acquisition & Onboarding Specialist:\n- written communication.",
+        "Here's a list of skills you'll need for Talent Acquisition & Onboarding Specialist:\n- written communication."
+      ]
+    },
+    {
+      "tag": "service_desk_analyst",
+      "patterns": [
+        "What skills are required for Service Desk Analyst?",
+        "Skills for Service Desk Analyst",
+        "What are the prerequisites for Service Desk Analyst?",
+        "List the required skills for Service Desk Analyst",
+        "Which skills do I need to become a Service Desk Analyst?"
+      ],
+      "responses": [
+        "To become a Service Desk Analyst, you'll need the following skills:\n- agile.",
+        "The essential skills for Service Desk Analyst include:\n- agile.",
+        "Here are the skills required to excel as a Service Desk Analyst:\n- agile.",
+        "Here's a list of skills you'll need for Service Desk Analyst:\n- agile."
+      ]
+    },
+    {
+      "tag": "content_writer",
+      "patterns": [
+        "What skills are required for Content Writer?",
+        "Skills for Content Writer",
+        "What are the prerequisites for Content Writer?",
+        "List the required skills for Content Writer",
+        "Which skills do I need to become a Content Writer?"
+      ],
+      "responses": [
+        "To become a Content Writer, you'll need the following skills:\n- rust.",
+        "The essential skills for Content Writer include:\n- rust.",
+        "Here are the skills required to excel as a Content Writer:\n- rust.",
+        "Here's a list of skills you'll need for Content Writer:\n- rust."
+      ]
+    },
+    {
+      "tag": "telecommunications_specialist_iv",
+      "patterns": [
+        "What skills are required for Telecommunications Specialist IV?",
+        "Skills for Telecommunications Specialist IV",
+        "What are the prerequisites for Telecommunications Specialist IV?",
+        "List the required skills for Telecommunications Specialist IV",
+        "Which skills do I need to become a Telecommunications Specialist IV?"
+      ],
+      "responses": [
+        "To become a Telecommunications Specialist IV, you'll need the following skills:\n- collaboration.",
+        "The essential skills for Telecommunications Specialist IV include:\n- collaboration.",
+        "Here are the skills required to excel as a Telecommunications Specialist IV:\n- collaboration.",
+        "Here's a list of skills you'll need for Telecommunications Specialist IV:\n- collaboration."
+      ]
+    },
+    {
+      "tag": "care_coordinator",
+      "patterns": [
+        "What skills are required for Care Coordinator?",
+        "Skills for Care Coordinator",
+        "What are the prerequisites for Care Coordinator?",
+        "List the required skills for Care Coordinator",
+        "Which skills do I need to become a Care Coordinator?"
+      ],
+      "responses": [
+        "To become a Care Coordinator, you'll need the following skills:\n- recruitment.",
+        "The essential skills for Care Coordinator include:\n- recruitment.",
+        "Here are the skills required to excel as a Care Coordinator:\n- recruitment.",
+        "Here's a list of skills you'll need for Care Coordinator:\n- recruitment."
+      ]
+    },
+    {
+      "tag": "lead_ui/ux_designer_-_usa",
+      "patterns": [
+        "What skills are required for Lead UI/UX Designer - USA?",
+        "Skills for Lead UI/UX Designer - USA",
+        "What are the prerequisites for Lead UI/UX Designer - USA?",
+        "List the required skills for Lead UI/UX Designer - USA",
+        "Which skills do I need to become a Lead UI/UX Designer - USA?"
+      ],
+      "responses": [
+        "To become a Lead UI/UX Designer - USA, you'll need the following skills:\n- agile.",
+        "The essential skills for Lead UI/UX Designer - USA include:\n- agile.",
+        "Here are the skills required to excel as a Lead UI/UX Designer - USA:\n- agile.",
+        "Here's a list of skills you'll need for Lead UI/UX Designer - USA:\n- agile."
+      ]
+    },
+    {
+      "tag": "web_designer_/_uiux_designer",
+      "patterns": [
+        "What skills are required for Web Designer / UIUX Designer?",
+        "Skills for Web Designer / UIUX Designer",
+        "What are the prerequisites for Web Designer / UIUX Designer?",
+        "List the required skills for Web Designer / UIUX Designer",
+        "Which skills do I need to become a Web Designer / UIUX Designer?"
+      ],
+      "responses": [
+        "To become a Web Designer / UIUX Designer, you'll need the following skills:\n- photoshop.",
+        "The essential skills for Web Designer / UIUX Designer include:\n- photoshop.",
+        "Here are the skills required to excel as a Web Designer / UIUX Designer:\n- photoshop.",
+        "Here's a list of skills you'll need for Web Designer / UIUX Designer:\n- photoshop."
+      ]
+    },
+    {
+      "tag": "ux_content_writer_(5045)",
+      "patterns": [
+        "What skills are required for UX Content Writer (5045)?",
+        "Skills for UX Content Writer (5045)",
+        "What are the prerequisites for UX Content Writer (5045)?",
+        "List the required skills for UX Content Writer (5045)",
+        "Which skills do I need to become a UX Content Writer (5045)?"
+      ],
+      "responses": [
+        "To become a UX Content Writer (5045), you'll need the following skills:\n- empathy.",
+        "The essential skills for UX Content Writer (5045) include:\n- empathy.",
+        "Here are the skills required to excel as a UX Content Writer (5045):\n- empathy.",
+        "Here's a list of skills you'll need for UX Content Writer (5045):\n- empathy."
+      ]
+    },
+    {
+      "tag": "web_designer",
+      "patterns": [
+        "What skills are required for Web Designer?",
+        "Skills for Web Designer",
+        "What are the prerequisites for Web Designer?",
+        "List the required skills for Web Designer",
+        "Which skills do I need to become a Web Designer?"
+      ],
+      "responses": [
+        "To become a Web Designer, you'll need the following skills:\n- collaboration.",
+        "The essential skills for Web Designer include:\n- collaboration.",
+        "Here are the skills required to excel as a Web Designer:\n- collaboration.",
+        "Here's a list of skills you'll need for Web Designer:\n- collaboration."
+      ]
+    },
+    {
+      "tag": "sr_network_engineer",
+      "patterns": [
+        "What skills are required for Sr Network Engineer?",
+        "Skills for Sr Network Engineer",
+        "What are the prerequisites for Sr Network Engineer?",
+        "List the required skills for Sr Network Engineer",
+        "Which skills do I need to become a Sr Network Engineer?"
+      ],
+      "responses": [
+        "To become a Sr Network Engineer, you'll need the following skills:\n- collaboration.",
+        "The essential skills for Sr Network Engineer include:\n- collaboration.",
+        "Here are the skills required to excel as a Sr Network Engineer:\n- collaboration.",
+        "Here's a list of skills you'll need for Sr Network Engineer:\n- collaboration."
+      ]
+    },
+    {
+      "tag": "data_analyst",
+      "patterns": [
+        "What skills are required for Data Analyst?",
+        "Skills for Data Analyst",
+        "What are the prerequisites for Data Analyst?",
+        "List the required skills for Data Analyst",
+        "Which skills do I need to become a Data Analyst?"
+      ],
+      "responses": [
+        "To become a Data Analyst, you'll need the following skills:\n- collaboration.",
+        "The essential skills for Data Analyst include:\n- collaboration.",
+        "Here are the skills required to excel as a Data Analyst:\n- collaboration.",
+        "Here's a list of skills you'll need for Data Analyst:\n- collaboration."
+      ]
+    }
+  ]
+}

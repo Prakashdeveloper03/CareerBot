@@ -1,0 +1,286 @@
+\documentclass[13pt,a4paper]{aureportm} % Document class with font size 13pt and A4 paper size
+\usepackage{mathptm} % Math font
+\usepackage{etex} % Extended TeX features
+\reserveinserts{28} % Reserve inserts for additional packages
+\renewcommand{\normalsize}{\fontsize{13pt}{14.6pt}\selectfont} % Redefine normal font size
+\usepackage{aunatbib} % Australian natbib style for bibliography
+\usepackage{apalikem} % APA-like bibliography style
+\usepackage{natbib} % Flexible bibliography support
+\usepackage{bussproofs} % Proof trees in logic
+\usepackage{auphd} % Australian PhD thesis style
+\usepackage{array} % Enhanced array and tabular environments
+\usepackage{tabularx} % Tabulars with adjustable-width columns
+\usepackage[none]{hyphenat} % Disable hyphenation
+\usepackage[chapter]{algorithm} % Algorithms environment
+\usepackage{algpseudocode} % Algorithmic pseudocode
+\usepackage{multirow} % Multi-row cells in tables
+\usepackage{multicol} % Multi-column layout
+\usepackage{float} % Improved interface for floating objects
+\usepackage{booktabs} % Publication quality tables
+\usepackage{amsmath} % Enhanced math support
+\usepackage{amssymb} % Additional math symbols
+\usepackage{amsthm} % Enhanced theorem environments
+\usepackage{latexsym} % LaTeX symbols
+\usepackage{verbatim} % Enhanced verbatim environment
+\usepackage{ifthen} % Conditional commands
+\usepackage{graphicx} % Enhanced support for graphics
+\usepackage{hyperref} % Hyperlinks within documents
+\usepackage{epsfig} % Enhanced support for EPS figures
+\usepackage{pslatex} % Use PostScript fonts
+\usepackage{setspace} % Set space between lines
+\usepackage{titlesec} % Customize chapter and section headings
+\usepackage[subfigure]{tocloft} % Control table of contents, figures, etc.
+\usepackage{subfigure} % Deprecated - use subcaption instead
+\usepackage{longtable} % Tables that can span multiple pages
+\usepackage{enumerate} % Enumerate with more flexibility
+\usepackage{lscape} % Landscape environment
+
+% Customize caption formatting
+\usepackage[format=hang,labelfont=bf,textfont=bf]{caption}
+
+% Pass options to hyperref for linking table of contents entries to page numbers
+\PassOptionsToPackage{linktocpage}{hyperref}
+
+% Set page style for table of contents
+\tocloftpagestyle{myheadings}
+
+% Define a command to preserve backslashes
+\newcommand{\PreserveBackslash}[1]{\let\temp=\\#1\let\\=\temp}
+\let\PBS=\PreserveBackslash
+
+% Packages for colored tables and font
+\usepackage{colortbl}
+\usepackage{newlfont}
+
+% Conditional for output format (PostScript or not)
+\newboolean{psoutput}
+\setboolean{psoutput}{true}
+\usepackage{pst-all}
+
+% Define a command for formatting definitions
+\newcommand{\defname}[1]{\emph{#1}.}
+
+% Define theorem-like environments
+\newtheorem{fact}{Fact}[chapter]
+\newtheorem{definition}{Definition}[chapter]
+\newtheorem{example}{Example}[chapter]
+\newtheorem{proposition}{Proposition}[chapter]
+
+% Customize float style for algorithms
+\floatstyle{ruled}
+\newfloat{algorithm}{htp}{loa}
+\floatname{algorithm}{Algorithm}
+
+% Set page numbering style and starting page number
+\pagenumbering{roman}
+\setcounter{page}{3}
+
+% Set line spacing
+\renewcommand{\baselinestretch}{1.5}
+
+% Define commands and variables
+\newcommand{\row}{i}
+\newcommand{\combined}{{C}}
+\newcommand{\mtis}{}
+
+% Conditional for showing alterations
+\newboolean{showalter}
+\setboolean{showalter}{true}
+\newcommand{\alter}[1]{\ifthenelse{\boolean{showalter}}{ \{ #1 \} }{}}
+
+% Define a command for adding a new line in tables
+\providecommand{\tabularnewline}{\\}
+
+% Define font size for title and author
+\newcommand{\bigsize}{\fontsize{15pt}{20pt}\selectfont}
+\author{Author of the thesis}
+
+% Customize table of contents title font
+\renewcommand{\cfttoctitlefont}{\bfseries\Large}
+\renewcommand{\cftlottitlefont}{\bfseries\Large}
+\renewcommand{\cftloftitlefont}{\bfseries\Large}
+
+% Adjust spacing between dots in table of contents
+\makeatletter
+\renewcommand{\@dotsep}{10}
+\makeatother
+
+% Remove dots in table of contents
+\renewcommand{\cftdot}{ }
+
+% Adjust right margin of table of contents
+\cftsetrmarg{1.2in}
+
+% Customize section headings
+\titleformat{\section}[hang]{\bfseries}{\makebox[20mm][l]{\thesection}}{0pt}{}{}
+\titleformat{\subsection}[hang]{\bfseries}{{\thesubsection}}{0pt}{}{}
+\titleformat{\subsubsection}[hang]{\normalsize\bfseries}{\makebox[20mm][l]{\thesubsubsection}}{0pt}{}{}
+\titleformat{\paragraph}[hang]{\normalsize\bfseries}{\makebox[20mm][l]{\theparagraph}}{0pt}{}{}
+\titleformat{\subparagraph}[hang]{\normalsize\bfseries}{\makebox[20mm][l]{\thesubparagraph}}{0pt}{}{}
+
+% Start of the document
+\begin{document}
+
+% Set page numbering to roman numerals
+\pagenumbering{roman}
+
+% Suppress page numbering on this page
+\thispagestyle{empty}
+
+% Centered title and project report details
+\begin{center}
+  \LARGE
+  \textbf{\uppercase{COURSE, CAREER AND PERSONAL MENTORSHIP CHATBOT}} \\
+  % Adjust vertical spacing
+  \vspace{0.6\baselineskip}
+  \bigsize{\textbf{A PROJECT REPORT}}\\
+  \vspace{0.4\baselineskip}
+  
+  % Author details
+  \normalsize{\textit{\textbf{Submitted by}}}\\
+  \vspace{0.5\baselineskip}
+  {
+  \Large \textbf{SIVA PRAKASH K}}\\
+  \normalsize{\textbf{(2022179054)}}\\
+  \vspace{-0.1\baselineskip}
+  \normalsize{\textit{submitted to the Faculty of}} \\
+  % University and department details
+  \vspace{1\baselineskip}
+  \normalsize{\textbf{INFORMATION AND COMMUNICATION ENGINEERING}} \\
+  % Degree details
+  \vspace{1\baselineskip}
+  \normalsize{\textit{in partial fulfillment for the award of the degree}}\\
+  \normalsize{\textit{\textbf{of}}}\\
+  \vspace{.2\baselineskip}
+  \bigsize{{\textbf{MASTER OF COMPUTER APPLICATIONS}}}\\
+\end{center}
+% University emblem and details
+\begin{center}
+   \includegraphics[scale=0.7]{auemblem.pdf} \\
+  \normalsize{ \textbf{DEPARTMENT OF INFORMATION SCIENCE AND TECHNOLOGY }}\\
+  \normalsize{\textbf{COLLEGE OF ENGINEERING, GUINDY}}\\
+  \normalsize{\textbf{ANNA UNIVERSITY}}\\
+  \normalsize{\textbf{CHENNAI  600 025}}\\
+  \vspace{0.5\baselineskip}
+  \normalsize{\textbf{APRIL 2024}}
+ \end{center}
+
+% Start of chapter without numbering
+\chapter*{ANNA UNIVERSITY\\
+CHENNAI - 600 025\\
+BONA FIDE CERTIFICATE}
+
+% Calculate lengths for formatting
+\newlength{\aulength}
+\settowidth{\aulength}{Anna University
+  Chennai}
+\newlength{\datewidth}
+\settowidth{\datewidth}{Chennai 600 025}
+
+% Adjust spacing and font size for certificate text
+\begin{spacing}{1.5}
+  \begin{sloppypar}
+  \fontsize{13}{14.5}\selectfont Certified that this project report titled \textbf{❝COURSE, CAREER AND PERSONAL MENTORSHIP CHATBOT❞} is the bona fide work of SIVA PRAKASH K (2022179054) who carried out project work under my supervision. Certified further that to the best of my knowledge and belief, the work reported herein does not form part of any other thesis or dissertation on the basis of which a degree or an award was conferred on an earlier occasion on this or any other candidate.
+  \end{sloppypar}
+\end{spacing}
+% Adjust vertical spacing
+\vspace{-0.3 cm}
+\begin{flushleft}
+ % Place and date details
+ \parbox[t]{\datewidth}{\small{\textbf{PLACE:CHENNAI}}\\
+ \small{\textbf{DATE: 08/04/2024}}}
+ % Supervisor details
+ \hfill
+ \parbox[t]{6 cm}{\small{\textbf{DR. S. SRIDHAR}} \\
+ \small{\textbf{PROFESSOR}}\\
+ \small{\textbf{PROJECT GUIDE}}\\
+ \small{\textbf{DEPARTMENT OF IST, CEG}}\\
+ \small{\textbf{ANNA UNIVERSITY}}   \\
+ \small{\textbf{CHENNAI  600025}}
+ }
+\end{flushleft}
+% Head of department details
+\begin{center}
+ \small{\textbf{COUNTERSIGNED}}\\
+  \vspace{1.5 cm}
+  \textbf{\small{DR. S. SWAMYNATHAN}}\\
+  \small{\textbf{HEAD OF THE DEPARTMENT}}\\
+ \small{\textbf{DEPARTMENT OF INFORMATION SCIENCE AND TECHNOLOGY}}\\
+ \small{\textbf{COLLEGE OF ENGINEERING, GUINDY}}\\
+ \small{\textbf{ANNA UNIVERSITY}}   \\
+ \small{\textbf{CHENNAI  600025}}
+\end{center}
+
+% Include abstract and acknowledgment sections
+\include{Abstract/abstract}
+\include{Abstract/abstracttamil}
+\include{acknowl}
+
+% Adjust formatting for table of contents, list of tables, and list of figures
+\setlength{\cftparskip}{0pt} % Set paragraph skip in table of contents
+\setlength{\cftbeforetoctitleskip}{-3em} % Adjust spacing before table of contents title
+\setlength{\cftbeforelottitleskip}{-3em} % Adjust spacing before list of tables title
+\setlength{\cftbeforeloftitleskip}{-3em} % Adjust spacing before list of figures title
+\cftsetindents{chapter}{0 mm}{10 mm} % Set indentation for chapter entries in table of contents
+\cftsetindents{section}{10 mm}{10 mm} % Set indentation for section entries in table of contents
+\cftsetindents{subsection}{20 mm}{10 mm} % Set indentation for subsection entries in table of contents
+\cftsetindents{subsubsection}{30 mm}{15 mm} % Set indentation for subsubsection entries in table of contents
+\cftsetindents{paragraph}{40 mm}{20 mm} % Set indentation for paragraph entries in table of contents
+\cftsetindents{subparagraph}{50 mm}{20 mm} % Set indentation for subparagraph entries in table of contents
+\cftsetindents{table}{10 mm}{10 mm} % Set indentation for table entries in table of contents
+\cftsetindents{figure}{10 mm}{10 mm} % Set indentation for figure entries in table of contents
+
+% Table of contents, list of tables, and list of figures
+\begin{onehalfspacing} % Set line spacing for table of contents, list of tables, and list of figures
+ \tableofcontents % Generate table of contents
+ \pagebreak % Start new page after table of contents
+ \addcontentsline{toc}{section}{\bfseries LIST OF TABLES} % Add list of tables to table of contents
+ \listoftables % Generate list of tables
+ \clearpage % Start new page after list of tables
+ \addcontentsline{toc}{section}{\bfseries LIST OF FIGURES} % Add list of figures to table of contents
+ \listoffigures % Generate list of figures
+\end{onehalfspacing} % End line spacing adjustment
+
+% Include Acronyms section
+\include{Acronyms/acronyms}
+
+% Start of main text with arabic page numbering
+\cleardoublepage
+\pagenumbering{arabic}
+
+% Include chapters
+\ausection
+\include{1/Chapter1}
+\include{2/Chapter2}
+\include{3/Chapter3}
+\include{4/Chapter4}
+\include{5/Chapter5}
+\include{Conclusion/conclusion}
+
+% Start a new page
+\cleardoublepage
+% Create a phantom section
+\phantomsection
+
+% \bibliographystyle{auapalike}
+\bibliographystyle{unsrt}
+\nocite{*} % This command includes all references even if they are not cited. You might want to remove it once references are cited in your document.
+\phantomsection
+
+% Add the references section to the table of contents
+\addcontentsline{toc}{chapter}{REFERENCES}
+\begin{spacing}{1} % Adjust spacing in the bibliography
+\bibliography{publication} % Include the bibliography file named "publication.bib"
+\end{spacing}
+
+% Start a new page
+\newpage
+\clearpage
+
+% Add new pages to the table of contents, list of tables, and list of figures
+\addtocontents{toc}{\protect\newpage}
+\addtocontents{lot}{\protect\newpage}
+\addtocontents{lof}{\protect\newpage}
+
+% End of the document
+\end{document} 
